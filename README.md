@@ -6,6 +6,8 @@
 
 Um projeto de tradução do jogo [Celeste][celeste-game] para Português de Portugal.
 
+Uma tradução livre com base na versão original inglesa, com algum (pouco) apoio da tradução brasileira.
+
 ## Como Instalar
 
 A engine do Celeste deteta automaticamente novos ficheiros de linguagem e estes são integrados perfeitamente junto as línguas já existentes, pelo que nenhum ficheiro precisa de ser alterado ou substituído, apenas adicionado.
