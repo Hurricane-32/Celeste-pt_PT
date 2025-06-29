@@ -37,3 +37,5 @@ A engine do Celeste deteta automaticamente novos ficheiros de linguagem e estes 
 ![](https://github.com/Hurricane-32/Celeste-pt_PT/blob/main/Screenshots/20250629175428_1.jpg)
 
 ![](https://github.com/Hurricane-32/Celeste-pt_PT/blob/main/Screenshots/20250629175632_1.jpg)
+
+![](https://github.com/Hurricane-32/Celeste-pt_PT/blob/main/Screenshots/20250629195128_1.jpg)
