@@ -1,4 +1,7 @@
-﻿# NOTES:
+﻿########################################################################################################
+# Traduzido por Hurricane_32, com base no inglês, e alguma (pouca) assistência da tradução brasileira. #
+########################################################################################################
+# NOTES:
 # The # Symbol at the start of a line counts as a Comment. To include in dialog, use a \#
 # The . Symbol will cause a pause unless escaped with \. (ex: Mr. Oshiro has a pause, Mr\. Oshiro does not)
 # Newlines automatically create a Page Break, unless there is an {n} command on the previous line
@@ -22,6 +25,7 @@
 	LANGUAGE=portuguese,Português Portugal
 	ICON=Icons/portugal-portuguese.png
 	ORDER=11
+### O valor 11 na opção acima faz com que a opção de pt_PT apareça por debaixo da tradução brasileira (10) no menu do jogo.
 
 # Font (Face, Base Size)
 # Use BMFONT to generate the .fnt and image files
@@ -516,7 +520,7 @@
 		{0.5}...{0.2}
 
 		[MADELINE right angry]
-		Bem, se uma velha como {~}a senhora{/~} consegue{n}sobreviver aqui, então acho que vou ficar bem.
+		Bem, se uma cota como {~}a senhora{/~} consegue{n}sobreviver aqui, então acho que vou ficar bem.
 
 		{trigger 4 Stop laughing}
 
@@ -1785,7 +1789,7 @@
 		[OSHIRO left lostcontrol]
 		Patético!?
 		Só vieste cá para me envergonhar...
-		Já não te vou venerar nem por mais um segundo!
+		Não vou rastejar aos teus pés nem por mais um segundo!
 
 	CH3_OSHIRO_CHASE_END=
 		{anchor top}
@@ -1815,330 +1819,330 @@
 
 	CH4_GRANNY_1=
 		[MADELINE left upset]
-		Oh great, you again.
+		Ah boa. A senhora outra vez.
 
 		{trigger 3 zoom in}
 		
 		[GRANNY right normal]
-		Well well, I didn't expect to see you up here!
-		I'm glad you're still in one piece.
-		I see you made it through the hotel,{n}did you meet {+mroshiro}?
+		Bem bem. Não esperava ver-te aqui em cima!
+		Fico contente por saber que ainda estás inteira.
+		Vejo que conseguiste passar pelo hotel,{n}conheceste o {+mroshiro}?
 
 		{trigger 4 maddy turns around}
 		
 		[MADELINE left upset flip]
-		Oh, I met him alright.
-		He chased me out of there.
-		After I cleaned up a bunch of junk for him.
+		Oh sim, conheci-o.
+		Ele expulsou-me de lá.
+		Depois de limpar um monte de tralha por ele.
 
 		{trigger 0 Start Laughing}
 		
 		[GRANNY right laugh]
-		Oh ho ho, that sounds like a fun morning.
+		Oh ho ho, parece ter sido uma manhã divertida.
 
 		{trigger 1 Stop Laughing}
 		
 		[GRANNY right normal]
-		{+oshiro} is a lost soul, dear.
-		That place is much more than just a hotel to him.
-		Don't make him your project.
+		O {+oshiro} é uma alma perdida, querida.
+		Aquele lugar é mais do que um simples hotel para ele.
+		Não faças dele um projeto teu.
 
 		{trigger 5 maddy approaches}
 		
 		[MADELINE left angry]
-		You know what I think?
-		I think this {+mountain} drove both of you crazy.
+		Sabe o que é que eu acho?
+		Acho que esta {+mountain} vos tornou malucos aos dois.
 
 		{trigger 2 Wait a beat}
 		
 		[GRANNY right normal]
-		Y'know, you're not the first person to say that.
+		Sabes, não és a primeira pessoa a dizer isso.
 
 		{trigger 0 Start Laughing}
 		
 		[GRANNY right laugh]
-		Maybe you're right.
-		How would I know if I were crazy?
+		Talvez tenhas razão.
+		Como é que eu saberia se eu fosse maluca?
 
 		{trigger 1 Stop Laughing}
 		
 		[GRANNY right normal]
-		The way I see it, the {+mountain} can't{n}bring out anything that isn't already in you.
+		A meu ver, a {+mountain} não consegue puxar{n}para fora nada que já não esteja dentro de ti.
 
 		{trigger 0 Start Laughing}
 		
 		[GRANNY right laugh]
-		But you gotta be a few crows short of a murder{n}to live up here in the first place, right?
+		Mas uma pessoa tem de já ter alguns neurónios a menos para morar aqui em cima em primeiro lugar, não é?
 
 		{trigger 2 Wait a beat}
 		
 		[MADELINE left upset]
-		What are you even talking about?
+		Do que é que está sequer a falar?
 
 		{trigger 1 Stop Laughing}
 		
 		[GRANNY right mock]
-		Oh, I'm just rambling like the old bat I am.
+		Ah, estou só a divagar como a cota que sou.
 
 		[GRANNY right normal]
-		Are you ready to give up?{n}I know a shortcut back to your car.
+		Estás pronta para desistir?{n}Conheço um atalho de volta para o teu carro.
 
 		{trigger 6 Maddy walks past granny}
 		 
 		[MADELINE right upset flip]
-		Back off, lady.
-		I'm heading for the summit.
+		Saia da minha frente, senhora.
+		Vou em direção ao cume.
 		
 		[GRANNY left normal flip]
-		Sometimes it's hard to tell the difference{n}between stubbornness and determination, isn't it?
-		You remind me of myself when I was young.
+		Ás vezes é difícil perceber a diferença entre{n}a teimosia e a determinação, não é?
+		Fazes-me lembrar de quando eu era mais jovem.
 
 		{trigger 0 Start Laughing}
 
 		[GRANNY left laugh flip]
-		Good luck, and mind the wind!
+		Boa sorte, e cuidado com o vento!
 
 	CH4_GRANNY_2=
 		[MADELINE left upset]
-		You don't get many visitors up here, do you?
+		Não recebe muitos visitantes aqui em cima, pois não?
 
 		[GRANNY right normal]
-		No, I can't say I do.
-		I don't mind the solitude, though.
+		Não, não diria que recebo.
+		No entanto não me importo com a solidão.
 
 		[MADELINE left distracted]
-		Sometimes I think I should live in solitude too.
+		Às vezes também penso que eu devia viver na solidão.
 
 		[MADELINE left sad]
-		I really tried to get through to {+mroshiro}.{n}I wanted to help him.
+		Eu tentei mesmo dar a volta ao {+mroshiro}.{n}Tentei ajudá-lo.
 
 		[GRANNY right normal]
-		{+OSHIRO} needs to move on from that hotel.
-		But it's not going to happen on your schedule.
-		And it doesn't help that you've got something to prove.
+		O {+OSHIRO} precisa de largar aquele hotel.
+		Mas isso não vai acontecer no teu tempo.
+		E não ajuda nada que tenhas algo para provar.
 
 		[MADELINE left distracted]
 		...
 
 	CH4_GRANNY_3=
 		[MADELINE left sad]
-		Don't you get lonely in that little cabin?
+		Não se sente sozinha nessa cabana pequena?
 
 		[GRANNY right normal]
-		I have friends, dear.
+		Eu tenho amigos, querida.
 
 		[GRANNY right mock]
-		I may be crazy, but I'm not a hermit.
+		Posso ser maluca, mas não sou uma eremita.
 
 		[MADELINE left distracted]
-		Sorry.
-		I didn't mean to assume.
+		Desculpe.
+		Não foi a minha intenção assumir.
 
 		[GRANNY right normal]
-		When I was younger I couldn't imagine{n}staying in one place for this long.
-		But then I found this {+MOUNTAIN}.
-		I knew right away that it would be my home.
+		Quando era mais nova nem podia imaginar{n}ficar no mesmo sítio por tanto tempo.
+		Mas depois encontrei esta {+MOUNTAIN}.
+		Percebi logo aí que iria ser a minha casa.
 
 		[MADELINE left sad]
-		What's so special about it?
+		O que tem de tão especial?
 
 		[GRANNY right normal]
-		The {+MOUNTAIN} shows you who you really are.
-		Whether you're ready for it or not.
-		It keeps me honest.
+		A {+MOUNTAIN} revela aquilo que verdadeiramente és.
+		Quer estejas pronta para aceitar isso ou não.
+		Mantém-me honesta.
 
 	CH4_GONDOLA=
 		{anchor top}
 		[UNKNOWN]
-		{+MADELINE}! Wait up!
+		{+MADELINE}! Espera aí!
 
 		{trigger 0 Enter Theo from above, he falls and lands on the ground face-down}
 		
 		[THEO left nailedit]
-		{%}{*}N a i l e d    i t .{/*}{/%}
+		{%}{*}M e s m o    n a    m o u c h e.{/*}{/%}
 
 		{trigger 1 Check on Theo}
 		
 		[MADELINE right sad]
-		{+theo}! Are you alright?
+		{+theo}! Estás bem?
 		
 		[THEO left nailedit]
-		Oof. Yeah. 
-		Just give me a sec.
+		Oof. Sim.
+		Só um segundo.
 
 		{trigger 2 Theo gets up}
 		
 		[THEO left excited]
-		A gondola! I've always wanted to ride one of these.
+		Um teleférico! Sempre quis andar num destes.
 		
 		[MADELINE right sad]
-		It looks pretty old, but maybe it still works.
+		Parece ser bem velho, mas pode ser que ainda funcione.
 		
 		[MADELINE right distracted]
-		I don't see any other way to cross this chasm.
+		Não vejo outra maneira de passar este abismo.
 		
 		[THEO left excited]
-		Let's do it!
+		Bora lá!
 
 		{trigger 3 Look at Lever}
 		
 		[THEO right normal]
-		This lever looks important.
+		Esta alavanca parece ser importante.
 
 		{trigger 4 Pull Lever}
 		
 		[THEO right normal]
-		Easy every time.
+		É canja.
 
 		[THEO right thinking]
-		I was probably a gondola operator in a past life.
+		Se calhar fui um operador de{n}teleférico numa vida anterior.
 
 		[MADELINE left distracted]
-		Do you think this thing is safe?
+		Achas que esta coisa é segura?
 
 		[THEO right normal]
-		I'm sure it's fine.
+		De certeza que é tranquilo.
 
 		{trigger 5 Wait a bit}
 
 		[THEO right normal]
-		How'd it shake out with {+oshiro}?
+		Como é que correram as coisas com o {+oshiro}?
 
 		[MADELINE left sad]
-		You were right.
+		Tinhas razão.
 
 		[MADELINE left distracted]
-		I shouldn't have tried to help him.
+		Não devia ter tentado ajudá-lo.
 
 		[THEO right thinking]
-		I hate to say I told you so, but...
+		Detesto dizer que eu avisei-te, mas...
 
 		[MADELINE left upset]
-		Yeah yeah...
-		I should've listened to you.
+		Sim sim...
+		Devia ter-te dado ouvidos.
 
 		[THEO right normal]
-		You didn't get hurt, that's what matters.
+		Não te magoaste, é o que interessa.
 		
 		{trigger 5 Wait a bit}
 		
 		[MADELINE left sad]
-		The air is so thin up here.
+		O ar é tão rarefeito cá em cima.
 
 		[MADELINE left distracted]
-		I can barely breathe.
+		Mal consigo respirar.
 
 		{trigger 6 Wait for gondola to reach center}
 		
 		[THEO right excited flip]
-		Okay, if we don't get a selfie on{n}this thing we're going to regret it.
+		Certo, se não tirarmos uma selfie nesta{n}coisa vamos arrepender-nos.
 
 		[MADELINE left distracted flip]
-		I can't even see the ground through the mist...
-		How high up are we?
+		Nem consigo ver o chão pela neblina...
+		A que altura estamos?
 
 		[THEO right thinking flip]
-		Less panicking, more posing.
+		Menos pânico, mais pose.
 
 		{trigger 7 Seflie, then gondola stalls out and badeline appears}
 		{anchor bottom}
 		
 		[MADELINE left surprised]
-		What was that?
+		O que é que foi isto?
 		
 		[THEO right wtf flip]
-		Huh. Looks like we stalled out.
+		Hm. Acho que ficámos presos.
 
 		{trigger 8 Madeline moves left}
 		
 		[MADELINE left sad]
-		This is really bad...
+		Isto é muito mau...
 
 		[THEO right wtf]
-		Maybe if I...
+		Se calhar se eu...
 
 		{trigger 9 lever snaps off}
 		
 		[THEO right worried]
-		Well, that's not good.
+		Bem, isto não é bom.
 
 		{trigger 10 tentacles appear}
 		
 		[MADELINE left panic]
-		No, this really isn't good.
+		Não, isto não é mesmo nada bom.
 
 		{trigger 11 tentacles grow}
 		
 		[THEO right worried]
-		{+MADELINE}, you cool?
+		{+MADELINE}, estás fixe?
 
 		[MADELINE left panic]
-		Yeah... I just...
+		Sim... É só que...
 
 		{trigger 12 Maddy can't breathe}
 
 		[MADELINE left panic]
-		No, I'm not cool.
-		I can't breathe.
+		Não, eu não estou fixe.
+		Não consigo respirar.
 		
 		[THEO right serious]
-		You're having a panic attack.
+		Estás a ter um ataque de pânico.
 
 		[MADELINE left angry]
-		Why would you think it's a good{n}idea to ride this stupid thing?
+		Porque é que achaste que era boa{n}ideia andar nesta porcaria?
 
 		[THEO right thinking]
-		Come on, don't take this out on me.
+		Vá lá, não descarregues para cima de mim.
 
 		[THEO right serious]
-		Stay with me here.
-		My grandpa taught me a trick for this.
-		Close your eyes.
+		Fica comigo.
+		O meu avô ensinou-me um truque para isto.
+		Fecha os olhos.
 
 		{trigger 13 Play breathing minigame}
 		
 		[THEO right normal]
-		See? Easy every time.
+		Viste? É canja.
 
 		{trigger 14 Gondola continues to the end station}
 
 		{anchor top}
 		
 		[THEO left normal]
-		Feeling any better?
+		Sentes-te melhor?
 		
 		[MADELINE right distracted flip]
-		I think so. Thanks for helping me calm down.
+		Acho que sim. Obrigado por me ajudares a acalmar.
 
 		{trigger 15 Wait a bit}
 		
 		[MADELINE right sad flip]
-		How did you know we'd start moving again?
+		Como é que sabias que íamos começar a andar de novo?
 		
 		[THEO left normal]
-		Oh, I totally thought we were done for.
+		Ah, eu pensei que estávamos feitos ao bife.
 
 		{trigger 16 Theo takes out phone}
 		
 		[THEO left excited]
-		Oh. My. God.
+		Oh. Meu. Deus.
 		{silent_trigger 17 Maddy faces theo}
-		Look at this selfie though!
+		Olha só esta selfie!
 
 	CH4_GONDOLA_FEATHER_1=
-		Picture a feather floating in front of you.
+		Imagina uma pena a flutuar à tua frente.
 
 	CH4_GONDOLA_FEATHER_2=
-		See it?
+		Consegues ver?
 
 	CH4_GONDOLA_FEATHER_3=
-		Okay.
+		Certo.
 	
 	CH4_GONDOLA_FEATHER_4=	
-		Your breathing keeps that feather floating.
+		A tua respiração mantém a pena a flutuar.
 
 	CH4_GONDOLA_FEATHER_5=
-		Just breathe slow and steady, in and out.
+		Respira de forma calma, inspira e expira.
 
 # *** Chapter 05 ***
 
