@@ -548,163 +548,164 @@
 
 	CH1_THEO_A=
 		[THEO left normal]
-		Ho there, fellow traveller!
+		Boas, cara viajante!
 
 		[MADELINE right distracted]
-		Oh... hi.
+		Ah... olá.
 
 		{trigger 0 Madeline approaches}
 		
 		[THEO left normal]
-		What a killer night for a hike!
+		Que noite brutal para uma caminhada!
 
 		[MADELINE right distracted]
-		I guess so.
+		Acho que sim.
 
 		[THEO left normal]
+		Este sítio é uma loucura.
 		This place is so crazy. 
 
 		[THEO left excited]
-		I kind of can't believe it exists!
+		Mal acredito que existe!
 
 		[MADELINE right sad]
-		Not the easiest climb, is it?
+		Não é a uma escalada fácil, pois não?
 
 		[MADELINE right distracted]
-		But I guess that's what I was looking for...
+		Mas acho que era isto que eu estava à procura...
 		
 		[THEO left normal]
-		Whoa, that sounds pretty serious.
-		I'm just happy to see another{n}human in such a lonely place.
+		Uau, isso parece bastante sério.
+		Mas estou contente por ver outro{n}ser humano num lugar tão isolado.
 
 		[THEO left excited]
-		I'm {+ theo} by the way, an adventurer from a {>> 0.3}{~}far off land!{/~}{>>}
+		Chamo-me {+ theo}, já agora, um aventureiro de uma {>> 0.3}{~}terra longínqua!{/~}{>>}
 		
 		[MADELINE right sad]
 		...{0.2}
 
 		[THEO left thinking]
-		Not much of a talker, are you?
+		És muito calada, não és?
 
 		[THEO left normal]
-		Mysterious lone wolf type, I get it.{n}I'll just imagine some dark backstory for you.
+		És do tipo loba solitária, eu percebo.{n}Vou imaginar um passado sombrio para ti.
 
 	CH1_THEO_B=
 		[MADELINE right sad]
-		Hey, sorry. I'm {+MADELINE}.
-		I've got a lot on my mind.
+		Ah, desculpa. Eu sou a {+MADELINE}.
+		Ando com muita coisa na minha cabeça.
 
 		[THEO left normal]
-		Well, {+MADELINE}, I'd say you've come to the right place!
+		Bem, {+MADELINE}, eu diria que vieste ao sítio certo!
 
 		[THEO left thinking]
-		I'm freezing my toes off, but I can't imagine{n}a better place to be for some quiet reflection.
+		Estou congelado até às pontas dos dedos, mas não{n} consigo imaginar um sítio melhor para pensar na vida e refletir.
 		
 		[MADELINE right sad]
-		Yeah, maybe you're right.
+		Sim, acho que tens razão.
 
 		[MADELINE right normal]
-		What "{>> 0.5}{~}far off land{/~}{>>}" do you hail from?
+		De qual "{>> 0.5}{~}terra longínqua{/~}{>>}" é que vens?
 		
 		[THEO left excited]
-		Well, my inquisitive compatriot, I doth hail{n}from the {0.3}{~}mystical,{0.4} exotic{/~}{0.4} kingdom of...
+		Bem, minha compatriota curiosa, eu venho{n}do {0.3}{~}místico,{0.4} exótico{/~}{0.4} reino de...
 		
 		[THEO left normal]
 		{0.4} Seattle.
 
 		[MADELINE right normal]
-		It sounds like a special place.
+		Parece um lugar especial.
 
 	CH1_THEO_C=
 		[THEO left excited]
-		This place is wild!
+		Este sítio é uma loucura!
 
 		[THEO left normal]
-		Why would an entire city be abandoned?
+		Porque é que iriam deixar uma cidade inteira abandonada?
 		
 		[MADELINE right normal]
-		I read that some mega-corporation started{n}building it, but then no one wanted to live here.
+		Ouvi dizer que uma mega-empresa comeceu{n}a construí-la, mas depois ninguém queria morar aqui.
 
 		[MADELINE right distracted]
-		I wonder why...
+		Pergunto-me porque será...
 		
 		[THEO left excited]
-		My money's on a government cover-up.
+		Aposto que o governo está a esconder alguma coisa.
 
 		[MADELINE right distracted]
-		What a waste, to build all of this for no reason...
+		Que desperdício, construír isto tudo para nada...
 
 		[THEO left normal]
-		At least we get to enjoy the leftovers.
+		Pelo menos podemos desfrutar daquilo que resta.
 
 	CH1_THEO_D=
 		[MADELINE right normal]
-		Are you here to explore this city?
+		Vieste aqui para explorar a cidade?
 		
 		[THEO left normal]
-		Yeah, I have a thing for abandoned places.
+		Sim, tenho uma queda por sítios abandonados.
 		
 		[THEO left thinking]
-		And I like to think of myself{n}as a budding photographer.
+		E gosto de pensar que sou{n}um fotógrafo em desenvolvimento.
 		
 		[MADELINE right normal]
-		Oh really? Cool!
-		Do you have a blog or something?
+		A sério? Fixe!
+		Tens algum blog ou algo do género?
 		
 		[THEO left thinking]
-		A blog?
+		Um blog?
 		{+MADELINE}.
-		Everyone uses {# FFFF4C}InstaPix{#} now.
+		Hoje em dia toda a gente usa o {# FFFF4C}InstaPix{#}.
 		
 		[THEO left excited]
-		I'm {+THEO_UNDER_STARS}, look me up!
+		Eu sou o {+THEO_UNDER_STARS}, procura!
 
 	CH1_THEO_E=
 		[THEO left normal]
-		This terrain is pretty tricky,{n}are you turning back soon?
+		Este terreno é bastante complicado,{n}vais voltar para trás?
 		
 		[MADELINE right normal]
-		Nope. I'm heading for the summit.
+		Não. Vou para o cume.
 		
 		[THEO left excited]
-		I can really see the determination in your eyes!
+		Consigo ver a determinação nos teus olhos!
 
 		[THEO left normal]
-		It's inspiring.
+		É inspirador,
 
 		[MADELINE right distracted]
-		If you say so.
+		Se achas que sim.
 
 		[MADELINE right normal]
-		I bet you could make it to the summit too.
+		Aposto que também consegues chegar ao cume.
 
 		[THEO left normal]
-		Maybe. 
+		Se calhar.
 		
 		[THEO left thinking]
-		I don't really care about reaching the top, TBH.
+		Mas sinceramente não estou muito preocupado em chegar ao topo.
 
 		[THEO left normal]
-		{!}Oh!{/!} But I heard there are some {~}legit{/~}{n}old ruins up beyond the city.
+		{!}Ah!{/!} Mas ouvi dizer que há umas ruínas {~}brutais{/~}{n}para além da cidade.
 		
 		[THEO left excited]
-		Like 1800's legit. 
+		Do tipo, brutais de 1800.
 
 		[THEO left normal]
-		I know it's risky but I have to see them for myself.
+		Sei que é arrsicado mas preciso de as ver pelos meus próprios olhos.
 
 	CH1_THEO_F=
 		[THEO left normal]
-		What's that thing you say right before{n}you do something irresponsible?
+		Qual é aquela cena que se diz mesmo antes{n}de fazeres algo irresponsável?
 
 		[MADELINE right sad]
-		Uh... "throw caution to the wind?"
+		Hm... "atirar a cautela ao vento?"
 
 		[THEO left wtf]
-		No, that's not it.
+		Não, não é isso.
 
 		[THEO left excited]
-		Oh right...
+		Ah, pois é...
 
 		{trigger 0 Theo pumps his fist in the air}
 		
@@ -712,18 +713,18 @@
 		{big}{~}Y{>> 0.5}OLO{>> 0.2}OOOOOOOO!!{>>}{/~}{/big}
 
 	MEMORIAL=
-		-- CELESTE MOUNTAIN --
-		This memorial dedicated to those
-		Who perished on the climb
+		-- MONTANHA CELESTE --
+		Este memorial é dedicado àqueles
+		Que faleceram na escalada
 
 	CH1_END=
 		[MADELINE left distracted]
-		Ugh, I'm exhausted.
+		Ugh, estou exausta.
 
 		{trigger 0 MADELINE sits down to rest. A bird swoops in, lands on her head, and goes to sleep}
 		
 		[MADELINE left deadpan]
-		{>> 0.4}This might have been a mistake.
+		{>> 0.4}Acho que isto foi um erro.
 
 # *** Chapter 02 ***
 
