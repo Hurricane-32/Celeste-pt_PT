@@ -90,7 +90,7 @@
 	OPTIONS_DISABLE_FLASH=	Modo Fotossensível
 	OPTIONS_DISABLE_SHAKE=	Efeitos de Vibração do Ecrã
 
-	OPTIONS_AUDIO=			AUDIO
+	OPTIONS_AUDIO=			ÁUDIO
 	OPTIONS_MUSIC=			Musica
 	OPTIONS_SOUNDS=			Sons
 
@@ -126,57 +126,57 @@
 	KEY_CONFIG_DASH_ONLY=	APENAS PARA DASH
 
 # CONTROLLER CONFIG
-	BTN_CONFIG_TITLE=		Controller Config
-	BTN_CONFIG_INFO=		PRESS | TO ADD A BUTTON, | TO CLEAR BUTTONS
-	BTN_CONFIG_CHANGING=	PRESS BUTTON TO ADD FOR
-	BTN_CONFIG_NOCONTROLLER=Please Attach a Controller
+	BTN_CONFIG_TITLE=		Configuração do Comando
+	BTN_CONFIG_INFO=		CARREGA | PARA ADICIONAR UM BOTÃO, | PARA LIMPAR BOTÕES
+	BTN_CONFIG_CHANGING=	CARREGA NO BOTÃO PARA ADICIONAR A
+	BTN_CONFIG_NOCONTROLLER=Por Favor Liga Um Comando
 
 # ADDITIONAL OPTIONS FOR V1.4.0.0
-	KEY_CONFIG_DEMO=		Crouch Dash
-	KEY_CONFIG_ADVANCED=	ADVANCED
-	KEY_CONFIG_MENU_NOTICE= EACH ACTION REQUIRES 1 UNIQUE BIND
+	KEY_CONFIG_DEMO=		Dash Agachado
+	KEY_CONFIG_ADVANCED=	AVANÇADO
+	KEY_CONFIG_MENU_NOTICE= CADA AÇÃO PRECISA DE UM VÍNCULO ÚNICO
 
 # PICO-8
-	PICO8_UNLOCKED=			Now playable from the Main Menu
-	PICO8_PAUSE_TITLE=		PAUSED
-	PICO8_PAUSE_CONTINUE=	Resume
-	PICO8_PAUSE_RESTART=	Reset PICO-8
-	PICO8_PAUSE_QUIT=		Exit PICO-8
+	PICO8_UNLOCKED=			Agora pode ser jogado a partir do Menu Principal
+	PICO8_PAUSE_TITLE=		PAUSA
+	PICO8_PAUSE_CONTINUE=	Continuar
+	PICO8_PAUSE_RESTART=	Reiniciar PICO-8
+	PICO8_PAUSE_QUIT=		Sair do PICO-8
 
 # FILE MENU
 	FILE_DEFAULT=		Madeline
-	FILE_CORRUPTED=		Corrupted :(
-	FILE_FAILEDTOLOAD=	Failed to Load
-	FILE_NEWGAME=		Start New Game!
-	FILE_CONTINUE=		Continue
-	FILE_DELETE=		Delete
-	FILE_BEGIN=			Begin
-	FILE_ASSIST_OFF=	Assist Mode : OFF
-	FILE_ASSIST_ON=		Assist Mode : ON
-	FILE_VARIANT_OFF=	Variant Mode : OFF
-	FILE_VARIANT_ON=	Variant Mode : ON
-	FILE_RENAME=		Rename
-	FILE_DELETE_REALLY=	Are you sure?
-	FILE_DELETE_NO=		Cancel
-	FILE_DELETE_YES=	Delete
-	FILE_DELETE_FAILED=	Failed to Delete File!
+	FILE_CORRUPTED=		Corrompido :(
+	FILE_FAILEDTOLOAD=	Erro ao Carregar
+	FILE_NEWGAME=		Começar Um Jogo Novo!
+	FILE_CONTINUE=		Continuar
+	FILE_DELETE=		Apagar
+	FILE_BEGIN=			Começar
+	FILE_ASSIST_OFF=	Modo de Assistência : NÃO
+	FILE_ASSIST_ON=		Modo de Assistência : SIM
+	FILE_VARIANT_OFF=	Modo Variável : NÃO
+	FILE_VARIANT_ON=	Modo Variável : SIM
+	FILE_RENAME=		Mudar o Nome
+	FILE_DELETE_REALLY=	Tens a Certeza?
+	FILE_DELETE_NO=		Cancelar
+	FILE_DELETE_YES=	Apagar
+	FILE_DELETE_FAILED=	Erro ao Apagar Ficheiro!
 
 # Assist Mode
 	ASSIST_MODE_0=
-		{# 44adf7}Assist Mode{#} allows you to modify{n}
-		the game's rules to fit your specific needs.		
+		O {# 44adf7}Modo de Assistência{#} permite que mudes{n}
+		as regras do jogo consoante as tuas necessidades.
 	ASSIST_MODE_1=
-		This includes options such as slowing the game speed,{n}
-		granting yourself invincibility or infinite stamina,{n}
-		and skipping chapters entirely.
+		Isto inclui opções como abrandar a velocidade do jogo,{n}
+		tornar-te invencível ou dar-te energia infinita,{n}
+		e saltar capítulos inteiros.
 	ASSIST_MODE_2=
-		Celeste is intended to be a challenging and rewarding experience.{n}
-		If the default game proves inaccessible to you, we hope that{n} 
-		you can still find that experience with {# 44adf7}Assist Mode{#}.
-	ASSIST_ASK=		Would you like to play with {# 44adf7}Assist Mode{#}?
-	ASSIST_YES=		Yes
-	ASSIST_NO=		No
-	ASSIST_SKIP=	Assist{n}Skip
+		O Celeste foi desenhado para ser uma experiência desafiante.{n}
+		Se o jogo provar ser inacessível para ti, esperemos que consigas{n}
+		ter essa experiência na mesma com o {# 44adf7}Modo de Assistência{#}
+	ASSIST_ASK=		Queres jogar com o {# 44adf7}Modo de Assistência{#}?
+	ASSIST_YES=		Sim
+	ASSIST_NO=		Não
+	ASSIST_SKIP=	Assistência{n}Saltar
 
 # File Naming
 	NAME_LETTERS=
@@ -186,71 +186,70 @@
 		1234567890+=:~!@$%
 		^&*_-#"'()<>/\.,|`
 
-	NAME_SPACE=			space
-	NAME_BACKSPACE=		backspace
-	NAME_ACCEPT=		ACCEPT
-	NAME_BACK=			CANCEL
+	NAME_SPACE=			espaço
+	NAME_BACKSPACE=		retroceder
+	NAME_ACCEPT=		ACEITAR
+	NAME_BACK=			CANCELAR
 
 # Xbox One Stuff
-	XB1_MENU_SWITCH_PROFILE=	Switch Profile
-	XB1_SIGN_OUT_MESSAGE=		A sign-in change has occured. Please sign back in or exit to the title screen.
-	XB1_SIGN_IN=				Sign-in
-	XB1_RECONNECT_CONTROLLER=	Please reconnect your controller to continue.
+	XB1_MENU_SWITCH_PROFILE=	Alterar Perfil
+	XB1_SIGN_OUT_MESSAGE=		Uma mudança de início de sessão ocorreu. Por favor inicia sessão de novo ou sai para o menu principal.
+	XB1_SIGN_IN=				Iniciar Sessão
+	XB1_RECONNECT_CONTROLLER=	Por favor liga o comando de novo para continuar.
 
 # Intro Vignette
-	INTRO_VIGNETTE_RESUME=	Continue
-	INTRO_VIGNETTE_SKIP=	Skip
-	INTRO_VIGNETTE_QUIT=	Quit
+	INTRO_VIGNETTE_RESUME=	Continuar
+	INTRO_VIGNETTE_SKIP=	Saltar
+	INTRO_VIGNETTE_QUIT=	Sair
 
 # Overworld
-	OVERWORLD_START=			Start
-	OVERWORLD_NORMAL=			CLIMB
-	OVERWORLD_INTERLUDE=		BEGIN
-	OVERWORLD_REMIX=			B-SIDE
-	OVERWORLD_REMIX2=			C-SIDE
-	OVERWORLD_REMIX_UNLOCKED=	B-Side Unlocked!
-	OVERWORLD_REMIX_UNLOCKED2=	C-Side Unlocked!
+	OVERWORLD_START=			Iniciar
+	OVERWORLD_NORMAL=			ESCALAR
+	OVERWORLD_INTERLUDE=		COMEÇAR
+	OVERWORLD_REMIX=			LADO B
+	OVERWORLD_REMIX2=			LADO C
+	OVERWORLD_REMIX_UNLOCKED=	Lado B desbloqueado!
+	OVERWORLD_REMIX_UNLOCKED2=	Lado C desbloqueado!
 
 # Chapter Titles
-	AREA_CHAPTER=	Chapter {x}
-	AREA_0=			Prologue
-	AREA_1=			Forsaken City
-	AREA_2=			Old Site
-	AREA_3=			Celestial Resort
-	AREA_4=			Golden Ridge
-	AREA_5=			Mirror Temple
-	AREA_6=			Reflection
-	AREA_7=			The Summit
-	AREA_8=			Epilogue
-	AREA_9=			Core
-	AREA_10=		Farewell
+	AREA_CHAPTER=	Capítulo {x}
+	AREA_0=			Prólogo
+	AREA_1=			Cidade Abandonada
+	AREA_2=			Terreno Antigo
+	AREA_3=			Resort Celestial
+	AREA_4=			Cordilheira Dourada
+	AREA_5=			Templo do Espelho
+	AREA_6=			Reflexão
+	AREA_7=			O Cume
+	AREA_8=			Epílogo
+	AREA_9=			Núcleo
+	AREA_10=		Adeus
 
 # Checkpoints
-	CHECKPOINT_1_0=		Crossing
-	CHECKPOINT_1_1=		Chasm
+	CHECKPOINT_1_0=		Travessia
+	CHECKPOINT_1_1=		Abismo
 
-	CHECKPOINT_2_0=		Intervention
-	CHECKPOINT_2_1=		Awake
+	CHECKPOINT_2_0=		Intervenção
+	CHECKPOINT_2_1=		Acordada
 
-	CHECKPOINT_3_0=		Huge Mess
-	CHECKPOINT_3_1=		Elevator Shaft
-	CHECKPOINT_3_2=		Presidential Suite
+	CHECKPOINT_3_0=		Grande Confusão
+	CHECKPOINT_3_1=		Poço do Elevador
+	CHECKPOINT_3_2=		Suite Presidencial
 
-	CHECKPOINT_4_0=		Shrine
-	CHECKPOINT_4_1=		Old Trail
-	CHECKPOINT_4_2=		Cliff Face
+	CHECKPOINT_4_0=		Templo
+	CHECKPOINT_4_1=		Trilho Antigo
+	CHECKPOINT_4_2=		Face do Penhasco
 
-	CHECKPOINT_5_0=		Depths
-	CHECKPOINT_5_1=		Unravelling
-	CHECKPOINT_5_2=		Search
-	CHECKPOINT_5_3=		Rescue
+	CHECKPOINT_5_0=		Profundezas
+	CHECKPOINT_5_1=		Revelações
+	CHECKPOINT_5_2=		Busca
+	CHECKPOINT_5_3=		Salvamento
 
-	CHECKPOINT_6_0=		Lake
-	CHECKPOINT_6_1=		Hollows
-	CHECKPOINT_6_2=		Reflection
-	CHECKPOINT_6_3=		Rock Bottom
-	CHECKPOINT_6_4=		Resolution
-
+	CHECKPOINT_6_0=		Lago
+	CHECKPOINT_6_1=		Ravina
+	CHECKPOINT_6_2=		Reflexo
+	CHECKPOINT_6_3=		Fundo
+	CHECKPOINT_6_4=		Resolução
 	CHECKPOINT_7_0=		500 M
 	CHECKPOINT_7_1=		1000 M
 	CHECKPOINT_7_2=		1500 M
@@ -258,126 +257,126 @@
 	CHECKPOINT_7_4=		2500 M
 	CHECKPOINT_7_5=		3000 M
 
-	CHECKPOINT_8_0=		Into the Core
-	CHECKPOINT_8_1=		Hot and Cold
-	CHECKPOINT_8_2=		Heart of the Mountain
+	CHECKPOINT_8_0=		No Núcleo
+	CHECKPOINT_8_1=		Quente e Frio
+	CHECKPOINT_8_2=		Coração da Montanha
 
 	CHECKPOINT_9_0=		Singular
-	CHECKPOINT_9_1=		Power Source
-	CHECKPOINT_9_2=		Remembered
-	CHECKPOINT_9_3=		Event Horizon
-	CHECKPOINT_9_4=		Determination
-	CHECKPOINT_9_5=		Stubbornness
-	CHECKPOINT_9_6=		Reconciliation
-	CHECKPOINT_9_7=		Farewell
+	CHECKPOINT_9_1=		Fonte de Energia
+	CHECKPOINT_9_2=		Relembrado
+	CHECKPOINT_9_3=		Horizonte de Eventos
+	CHECKPOINT_9_4=		Determinação
+	CHECKPOINT_9_5=		Teimosia
+	CHECKPOINT_9_6=		Reconciliação
+	CHECKPOINT_9_7=		Adeus
 
-# B-Side Checkpoints
-	CHECKPOINT_1H_0=	Contraption
-	CHECKPOINT_1H_1=	Scrap Pit
+	# B-Side Checkpoints
+	CHECKPOINT_1H_0=	Engenhoca
+	CHECKPOINT_1H_1=	Poço de Sucata
 
-	CHECKPOINT_2H_0=	Combination Lock
-	CHECKPOINT_2H_1=	Dream Altar
+	CHECKPOINT_2H_0=	Cadeado com Segredo
+	CHECKPOINT_2H_1=	Altar dos Sonhos
 
-	CHECKPOINT_3H_0=	Staff Quarters
-	CHECKPOINT_3H_1=	Library
-	CHECKPOINT_3H_2=	Rooftop
+	CHECKPOINT_3H_0=	Alojamento
+	CHECKPOINT_3H_1=	Biblioteca
+	CHECKPOINT_3H_2=	Telhado
 
-	CHECKPOINT_4H_0=	Stepping Stones
-	CHECKPOINT_4H_1=	Gusty Canyon
-	CHECKPOINT_4H_2=	Eye of the Storm
+	CHECKPOINT_4H_0=	Ladrilhos
+	CHECKPOINT_4H_1=	Desfiladeiro Tempestuoso
+	CHECKPOINT_4H_2=	Olho da Tempestade
 
-	CHECKPOINT_5H_0=	Central Chamber
-	CHECKPOINT_5H_1=	Through the Mirror
-	CHECKPOINT_5H_2=	Mix Master
+	CHECKPOINT_5H_0=	Câmara Central
+	CHECKPOINT_5H_1=	Através do Espelho
+	CHECKPOINT_5H_2=	Mestre da Mistura
 
-	CHECKPOINT_6H_0=	Reflection
-	CHECKPOINT_6H_1=	Rock Bottom
-	CHECKPOINT_6H_2=	Reprieve
+	CHECKPOINT_6H_0=	Reflexo
+	CHECKPOINT_6H_1=	Fundo do Poço
+	CHECKPOINT_6H_2=	Adiamento
 
-	CHECKPOINT_7H_0=	500 M
-	CHECKPOINT_7H_1=	1000 M
-	CHECKPOINT_7H_2=	1500 M
-	CHECKPOINT_7H_3=	2000 M
-	CHECKPOINT_7H_4=	2500 M
-	CHECKPOINT_7H_5=	3000 M
+	CHECKPOINT_7H_0=	500 m
+	CHECKPOINT_7H_1=	1000 m
+	CHECKPOINT_7H_2=	1500 m
+	CHECKPOINT_7H_3=	2000 m
+	CHECKPOINT_7H_4=	2500 m
+	CHECKPOINT_7H_5=	3000 m
 
-	CHECKPOINT_8H_0=	Into the Core
-	CHECKPOINT_8H_1=	Burning or Freezing
-	CHECKPOINT_8H_2=	Heartbeat
+	CHECKPOINT_8H_0=	No núcleo
+	CHECKPOINT_8H_1=	Queimar ou Congelar
+	CHECKPOINT_8H_2=	Ataque Cardíaco
 
 # Postcards
 	POSTCARD_AREA_1=
-		Select {#ff1144}Save and Quit{#} from the pause menu at any time to take a break. You'll resume from the same screen and you won't lose any progress!
+		Seleciona {#ff1144}Guardar e Sair{#} no menu pausa a qualquer altura para fazer um intervalo. Irás recomeçar no mesmo ecrã e não perdes nenhum progresso!
 
 	POSTCARD_AREA_2=
-		{#ff1144}Strawberries{#} will impress your friends, but that's about it. Only collect them if you really want to!
+		Os {#ff1144}Morangos{#} vão impressionar os teus amigos, mas é só isso que fazem. Só os coleciones se quiseres mesmo!
 
 	POSTCARD_AREA_3=
-		Be proud of your {#ff1144}Death Count{#}!{n}The more you die, the more you're learning.{n}Keep going!
+		Tem orgulho pela tua {#ff1144}Contagem de Mortes{#}!{n}Quanto mais vezes morreres, mais aprendes.{n}Continua assim!
 
 	POSTCARD_AREA_4=
-		{# F94A4A}Climbing Tip!{#}{n}Low on energy in a pinch?{n}{n}Jumping away from walls{n}doesn't consume stamina!
+		{# F94A4A}Dica de Escalada!{#}{n}Estás a ficar sem forças?{n}{n}Saltar das paredes{n}não consome energia!
 
 	POSTCARD_AREA_5=
-		{# F94A4A}Did You Know?{#}{n}Most climbing mishaps{n}occur due to exhaustion.{n}{n}Remember to take regular breaks!
+		{# F94A4A}Sabias Que:{#}{n}Maior parte dos acidentes de escalada{n}acontecem por causa da exaustão.{n}{n}Lembra-te de fazer pausas regulares!
 
 	POSTCARD_AREA_6=
-		{# F94A4A}Did You Know?{#}{n}{n}It is impossible to{n}outrun your own reflection.
+		{# F94A4A}Sabias Que:{#}{n}{n}É impossível{n}fugires ao teu próprio reflexo.
 
 	POSTCARD_CSIDES=
-		Ready for a real challenge?{n}{n}{# F94A4A}C-Sides{#} have been unlocked, and{n}{# dbb63f}Golden Strawberries{#} have appeared{n}at the start of every chapter!{n}{n}Good luck, {+MADELINE}!
+		Pronto para um desafio a sério?{n}{n}{# F94A4A}Lados C{#} foram desbloqueados, e{n}{# dbb63f}Morangos Dourados{#} apareceram{n} ao início de cada capítulo!{n}{n}Boa sorte, {+MADELINE}!
 
 	POSTCARD_VARIANTS=
-		Wow, you did it!{n}{n}{# 9B3FB5}Variants{#} are now accessible from the File Select Menu.
+		Uau, conseguiste!{n}{n}{# 9B3FB5}Variantes{#} estão agora acessíveis a partir do Menu de Selecionar Ficheiro.
 
 # Journal
 	JOURNAL_OF=
-	JOURNAL_PROGRESS=				PROGRESS
-	JOURNAL_SPEEDRUNS=				RECORDS:{n}SPEEDRUNS
-	JOURNAL_DASHES=					RECORDS:{n}FEWEST DASHES
-	JOURNAL_DEATHS=					RECORDS:{n}FEWEST DEATHS
-	JOURNAL_POEM=					CRYSTAL HEARTS
-	JOURNAL_MODE_NORMAL=			CLEAR
-	JOURNAL_MODE_NORMAL_FULLCLEAR=	FULL CLEAR
-	JOURNAL_MODE_BSIDE=				B-SIDE
-	JOURNAL_MODE_CSIDE=				C-SIDE
-	JOURNAL_TOTALS=					TOTALS
-	JOURNAL_GRANDTOTAL=				GRAND TOTAL
+	JOURNAL_PROGRESS=				PROGRESSSO
+	JOURNAL_SPEEDRUNS=				RECORDES:{n}SPEEDRUNS
+	JOURNAL_DASHES=					RECORDES:{n}MENOR Nº DASHES
+	JOURNAL_DEATHS=					RECORDES:{n}MENOR Nº DEATHS
+	JOURNAL_POEM=					CORAÇÕES DE CRISTAL
+	JOURNAL_MODE_NORMAL=			CONCLUÍDO
+	JOURNAL_MODE_NORMAL_FULLCLEAR=	CONCLUÍDO POR COMPLETO
+	JOURNAL_MODE_BSIDE=				LADO B
+	JOURNAL_MODE_CSIDE=				LADO C
+	JOURNAL_TOTALS=					TOTAIS
+	JOURNAL_GRANDTOTAL=				TOTAL GERAL
 
 # Stats
-	STATS_TITLE=			Global Steam Stats
-	STAT_BERRIES=			Strawberries
-	STAT_DEATHS=			Deaths
+	STATS_TITLE=			Estatísticas Globais da Steam
+	STAT_BERRIES=			Morangos
+	STAT_DEATHS=			Mortes
 	STAT_DASHES=			Dashes
-	STAT_GOLDBERRIES=		Golden Berries
-	STAT_PICO_BERRIES=		PICO-8 Strawberries
-	STAT_PICO_DEATHS=		PICO-8 Deaths
-	STAT_PICO_COMPLETES=	PICO-8 Completes
+	STAT_GOLDBERRIES=		Morangos Dourados
+	STAT_PICO_BERRIES=		Morangos do PICO-8
+	STAT_PICO_DEATHS=		Mortes do PICO-8
+	STAT_PICO_COMPLETES=	Conclusões do PICO-8
 
 # Saving / Loading Failed
-	SAVEFAILED_TITLE=	UNABLE TO SAVE
-	SAVEFAILED_RETRY=	Try Again
-	SAVEFAILED_IGNORE=	Continue Without Saving
-	LOADFAILED_TITLE=	UNABLE TO LOAD
-	LOADFAILED_GOBACK=	Go Back
-	LOADFAILED_IGNORE=	Continue Without Saving
+	SAVEFAILED_TITLE=	NÃO FOI POSSÍVEL GRAVAR
+	SAVEFAILED_RETRY=	Tenta de Novo
+	SAVEFAILED_IGNORE=	Continuar Sem Gravar
+	LOADFAILED_TITLE=	NÃO FOI POSSÍVEL CARREGAR
+	LOADFAILED_GOBACK=	Voltar Atrás
+	LOADFAILED_IGNORE=	Continuar Sem Gravar
 
 # Tutorial
-	TUTORIAL_CLIMB=		CLIMB
-	TUTORIAL_HOLD=		HOLD
+	TUTORIAL_CLIMB=		ESCALAR
+	TUTORIAL_HOLD=		SEGURAR
 	TUTORIAL_DASH=		DASH
-	TUTORIAL_DREAMJUMP=	JUMP
-	TUTORIAL_CARRY=		CARRY
+	TUTORIAL_DREAMJUMP=	SALTAR
+	TUTORIAL_CARRY=		PEGAR
 
 # Area Complete
-	AREACOMPLETE_NORMAL=				Chapter Complete
-	AREACOMPLETE_NORMAL_FULLCLEAR=		Chapter Clear
-	AREACOMPLETE_BSIDE=					B-Side Complete
-	AREACOMPLETE_CSIDE=					C-Side Complete
-	MOUNTAIN_COMPLETE_NORMAL=			Complete
-	MOUNTAIN_COMPLETE_NORMAL_FULLCLEAR=	Clear
-	MOUNTAIN_COMPLETE_BSIDE=			B-Side Complete
-	MOUNTAIN_COMPLETE_CSIDE=			C-Side Complete
+	AREACOMPLETE_NORMAL=				Capítulo Completo
+	AREACOMPLETE_NORMAL_FULLCLEAR=		Capítulo Totalmente Completo
+	AREACOMPLETE_BSIDE=					Lado B Completo
+	AREACOMPLETE_CSIDE=					Lado C Completo
+	MOUNTAIN_COMPLETE_NORMAL=			Completo
+	MOUNTAIN_COMPLETE_NORMAL_FULLCLEAR=	Totalmente Completo
+	MOUNTAIN_COMPLETE_BSIDE=			Lado B Completo
+	MOUNTAIN_COMPLETE_CSIDE=			Lado C Completo
 
 # Game Paused
 	MENU_PAUSE_TITLE=			PAUSED
