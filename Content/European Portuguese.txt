@@ -1067,748 +1067,751 @@
 
 	CH3_OSHIRO_FRONT_DESK=
 		[OSHIRO right normal]
-		Welcome! May I help you?
+		Bem vinda! Em que posso ajudar?
 
 		[MADELINE left surprised]
-		Are you... a ghost?
+		O senhor é um... fantasma?
 		
 		[OSHIRO right worried]
-		A ghost? Don't be silly.
+		Um fantasma? Não seja tonta.
 		
 		[OSHIRO right normal]
-		I am the concierge of this fine establishment.
+		Eu sou o concierge deste belo establecimento.
 
 		[OSHIRO right worried]
-		Welcome to{.3} {~}{>> .2}the world-renowned{/~}{>>}{n}{big}Celestial Resort Hotel!{/big}
+		Bem vinda ao{.3} {~}{>> .2}mundialmente reconhecido{/~}{>>}{n}{big}Hotel Resort Celestial!{/big}
 
 		[OSHIRO right normal]
-		{+ mroshiro}, at your service.
+		{+ mroshiro}, ao seu dispor.
 		
 		[OSHIRO right sidehappy]
-		{+thought}Two guests in one day!{n}Business is finally picking up!{+endthought}
-		
+		{+thought}Dois hóspedes num só dia!{n}O negócio está finalmente a melhorar!{+endthought}
+
 		[OSHIRO right normal]
-		How long will you be staying with us?
+		Durante quanto tempo irá ficar conosco?
 		
 		[MADELINE left normal]
-		Oh... I'm just passing through.{n}I'm climbing the {+mountain}.
-		Do you have a back exit?
+		Ah... Eu estou só de passagem.{n}Estou a escalar a {+mountain}.
+		Tem alguma saída pelas traseiras?
 		
 		[OSHIRO right worried]
-		...a back exit?
+		...uma saída pelas traseiras?
 		
 		[OSHIRO right sideworried]
-		{+thought}Just passing through? This will not do.{+endthought}
+		{+thought}Só de passagem? Isto assim não pode ser.{+endthought}
 		
 		[MADELINE left distracted]
-		You know I can still hear you, right?
+		Sabe que o consigo ouvir na mesma, não sabe?
 		
 		[OSHIRO right nervous]
 		...
 		
 		[OSHIRO right normal]
-		In any case, our rear service door{n}is reserved for hotel staff only.
+		De qualquer forma, a nossa porta de serviço das{n}traseiras está reservada apenas a funcionários do hotel.
 
 		[OSHIRO right worried]
-		However, our top floor presidential suite{n}features a world-class view of the peak.
+		No entanto, a nossa suite presidencial no piso{n}superior possuí uma vista maravilhosa para o cume.
 
 		[OSHIRO right normal]
-		Yes, you'll be quite comfortable up there.
+		Sim, irá ficar bem confortável lá em cima.
 		
 		[MADELINE left distracted]
-		Maybe I could get on the roof from{n}there and climb down the back?
+		Talvez eu possa subir ao telhado{n}a partir daí e descer pelas traseiras?
 		
 		[OSHIRO right sidehappy]
-		{+thought}The presidential suite, marvelous idea {+ oshiro}!{+endthought}
+		{+thought}A suite presidencial, que ideia maravilhosa {+ oshiro}!{+endthought}
 		
 		[OSHIRO right normal]
-		What is your name, for our records?
+		Qual é o seu nome, para os nossos registos?
 		
 		[MADELINE left normal]
-		I'm {+MADELINE}. 
+		Chamo-me {+MADELINE}.
 		
 		[MADELINE left sad]
-		But again, I'm really not interested in staying.
+		Mas mais uma vez, não estou interessada em ficar.
 
 		{trigger 0 Camera zooms back out}
 		
 		[OSHIRO right normal]
-		Right this way, {+MS_MADELINE}.
+		Venha por aqui, {+MS_MADELINE}.
 
 	CH3_GUESTBOOK=
-		It appears to be a very old and dusty guestbook.
-		Many of the pages are damaged or missing.
-		The comments, however, are glowing...
-		"We'll never forget our time here."
-		"I've never felt more at peace. Thank you."
-	
+		Parece ser um livro de hóspedes muito velho e cheio de pó.
+		Muitas das páginas estão estragadas ou em falta.
+		Os comentários, no entanto, são de louvar...
+		"Nunca nos vamos esquecer da nossa estadia aqui."
+		"Nunca me senti tão em paz. Obrigado."
+
 	CH3_OSHIRO_HALLWAY_A=
 		[OSHIRO right normal]
-		Please follow me closely, {+MS_MADELINE}.
-		The elevator is just down the hall.
+		Por favor siga-me de perto, {+MS_MADELINE}.
+		O elevador está ali ao fundo do corredor.
 		
 		[MADELINE left distracted]
-		The hotel is in pretty rough shape...
+		O hotel está mesmo nas últimas...
 
 		[MADELINE left sad]
-		Is it really open for business?
+		Está mesmo aberto e a funcionar?
 		
 		[OSHIRO right nervous]
-		Of course we're open!
+		Claro que estamos abertos!
 
 		[OSHIRO right worried]
-		The Celestial Resort Hotel would never{n}close during prime tourism season!
+		O Hotel Resort Celestial nunca iria{n}fechar na época alta do turismo!
 
 		[OSHIRO right sideworried]
-		{+thought}Rough shape? What did she mean by that?{+endthought}
+		{+thought}Nas últimas? O que é que ela quis dizer com isso?{+endthought}
 
 		[OSHIRO right normal]
-		Oh! Please allow me to carry your luggage.
+		Ah! Por favor permita-me que leve a sua bagagem.
 		
 		[MADELINE left sad]
-		My bag?
+		A minha mala?
 
 		[MADELINE left normal]
-		No thanks, I'll keep it.
+		Não obrigado, eu fico com ela.
 		
 		[OSHIRO right normal]
-		Hmm. Very well.
+		Hm. Tudo bem.
 		
 		[OSHIRO right sidesuspicious]
-		{+thought}What a peculiar guest.{+endthought}
+		{+thought}Mas que hóspede peculiar.{+endthought}
 
 	CH3_OSHIRO_HALLWAY_B=
 		[OSHIRO right normal]
-		{+MS_MADELINE}, I really must implore you to keep up.
+		{+MS_MADELINE}, eu preciso mesmo que acompanhe o meu ritmo.
 
 		[OSHIRO right worried]
-		I'm running a world-class establishment here.{n}I don't have time to wait around for meandering guests.
+		Estou aqui a gerir um establecimente reconhecido mundialamente.{n}Não tenho tempo para esperar por hóspedes vagueantes.
 		
 		[MADELINE left sad]
-		You really don't have to wait for me,{n}I'm just looking for a way through this place.
+		Não precisa de esperar por mim,{n}só estou à procura de uma maneira de passar por aqui.
 		
 		[OSHIRO right sideworried]
-		{+thought}{+oshiro} you idiot, the customer is always right!{+endthought}
-		{+thought}Business is finally picking up{n}and you lose your temper!?{+endthought}
+		{+thought}{+oshiro} seu idiota, o cliente tem sempre razão!{+endthought}
+		{+thought}O negócio está finalmente a melhorar{n} e tu perdes a paciência assim!?{+endthought}
 		
 		[OSHIRO right nervous]
-		Oh... of course {+MS_MADELINE}!
-		My sincere apologies, I was out of line.
+		Ah... claro que sim {+MS_MADELINE}!
+		As minhas sinceras desculpas, passei dos limites.
 
 		[OSHIRO right normal]
-		Please, feel free to explore at your leisure.
+		Por favor, sinta-se à vontade para explorar como quiser.
 
 	CH3_MEMO_OPENING=
-		An old paper sticks out from amid the clutter...
+		Um papel velho destaca-se no meio de toda a confusão...
 
 	CH3_MEMO=
-		{big}Attention hotel staff:{/big}{n}{n}
-		It is my sad duty to inform you that the Celestial Resort Hotel will close indefinitely following this season, due to circumstances beyond our control.{n}{n}
-		It was an honor to have served alongside you all, as we worked tirelessly to ensure that our guests enjoyed the most hospitable and memorable experience possible.{n}{n}
-		I write this with a heavy heart. This hotel has become my home, its staff and patrons my family. I will miss you all dearly.{n}{n}
-		-Mr\. Oshiro
+		{big}Atenção funcionários do hotel:{n}{n}
+		É com a mais profunda tristeza que vos informo que o Hotel Resort Celestial irá ser encerrado definitivamente no final desta época, devido da motivos de força maior.{n}{n}
+		Foi uma honra servir juntamente com vocês todos, enquanto trabalhámos arduamente para nos certificarmos que os nossos hóspedes desfrutaram ao máximo possível da nossa experiência hospitaleira e memorável.{n}{n}
+		Escrevo isto de coração pesado. Este hotel tornou-se a minha casa, os seus funcionários e hóspedes a minha família. Vou sentir muitas saudades de todos.{n}{n}
+		-Sr\. Oshiro
 
 	CH3_OSHIRO_CLUTTER0=
 		[OSHIRO left worried]
-		Argh! This clutter is out of control!
+		Ah! Esta tralha toda está descontrolada!
 
 		{trigger 1 Oshiro paces to the left}
 
 		[OSHIRO left worried flip]
-		When did this happen!?
+		Quando é que isto aconteceu!?
 
 		{trigger 2 Oshiro paces back to the right}
 
 		[OSHIRO left worried]
-		I don't even know where to begin...
+		Nem sei por onde começar...
 		
 		[MADELINE right sad]
-		{+mroshiro}, do you run this whole place by yourself?
+		{+mroshiro}, gere este lugar todo sozinho?
 		
 		[OSHIRO left nervous]
-		You're right {+MS_MADELINE},{n}I'll never sort this mess out alone.
+		Tem razão {+MS_MADELINE},{n}Nunca vou arrumar esta confusão toda sozinho.
 
 		{trigger 0 Oshiro Collapses}
 		
 		[OSHIRO left drama]
-		It's hopeless.
+		Não há esperança.
 
 		[MADELINE right distracted]
-		That's not what I meant...
+		Não foi isso que eu quis dizer...
 
 		[MADELINE right sad]
-		Just breathe, {+MROSHIRO}. Breathe.
-		It's just a little spring cleaning.
+		Respire, {+MROSHIRO}. Respire.
+		É só uma pequena limpeza de primavera.
 		
 		[MADELINE right distracted]
-		Well, more than a little...
+		Bem, um pouco mais do que isso...
 		
 		[MADELINE right normal]
-		But I can help!
+		Mas eu posso ajudá-lo!
 		
 		[OSHIRO left normal]
-		You're too kind.
+		É muito simpático da sua parte.
 		
 		[OSHIRO left drama]
-		But I wouldn't even bother.
-		It's a lost cause.
+		Mas eu nem sequer tentaria.
+		É um caso perdido.
 
 	CH3_OSHIRO_CLUTTER0_B=
 		[MADELINE right normal]
-		How long have you been running the hotel?
+		Há quanto tempo que o senhor gere o hotel?
 
 		[OSHIRO left normal]
-		Oh, quite some time now.
+		Oh, há já algum tempo.
 
 		[OSHIRO left sideworried]
-		{+thought}Business has been... slow.{+endthought}
+		{+thought}O negócio tem sido... lento.{+endthought}
 
 		[MADELINE right sad]
-		You must really love your work.
+		Deve mesmo adorar o seu trabalho.
 
 		[OSHIRO left normal]
-		Oh yes, {+MS_MADELINE}.
+		Ah sim, {+MS_MADELINE}
 
 		{trigger 0 Oshiro gets back up}
 
 		[OSHIRO left normal]
-		In the hotel business, our passion is{n}perfecting the delicate art of hospitality.
+		No ramo da hotelaria, a nossa paixão é{n}aperfeiçoar a arte delicada da hospitalidade.
 
 		[OSHIRO left worried]
-		A truly great hotel lives{.2} {~}eternally{/~} in the{n}cherished memories of its satisfied guests.
+		Um hotel verdadeiramente bom vive{.2} {~}eternamente{/~}{n} das memórias dos seus hóspedes satisfeitos.
 
 		[MADELINE right normal]
-		That's the spirit!
-		Now let's get started on this mess.
+		É esse o espírito!
+		Vamos lá começar a arrumar esta confusão.
 
 	CH3_OSHIRO_CLUTTER1=
 		[OSHIRO right normal]
-		I haven't even begun cleaning and already{n}I feel a renewed lightness of spirit!
-		That's the power of positive thinking!
+		Ainda nem comecei a limpar e já sinto{n} uma nova leveza de espírito!
+		É este o poder do pensamento positivo!
 		
 		[MADELINE left distracted]
-		Umm, actually...
+		Ahh, na verdade...
 		
 		[MADELINE left normal]
-		I cleared out some of the clutter for you.
+		Limpei alguma da tralha por si.
 		
 		[OSHIRO right normal]
-		Oh yes, thank you, {+MS_MADELINE}.
-		But please, relax, and let the hotel staff handle it!
+		Ah sim, obrigado, {+MS_MADELINE}
+		Mas for favor, descontraia, e deixe os funcionários do hotel lidarem com o problema!
 		
 		[OSHIRO right sidesuspicious]
-		{+thought}{+oshiro}, you fool. You're losing her.{+endthought}
+		{+thought}{+oshiro}, seu estúpido. Estás a perdê-la.{+endthought}
 
 		[OSHIRO right sideworried]
-		{+thought}Guests don't want to spend their time cleaning!{+endthought}
+		{+thought}Os hóspedes não querem passar o tempo todo a limpar!{+endthought}
 		
 		[MADELINE left distracted]
-		Are you okay?
+		O senhor está bem?
 		
 		[OSHIRO right nervous]
-		Yes, of course.
+		Sim, claro que estou.
 
 		[OSHIRO right worried]
-		This is the finest hotel you'll ever visit, you'll see!
+		Este é o melhor hotel que alguma vez irá visitar, garanto-lhe!
 		
 		[OSHIRO right sideworried]
-		{+thought}How could I let my problems pile up like this?{+endthought}
+		{+thought}Como é que pude deixar os meus problemas acumularem-se desta forma?{+endthought}
 
 	CH3_OSHIRO_CLUTTER1_B=
 
 		[MADELINE left sad]
-		{+mroshiro}, it's okay if the{n}mess is making you anxious.
+		{+mroshiro}, tudo bem se a{n}confusão o está a deixar ansioso.
 
 		[MADELINE left normal]
-		I still can't stay the night, but I can help before I leave.
+		Eu não posso passar cá a noite, mas posso ajudá-lo antes de me ir embora.
 
 		[OSHIRO right sideworried]
-		{+thought}She pities you, {+oshiro}. You're pathetic.{+endthought}
+		{+thought}Ela tem pena de ti, {+oshiro}. És patético.{+endthought}
 
 		[MADELINE left upset]
 		...
 
 	CH3_OSHIRO_CLUTTER2=
 		[MADELINE left normal]
-		It's looking a lot nicer in here!
+		Já está a ficar com muito melhor aspeto!
 		
 		[MADELINE left distracted]
-		Can you show me to the exit now?
+		Pode-me dizer agora onde é a saída?
 
 		[OSHIRO right worried]
-		But {+MS_MADELINE}, you've barely enjoyed the{n}myriad luxuries that our hotel has to offer!
+		Mas {+MS_MADELINE}, mal pôde desfrutar dos{n}vários luxos que o nosso hotel tem para lhe oferecer!
 		
 		[OSHIRO right normal]
-		We can talk more once I finish cleaning.
+		Podemos falar mais assim que acabar de limpar.
 
 		[OSHIRO right worried]
-		I'm very busy!
+		Estou muito ocupado!
 
 		[OSHIRO right sidesuspicious]
-		{+thought}Yes... young people have no respect these days.{+endthought}
+		{+thought}Sim... estes jovens de hoje em dia não têm respeito nenhum.{+endthought}
 		
 		[MADELINE left upset]
-		...you're welcome, sheesh.
+		...não tem de quê, chiça.
 
 	CH3_OSHIRO_CLUTTER2_B=
 		[MADELINE left angry]
-		Do you want my help{.3} or not?
+		Quer a minha ajuda{.3} ou não?
 
 		[OSHIRO right sideworried]
-		{+thought}It's over, {+oshiro}. She hates you.{+endthought}
+		{+thought}Acabou-se, {+oshiro}. Ela odeia-te.{+endthought}
 
 		[MADELINE left upset]
-		I{.3} don't... 
+		Eu{.3} não o odeio...
 
 		[MADELINE left distracted]
-		I'm sorry. 
+		Peço desculpa.
 
 		[MADELINE left sad]
-		Your hotel is...  it's beautiful. Truly world class.
-		I wish I could stay.
+		O seu hotel é... é lindo. Verdadeiramente maravilhoso.
+		Quem me dera poder ficar.
 
 		[OSHIRO right serious]
-		No need to humor me, {+MS_MADELINE}.
-		I understand.
+		Não precisa de dizer isso só para me tentar agradar, {+MS_MADELINE}.
+		Eu percebo.
 
 	CH3_OSHIRO_CLUTTER_ENDING=
 		{anchor bottom}
 		[OSHIRO left normal]
-		There you are!
-		You certainly have a knack for wandering off.
+		Aí está a Sra.!
+		Gosta mesmo de andar fugida.
 		
 		[MADELINE right distracted]
-		It was tough, but I sorted everything out for you.
+		Foi difícil, mas consegui arrumar tudo por si.
 		
 		[OSHIRO left normal]
-		The Celestial Resort Hotel extends its{n}gratitude for your assistance, {+MS_MADELINE}.
-		Of course, the staff had the mess under control.
+		O Hotel Resort Celestial extende a sua{n} eterna gratidão pela sua assistência, {+MS_MADELINE}.
+		Mas claro, os funcionários tomaram o controlo da situação.
 		
 		[MADELINE right upset]
-		Oh, sure. Yeah.
+		Ah, pois. Claro que sim.
 		
 		[OSHIRO left sideworried]
-		{+thought}How humiliating.{+endthought}
+		{+thought}Que vergonha.{+endthought}
 		
 		[OSHIRO left worried]
-		You must be eager to see your room!
+		Deve estar ansiosa por ver o seu quarto!
 
 		[OSHIRO left normal]
-		It's just up the elevator and down the hall.
+		É só subir ao elevador e seguir o corredor.
 		
 		[MADELINE right upset]
-		Sure, what the heck. 
-		Show me the presidential suite.
-		It sounds lovely.
+		Claro, que se lixe.
+		Mostre-me a suite presidencial.
+		Parece ser fantástica.
 		
 		[OSHIRO left sideworried]
-		{+thought}Now's your last chance, {+oshiro}. Don't lose her now.{+endthought}
+		{+thought}É a tua última oportunidade, {+oshiro}. Não a percas agora.{+endthought}
 
 	CH3_THEO_NEVER_MET=
 		[MADELINE left sad]
-		Oh hey, are you... {0.2}a guest here?
+		Ah olá, és um... {0.2}hóspede aqui?
 
 		{trigger 0 Theo stops trying to pry off the vent cover}
 		
 		[THEO right worried]
-		Wow, I am {~}{!}so{/!}{/~} happy to see another person right now.
-		This place seriously gives me the creeps.
+		Uau, estou {~}{!}tão{/!}{/~} contente por ver outra pessoa agora mesmo.
+		Este lugar está-me a dar arrepios.
 		
 		[MADELINE left sad]
-		There's definitely something strange about it.
+		Há mesmo alguma coisa estranha aqui.
 
 		[MADELINE left normal]
-		I'm {+MADELINE}, by the way.
+		Sou a {+MADELINE}, já agora.
 		
 		[THEO right normal]
-		Oh, I'm {+theo}.
+		Ah, eu sou o {+theo}.
 		
 		[THEO right thinking]
-		I'm all about spooky mysteries,{n}but this is getting too real.
+		Normalmente adoro mistérios assustadores,{n}mas isto está a tornar-se demasiado real.
 
 		{+CH3_THEO_ESCAPING}
 
 	CH3_THEO_NEVER_INTRODUCED=
 		[MADELINE left normal]
-		{+theo}! Are you a "guest" here too?
+		{+theo}! Eś um "hóspede" aqui também?
 
 		{trigger 0 Theo stops trying to pry off the vent cover}
 		
 		[THEO right worried]
-		Wow, I am {~}{!}so{/!}{/~} happy to see another person right now.
-		I'm all about spooky mysteries,{n}but this is getting too real.
+		Uau, estou {~}{!}tão{/!}{/~} contente por ver outra pessoa agora mesmo.
+		Normalmente adoro mistérios assustadores,{n}mas isto está a tornar-se demasiado real.
 		
 		[MADELINE left sad]
-		There's definitely something strange about it.
+		Há mesmo alguma coisa esquisita aqui.
 
 		[MADELINE left normal]
-		I'm {+MADELINE}, by the way.
-		Sorry about being antisocial earlier,{n}I had a lot on my mind.
+		Eu sou a {+MADELINE}, já agora.
+		Desculpa por ter sido antisocial há um bocado,{n}ando com muita coisa na minha cabeça.
 
 		{+CH3_THEO_ESCAPING}
 
 	CH3_THEO_INTRO=
 		[MADELINE left normal]
-		{+theo}! Are you a "guest" here too?
+		{+theo}! Eś um "hóspede" aqui também?
 
 		{trigger 0 Theo stops trying to pry off the vent cover}
 		
 		[THEO right worried]
-		{+MADELINE}! I am {~}{!}so{/!}{/~} happy to see you right now.
-		I'm all about spooky mysteries,{n}but this is getting too real.
+		{+MADELINE}! Estou {~}{!}tão{/!}{/~} contente por te ver agora mesmo.
+		Normalmente adoro mistérios assustadores,{n}mas isto está a tornar-se demasiado real.
 
 		{+CH3_THEO_ESCAPING}
 
 	CH3_THEO_ESCAPING=
 		[MADELINE left sad]
-		Have you talked to {+mroshiro}?
+		Já falaste com o {+mroshiro}?
 
 		[MADELINE left distracted]
-		I think he could really use some help.
+		Acho que ele precisa mesmo de ajuda.
 
 		{trigger 0 Theo stops trying to pry off the vent cover}
 		
 		[THEO right wtf]
-		You {~}think?{/~} 
-		He's a creepy old weirdo.
-		I bet he's cleaning out a nook{n}to hide our bodies as we speak.
+		{~}Achas?{/~}
+		Ele é um velho esquisitóide.
+		De certeza que por esta altura ele está a{n} limpar um cantinho para esconder os nossos corpos.
 
 		{trigger 1 Theo goes back to prying off the vent cover}
 		
 		[THEO right worried]
-		I'm gonna crawl through this vent,{n}it's blowing cold air in from outside.
-		Come on!
+		Vou-me enfiar por esta grelha,{n}está a vir daqui ar frio vindo da rua.
+		Bora lá!
 		
 		[MADELINE left sad]
-		{+mroshiro}'s troubled, but...{n}I don't think he wants to hurt us.
+		O {+mroshiro} tem os seus problemas...{n}mas acho que ele não nos quer magoar.
 		
 		[MADELINE left normal]
-		He just needs to clean up this mess.
-		I want to help him.
+		Ele só precisa de ajuda a limpar esta confusão.
+		Quero ajudá-lo.
 		
 		[THEO right worried flip]
-		{+MADELINE}, that's very sweet, but this is dangerous.
+		{+MADELINE}, isso é muito querido, mas isto é perigoso.
 		
 		{trigger 2 Theo removes vent cover and it flies off. Theo falls down as it comes off, and gets back up}
 
 		[THEO right worried]
-		We need to get out of here and call{n}an expert on {0.2}{*}creepy old dudes{/*}.
-		We aren't prepared for this.
+		Temos de sair daqui e telefonar a um{n}especialista em {0.2}{*}velhos assustadores{/*}.
+		Não servimos para isto.
 		
 		[MADELINE left distracted]
-		I think I can get through to him.
+		Acho que lhe consigo dar a volta.
 
 		[MADELINE left normal]
-		Go on ahead and I'll catch up with you later.
+		Vai tu à frente que eu já te apanho.
 		
 		[THEO right wtf]
-		Man, you're more stubborn than my sister.
-		I thought that was impossible.
+		Meu, és mais teimosa do que a minha irmã.
+		Eu pensava que isso era impossível.
 
 		{trigger 3 Theo walks to Maddy}
 		
 		[THEO right serious]
-		Take care of yourself.
+		Tem cuidado contigo.
 
 		[MADELINE left normal]
-		Thanks {+theo}. I'll see you outside.
+		Obrigado {+theo}. Vê-mo-nos lá fora.
 
 	CH3_THEO_VENTS=
 		{anchor bottom}
 		[THEO right normal upsidedown]
-		Man, it's a maze in here.
-		How's it going with {+elcreepo}?
+		Meu, isto mais parece um labirinto.
+		Como é que estão a correr as coisas com o {+elcreepo}?
 		
 		[MADELINE left sad]
-		I helped him clean up that huge mess,{n}but he was kind of a jerk about it.
+		Eu ajudei-o a limpar aquela confusão toda,{n}mas ele foi um estúpido.
 		
 		[MADELINE left upset]
-		And he still thinks he can convince me to stay.
+		E ainda acha que me consegue convencer a ficar.
 		
 		[THEO right wtf upsidedown]
-		{+MADELINE}, seriously.
-		My bad idea radar is {~}off the charts{/~} on this one. 
-		You should get out of here.
+		{+MADELINE}, a sério.
+		O meu radar das más ideias está {~}fora da escala{/~} com esta.
+		Devias pirar-te daqui.
 		
 		[MADELINE left sad]
-		If I disappear now, {+mroshiro} could have a meltdown.
+		Se eu desaparecer agora, aí é que salta a tampa do {+mroshiro}.
 		
 		[MADELINE left distracted]
-		And maybe I can actually do{n}something good.{.3} For once.
+		E pode ser que eu consiga fazer{n}algo de bom.{.3} Por uma vez.
 		
 		[THEO right worried upsidedown]
-		Forget your {~}karma{/~}, dude.
+		Esquece o teu {~}karma{/~}, meu.
 
 		[THEO right wtf upsidedown]
-		I think that guy is going to melt down no matter what.
+		Acho que vai saltar a tampa a este gajo de qualquer forma.
 
 		[THEO right worried upsidedown]
-		You have to think about your safety.
+		Tens de pensar na tua segurança.
 		
 		[MADELINE left upset]
+		{+theo}. Vou ficar bem.
 		{+theo}. I'll be okay.
 		
 		[THEO right thinking upsidedown]
-		Yeah yeah, I didn't expect you to listen.
+		Sim, sim, já sabia que não me ias ligar nenhuma.
 
 		[THEO right wtf upsidedown]
-		See you on the outside, jailbird.
+		Vê-mo-nos lá fora.
 
 	CH3_OSHIRO_BREAKDOWN=
 		{anchor top}
 		[OSHIRO left sideworried]
-		{+thought}This is it {+oshiro}, your last chance.{+endthought}
+		{+thought}É agora ou nunca {+oshiro}, a tua última oportunidade.{+endthought}
 
 		{trigger 0 Oshiro paces}
 		
 		[OSHIRO right sidesuspicious]
-		{+thought}You already ruined it.{n}Making a guest clean up your mess?{+endthought}
-		{+thought}She'll never stay.{+endthought}
+		{+thought}Já estragaste tudo.{n}Obrigar um hóspede a limpar a tua confusão?{+endthought}
+		{+thought}Ela nunca vai ficar.{+endthought}
 
 		{trigger 1 Oshiro paces}
 		
 		[OSHIRO left sideworried]
-		{+thought}No, she's still here. There's still a chance!{+endthought}
+		{+thought}Não, ela ainda está aqui. Ainda tenho uma oportunidade!{+endthought}
 
 		{trigger 0 Oshiro paces}
 		
 		[OSHIRO right sidehappy]
-		{+thought}The presidential suite is the key.{n}It will surely impress her!{+endthought}
+		{+thought}A suite presidencial é a chave.{n}De certeza que a vai impressionar!{+endthought}
 
 		{trigger 2 Oshiro falls to ground, spawns dust creatures}
 		
 		[OSHIRO left sideworried]
-		{+thought}Get it together, {+oshiro}!{+endthought}
+		{+thought}Recompõe-te, {+oshiro}!{+endthought}
 
 		{trigger 3 Enter Madeline}
 		
 		[OSHIRO left nervous]
-		There you are, {+MS_MADELINE}!
-		Follow me quickly! We're almost there.
+		Aí está, {+MS_MADELINE}!
+		Siga-me rápidamente! Estamos quase lá.
 
 	CH3_DIARY=
 		{anchor bottom}
-		It's {+MROSHIRO}'s diary.
-		The final entry appears to be decades old...
-		"As of today the hotel is officially closed. Charlotte organized the staff for a farewell hike up the mountain. Most of us have never seen the summit."
-		"It seemed like a fitting goodbye, but when the time came, I couldn't bear to leave without looking around one last time. I told them to go on without me."
-		"I will catch up with them soon, after{n}I double-check that everything is in order..."
-		"I can't believe my time here is over.{n}What am I going to do now?"
-		"Perhaps I'll stay one last night, so that{n}the hotel and I can have a proper goodbye..."
+		É o diário do {+MROSHIRO}.
+		A última página parece ter sido escrita há décadas...
+		"A partir de hoje o hotel está oficialmente encerrado. A Charlotte organizou uma caminhada de adeus pela montanha acima. Muitos de nós nunca viram o cume."
+		"Pareceu-me um adeus apropriado, mas quando chegou a hora, não pude aguentar ir embora sem ir dar uma vista de olhos por uma última vez. Disse-lhes para continuarem sem mim."
+		"Vou ter com eles em breve, assim que{n}verificar de novo que está tudo em ordem..."
+		"Não acredito que o meu tempo aqui acabou.{n}O que é que eu vou fazer agora?"
+		"Talvez eu fique uma última noite, para o{n}hotel e eu podermos ter uma despedida em condições..."
 
 	CH3_OSHIRO_SUITE=
 		{anchor bottom}
 		[OSHIRO left normal]
-		Here we are, our award-winning presidential suite!
+		Aqui estamos nós, a nossa premiada suite presidencial!
 
 		[OSHIRO left worried]
-		Truly, it is the very definition of rustic luxury.
+		De facto, é a própria definição do luxo rústico.
 
 		[OSHIRO left normal]
-		I'll stand back and allow you to soak in the majesty.
-		I understand it can be a lot to handle.
+		Vou deixá-la absorver toda esta majestosidade.
+		Entendo que possa ser muito para aguentar.
 
 		{trigger 3 Madeline walks around the room and looks around}
 		
 		[OSHIRO right nervous]
-		So? What do you think?
+		Então? O que acha?
 		
 		[MADELINE left sad]
-		It's... uh, it's beautiful.
-		The furniture looks expensive...
+		Acho que... ah, é lindo.
+		A mobília parece cara...
 
 		[MADELINE left distracted]
-		It's very... spacious.
+		É muito... espaçosa.
 
 		[MADELINE left sad]
-		The colors are elegant.
+		As cores são elegantes.
 
 		[MADELINE left normal]
-		I can tell you put a lot of work into it.
+		Consigo ver que dedicou muito esforço nela.
 
 		[OSHIRO right worried]
-		{*}I knew it would impress you!{/*}
+		{*}Eu sabia que a ia impressionar!{/*}
 
 		[MADELINE left sad]
-		Yeah.
+		Sim.
 
 		[MADELINE left distracted]
 		...
-		So, can I get on the roof from here?
+		Então, posso chegar ao telhado por aqui?
 		
 		[OSHIRO right sideworried]
-		{+thought}You imbecile, you're losing her!{+endthought}
+		{+thought}Seu imbecil, estás a perdê-la!{+endthought}
 		
 		[OSHIRO right nervous]
-		Oh err, I almost forgot to mention... 
-		Valued guests such as yourself stay in{n}our finest accommodations at half price!
+		Ah, quase me esqueci de lhe dizer...
+		Hóspedes valiosos como a senhora podem ficar{n}nos nossos melhores aposentos a metade do preço!
 		
 		[MADELINE left sad]
-		I... don't want to stay.
+		Eu... não quero ficar.
 
 		{trigger 0 Badeline appears in the mirror}
 		
 		[OSHIRO right serious]
-		Please, {+MS_MADELINE}.
-		Please stay.
+		Por favor, {+MS_MADELINE}.
+		Por favor fique.
 		
 		[MADELINE left upset]
-		{+mroshiro}, I've already been sidetracked too long...
+		{+mroshiro}, já me desviei de meu objetivo durante demasiado tempo...
 
 		{trigger 1 Badeline escapes the mirror}
 		
 		[BADELINE right normal]
-		{+MADELINE}, sweetie, forget this loser.
+		{+MADELINE}, querida, esquece este falhado.
 		
 		[OSHIRO left serious]
+		Falhado? {silent_trigger 6}
 		Loser? {silent_trigger 6}
 		
 		[BADELINE right upset]
-		You're in denial, old man. 
-		This resort is a {*}{!}dump{/!}{/*}{0.3}.
+		Estás em negação, velhadas.
+		Este resort é uma {*}{!}espelunca{/!}{/*}{0.3}.
 
 		[BADELINE right yell]
-		No one would {*}{!}ever{/!}{/*} want to stay here.
+		{*}{!}Nunca{/!}{/*} ninguém haveria de querer ficar aqui.
 		
 		[BADELINE right scoff]
-		Someone had to say it.
+		Alguém tinha de o dizer.
 
 		{trigger 4 Madeline steps closer to Oshiro}
 		
 		[MADELINE left sad]
-		She doesn't mean that.
+		Ela não está a falar a sério.
 		
 		[OSHIRO right serious]
-		I... 
+		Eu...
 
 		[OSHIRO right lostcontrol]
-		I'm very busy.
-		Please leave, {+MS_MADELINE}. {silent_trigger 5 Madeline jumps back}
+		Eu estou muito ocupado.
+		Por favor vá-se embora, {+MS_MADELINE}. {silent_trigger 5 Madeline jumps back}
 		
 		[BADELINE right upset]
-		Come on {~}{+MS_MADELINE}{/~}, you heard the man.
+		Anda lá {~}{+MS_MADELINE}{/~}, ouviste o que o homem disse.
 
 		{trigger 2 Badeline blasts a hole in the ceiling}
 		
 		[BADELINE left normal]
-		Where would you be without me?
+		Onde estarias sem mim?
 
 	CH3_OSHIRO_SUITE_SAD0=
 		{anchor bottom}
 		[OSHIRO right sideworried]
-		{+thought}Why would she say my beautiful hotel is a dump?{+endthought}
+		{+thought}Porque é que ela iria dizer que o meu lindo hotel é uma espelunca?{+endthought}
 
 	CH3_OSHIRO_SUITE_SAD1=
 		{anchor bottom}
 		[OSHIRO right sidesuspicious]
-		{+thought}How dare she insult you like that.{+endthought}
+		{+thought}Como é que ela se atreve a insultar-te assim.{+endthought}
 
 	CH3_OSHIRO_SUITE_SAD2=
 		{anchor bottom}
 		[OSHIRO right sideworried]
-		{+thought}What if she's right?{+endthought}
+		{+thought}E se ela tiver razão?{+endthought}
 
 	CH3_OSHIRO_SUITE_SAD3=
 		{anchor bottom}
 		[OSHIRO right sidesuspicious]
-		{+thought}Of course she's right.{n}You couldn't even clean up without her help.{+endthought}
+		{+thought}Claro que tem razão{n}Não conseguias limpar nada sem a ajuda dela.{+endthought}
 
 	CH3_OSHIRO_SUITE_SAD4=
 		{anchor bottom}
 		[OSHIRO right lostcontrol]
-		{+thought}I tried. I'm doing my best.{+endthought}
+		{+thought}Eu tentei. Estou a fazer o meu melhor.{+endthought}
 
 	CH3_OSHIRO_SUITE_SAD5=
 		{anchor bottom}
 		[OSHIRO right serious]
-		{+thought}{+MS_MADELINE} only wanted to help!{+endthought}
+		{+thought}A {+MS_MADELINE} só quis ajudar!{+endthought}
 
 	CH3_OSHIRO_SUITE_SAD6=
 		{anchor bottom}
 		[OSHIRO right sideworried]
-		{+thought}But why was she so cruel?{+endthought}
+		{+thought}Mas porque é que ela foi tão cruel?{+endthought}
 
 	CH3_OSHIRO_START_CHASE=
 		[BADELINE left normal]
-		I thought we'd never get rid of him.
-		You owe me one. 
+		Pensava que nunca iríamos conseguir livrar-nos dele.
+		Deves-me uma.
 
 		[BADELINE left scoff]
-		Add it to the list.
+		Mete essa na lista.
 		
 		[MADELINE right upset]
-		Leave me alone.
+		Deixa-me em paz.
 
 		{trigger 0 Maddy walks away}
 		
 		[BADELINE left upset]
-		I thought you were {~}soooo{/~}{n}determined to keep climbing.
+		Pensava que estão {~tãããão{/~} determinada em continuar a escalar.
 
 		[BADELINE left scoff]
-		Now all of a sudden you're some weirdo's therapist?
+		E agora de repente és a psicóloga de um esquisitóide qualquer?
 
 		{trigger 1 Maddy turns around}
 		
 		[MADELINE right angry]
-		Why won't you go away?
+		Porque é que não vais embora?
 
 		{trigger 2 Oshiro enters}
 		
 		[OSHIRO left serious]
-		{+MS_MADELINE}, before you go...
-		I need to ask one question...
+		{+MS_MADELINE}, antes de ir embora...
+		Preciso de lhe perguntar uma coisa...
 		
 		[OSHIRO left serious]
-		Why would you be so nice to me, only to run away?
-		What did I do wrong?
+		Porque é que foi tão simpática comigo, apenas para no fim fugir?
+		O que é que fiz de mal?
 		
 		[BADELINE right scoff]
-		Oh, give it a break. You still don't get it?
+		Oh, por amor de Deus. Ainda não percebeste?
 
 		[BADELINE right upset]
-		She only helps people to feed her twisted ego.
+		Ela só ajuda pessoas para alimentar o seu ego retorcido.
 		
 		[BADELINE right yell]
-		She {*}never{/*} cared about you.
+		Ela {*}nunca{/*} quis saber de ti.
 		
 		[MADELINE right angry]
-		Shut up! 
+		Cala-te!
 		
 		[MADELINE right sad]
-		I just wanted to help.
+		Só quis tentar ajudar.
 		
 		[BADELINE right scoff]
-		You're both pathetic.
+		Vocês são os dois patéticos.
 
 		{trigger 3 Badeline disappears, Oshiro gets angry}
 
 		[OSHIRO left lostcontrol]
-		Pathetic!?
-		You only came here to humiliate me...
-		I won't grovel at your feet any longer!
+		Patético!?
+		Só vieste cá para me envergonhar...
+		Já não te vou venerar nem por mais um segundo!
 
 	CH3_OSHIRO_CHASE_END=
 		{anchor top}
 		[MADELINE right surprised]
-		{+mroshiro}, stop!
+		{+mroshiro}, pare!
 
 		{trigger 0 Oshiro slams the roof below their feet and it begins shaking}
 		
 		[MADELINE right surprised]
-		I just wanted to help!
+		Eu só quis tentar ajudar!
 
 	CH3_ENDING=
 		[OSHIRO left serious]
 		...
-		I've decided to close the hotel for repairs.
-		The second floor plumbing is leaking...
-		...the library is in complete disarray...
-		...not to mention the hole in the{n}ceiling of the presidential suite.
+		Decidi fechar o hotel para obras.
+		A canalização do segundo andar está com fugas...
+		...A biblioteca está uma completa bandalheira...
+		...já para não falar no buraco no{n}teto da suite presidencial.
 
 		{trigger 0 Turn and pause, turn back}
 
 		[OSHIRO left serious]
-		Please, just leave me alone.
+		Por favor, deixe-me em paz.
+
 
 # *** Chapter 04 ***
 
