@@ -508,7 +508,7 @@
 		{trigger 2 Granny laughs}
 
 		[GRANNY left laugh]
-		Se a minha{>> 0.3}"entrada"{>>}{0.2} quase te mandou desta para melhor,{n}então a {+mountain} é demais para ti.
+		Se a minha {>> 0.3}"entrada"{>>}{0.2} quase te mandou desta {n}para melhor, então a {+mountain} é demais para ti.
 
 		{trigger 3 Laugh Continues}
 
@@ -516,7 +516,7 @@
 		{0.5}...{0.2}
 
 		[MADELINE right angry]
-		Bem, se uma velha como {~}a senhora{/~} consegue{n}sobreviver aqui, acho que vou ficar bem.
+		Bem, se uma velha como {~}a senhora{/~} consegue{n}sobreviver aqui, então acho que vou ficar bem.
 
 		{trigger 4 Stop laughing}
 
