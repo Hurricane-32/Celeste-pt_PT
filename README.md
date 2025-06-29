@@ -5,7 +5,7 @@ A fan translation of the game Celeste to European Portuguese.
 
 ## Como Instalar
 
-A engine do Celeste deteta automáticamente o novo ficheiro de linguagem, pelo que nenhum ficheiro de linguagem já existente no jogo precisa de ser alterado.
+A engine do Celeste deteta automaticamente o novo ficheiro de linguagem, pelo que nenhum ficheiro de linguagem já existente no jogo precisa de ser alterado.
 
 1- Descarregar o ficheiro .zip deste repositório
 
