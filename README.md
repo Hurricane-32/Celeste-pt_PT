@@ -20,8 +20,8 @@ A engine do Celeste deteta automaticamente novos ficheiros de linguagem e são i
 
 - Menus e Interface - ✅
 - Capítulo 0: Prologue - ✅
-- Capítulo 1: Forsaken City -✅
-- Capítulo 2: Old Site -✅
+- Capítulo 1: Forsaken City - ✅
+- Capítulo 2: Old Site - ✅
 - Capítulo 3: Celestial Resort - ✅
 - Capítulo 4: Golden Ridge - ❌
 - Capítulo 5: Mirror Temple - ❌
