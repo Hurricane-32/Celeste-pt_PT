@@ -23,7 +23,7 @@ A engine do Celeste deteta automaticamente novos ficheiros de linguagem e estes 
 - Capítulo 1: Forsaken City - ✅
 - Capítulo 2: Old Site - ✅
 - Capítulo 3: Celestial Resort - ✅
-- Capítulo 4: Golden Ridge - ❌
+- Capítulo 4: Golden Ridge - ✅
 - Capítulo 5: Mirror Temple - ❌
 - Capítulo 6: Reflection - ❌
 - Capítulo 7: The Summit - ❌
