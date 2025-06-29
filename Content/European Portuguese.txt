@@ -1199,10 +1199,10 @@
 		Por favor, sinta-se à vontade para explorar como quiser.
 
 	CH3_MEMO_OPENING=
-		Um papel velho destaca-se no meio de toda a confusão...
+		Um papel velho destaca-se no meio da confusão...
 
 	CH3_MEMO=
-		{big}Atenção funcionários do hotel:{n}{n}
+		{big}Atenção funcionários do hotel:{/big}{n}{n}
 		É com a mais profunda tristeza que vos informo que o Hotel Resort Celestial irá ser encerrado definitivamente no final desta época, devido da motivos de força maior.{n}{n}
 		Foi uma honra servir juntamente com vocês todos, enquanto trabalhámos arduamente para nos certificarmos que os nossos hóspedes desfrutaram ao máximo possível da nossa experiência hospitaleira e memorável.{n}{n}
 		Escrevo isto de coração pesado. Este hotel tornou-se a minha casa, os seus funcionários e hóspedes a minha família. Vou sentir muitas saudades de todos.{n}{n}
@@ -1267,7 +1267,7 @@
 		Deve mesmo adorar o seu trabalho.
 
 		[OSHIRO left normal]
-		Ah sim, {+MS_MADELINE}
+		Ah sim, {+MS_MADELINE}.
 
 		{trigger 0 Oshiro gets back up}
 
@@ -1293,7 +1293,7 @@
 		Limpei alguma da tralha por si.
 		
 		[OSHIRO right normal]
-		Ah sim, obrigado, {+MS_MADELINE}
+		Ah sim, obrigado, {+MS_MADELINE}.
 		Mas for favor, descontraia, e deixe os funcionários do hotel lidarem com o problema!
 		
 		[OSHIRO right sidesuspicious]
@@ -1476,7 +1476,7 @@
 		{trigger 1 Theo goes back to prying off the vent cover}
 		
 		[THEO right worried]
-		Vou-me enfiar por esta grelha,{n}está a vir daqui ar frio vindo da rua.
+		Vou-me enfiar por esta grelha,{n}sinto aqui ar frio vindo da rua.
 		Bora lá!
 		
 		[MADELINE left sad]
@@ -1517,7 +1517,7 @@
 		{anchor bottom}
 		[THEO right normal upsidedown]
 		Meu, isto mais parece um labirinto.
-		Como é que estão a correr as coisas com o {+elcreepo}?
+		Como é que estão a correr as{n}coisas com o {+elcreepo}?
 		
 		[MADELINE left sad]
 		Eu ajudei-o a limpar aquela confusão toda,{n}mas ele foi um estúpido.
@@ -1547,7 +1547,6 @@
 		
 		[MADELINE left upset]
 		{+theo}. Vou ficar bem.
-		{+theo}. I'll be okay.
 		
 		[THEO right thinking upsidedown]
 		Sim, sim, já sabia que não me ias ligar nenhuma.
@@ -1663,7 +1662,6 @@
 		
 		[OSHIRO left serious]
 		Falhado? {silent_trigger 6}
-		Loser? {silent_trigger 6}
 		
 		[BADELINE right upset]
 		Estás em negação, velhadas.
@@ -1744,7 +1742,7 @@
 		{trigger 0 Maddy walks away}
 		
 		[BADELINE left upset]
-		Pensava que estão {~tãããão{/~} determinada em continuar a escalar.
+		Pensei que estavas {~}tãããão{/~} determinada em continuar a escalar.
 
 		[BADELINE left scoff]
 		E agora de repente és a psicóloga de um esquisitóide qualquer?
