@@ -312,7 +312,7 @@
 		Os {#ff1144}Morangos{#} vão impressionar os teus amigos, mas é só isso que fazem. Só os coleciones se quiseres mesmo!
 
 	POSTCARD_AREA_3=
-		Tem orgulho pela tua {#ff1144}Contagem de Mortes{#}!{n}Quanto mais vezes morreres, mais aprendes.{n}Continua assim!
+		Sê orgulhoso da tua {#ff1144}Contagem de Mortes{#}!{n}Quantas mais vezes morreres, mais aprendes.{n}Continua assim!
 
 	POSTCARD_AREA_4=
 		{# F94A4A}Dica de Escalada!{#}{n}Estás a ficar sem forças?{n}{n}Saltar das paredes{n}não consome energia!
@@ -548,7 +548,7 @@
 
 	CH1_THEO_A=
 		[THEO left normal]
-		Boas, cara viajante!
+		Boas, companheira viajante!
 
 		[MADELINE right distracted]
 		Ah... olá.
@@ -563,7 +563,6 @@
 
 		[THEO left normal]
 		Este sítio é uma loucura.
-		This place is so crazy. 
 
 		[THEO left excited]
 		Mal acredito que existe!
@@ -624,13 +623,13 @@
 		Porque é que iriam deixar uma cidade inteira abandonada?
 		
 		[MADELINE right normal]
-		Ouvi dizer que uma mega-empresa comeceu{n}a construí-la, mas depois ninguém queria morar aqui.
+		Ouvi dizer que uma mega-empresa começou{n}a construí-la, mas depois ninguém quis morar aqui.
 
 		[MADELINE right distracted]
-		Pergunto-me porque será...
+		Pergunto-me porquê...
 		
 		[THEO left excited]
-		Aposto que o governo está a esconder alguma coisa.
+		Aposto que o governo está a esconder algo.
 
 		[MADELINE right distracted]
 		Que desperdício, construír isto tudo para nada...
@@ -658,7 +657,7 @@
 		Hoje em dia toda a gente usa o {# FFFF4C}InstaPix{#}.
 		
 		[THEO left excited]
-		Eu sou o {+THEO_UNDER_STARS}, procura!
+		Eu sou o {+THEO_UNDER_STARS} lá, procura!
 
 	CH1_THEO_E=
 		[THEO left normal]
@@ -677,7 +676,7 @@
 		Se achas que sim.
 
 		[MADELINE right normal]
-		Aposto que também consegues chegar ao cume.
+		Aposto que também consegues lá chegar.
 
 		[THEO left normal]
 		Se calhar.
@@ -686,13 +685,13 @@
 		Mas sinceramente não estou muito preocupado em chegar ao topo.
 
 		[THEO left normal]
-		{!}Ah!{/!} Mas ouvi dizer que há umas ruínas {~}brutais{/~}{n}para além da cidade.
+		{!}Ah!{/!} Mas ouvi dizer que há umas ruínas {~}brutais{/~}{n}para lá da cidade.
 		
 		[THEO left excited]
 		Do tipo, brutais de 1800.
 
 		[THEO left normal]
-		Sei que é arrsicado mas preciso de as ver pelos meus próprios olhos.
+		Sei que é arriscado, mas preciso de as ver pelos meus próprios olhos.
 
 	CH1_THEO_F=
 		[THEO left normal]
@@ -719,7 +718,7 @@
 
 	CH1_END=
 		[MADELINE left distracted]
-		Ugh, estou exausta.
+		Ufa, estou exausta.
 
 		{trigger 0 MADELINE sits down to rest. A bird swoops in, lands on her head, and goes to sleep}
 		
@@ -732,200 +731,200 @@
 		{anchor top}
 		
 		[BADELINE left normal]
-		{+MADELINE}, darling, slow down.
+		{+MADELINE}, querida, acalma-te.
 
 		{trigger 0 Madeline turns around}
 		
 		[MADELINE right distracted]
-		Who said that?
+		Quem está aí?
 		
 		[BADELINE left normal]
-		Oh, I'm simply a concerned observer.
+		Ah, sou apenas uma observadora preocupada.
 
 		{trigger 1 Badeline is revealed}
 		
 		[MADELINE right sad]
-		Are you... me?
+		Tu és... eu?
 
 		[BADELINE left normal]
-		I'm {+PART_OF_YOU}.
+		Eu sou {+PART_OF_YOU}.
 
 		[MADELINE right sad]
-		Why would {+PART_OF_ME} look so {0.3}{*}creepy?{/*}
+		Porque é que uma {+PART_OF_ME} iria parecer tão {0.3}{*}assustadora?{/*}
 
 		[BADELINE left worried]
 		...
 
 		[BADELINE left angry]
-		This is just what I look like, okay?
-		Deal with it.
+		É quem eu sou, ok?
+		Aceita que dói menos.
 
 		[MADELINE right distracted]
-		Sorry, I didn't mean-
+		Desculpa, eu não quis-
 
 		[BADELINE left angry]
-		Forget about it.
-		I can't tell you what a relief it is{n}to {~}finally{/~} get out of your head.
+		Esquece lá isso.
+		Nem imaginas o alívio que é poder{n}{~}finalmente{/~} sair da tua cabeça.
 
 		[BADELINE left upset]
-		But look, I'm worried about us.
+		Mas olha, estou preocupada conosco.
 
 		[BADELINE left normal]
-		We need a hobby, but this...
+		Precisamos de um passatempo, mas isto...
 		
 		[MADELINE right sad]
-		I know it sounds crazy, but{n}I need to climb this {+mountain}.
+		Sei que parece uma loucura, mas{n}preciso de escalar esta {+mountain}
 
 		{trigger 2 Badeline starts laughing}
 		
 		[BADELINE left scoff]
-		You are many things, darling,{n}but you are not a {~}mountain climber{/~}.
+		Tu és muitas coisas, querida,{n}mas {~}alpinista{/~} não é uma delas.
 
 		[MADELINE right distracted]
-		Who says I can't be?
+		E quem diz que não posso ser?
 
 		{trigger 3 Badeline stops laughing}
 		
 		[BADELINE left upset]
-		I know it's not your strong suit,{n}but be reasonable for once.
-		You have no idea what you're getting into.
-		You can't handle this.
+		Sei que não é o teu forte,{n}mas sê razoável por uma vez.
+		Não fazes idea daquilo em que te estás a meter.
+		Tu não consegues fazer isto.
 		
 		[MADELINE right upset]
-		That is exactly why I need to do this.
-		Are you the weak {+PART_OF_ME}, or the lazy part?
+		E é precisamente por isso que preciso de fazer isto.
+		És a {+PART_OF_ME} fraca, ou a preguiçosa?
 
 		[BADELINE left upset]
-		I'm the pragmatic part.
+		Sou a parte pragmática.
 		
 		[BADELINE left scoff]
-		And I'm {~}trying{/~} to be diplomatic here.
+		E estou a {~}tentar{/~} ser diplomática aqui.
 		
 		[BADELINE left serious]
-		{s 4}Let's go home {.6}[BADELINE left serious_alt]together.
+		{s 4}Vamos para casa {.6}[BADELINE left serious_alt]juntas.
 
 	CH2_DREAM_PHONECALL=
 		[MADELINE_PHONE left distracted]
-		Hello?
+		Estou?
 		
 		[EX_PHONE right normal]
 		{+MADELINE}?
-		...are you calling from a payphone?
+		...estás a telefonar de um telefone público?
 
 		[MADELINE_PHONE left distracted]
-		Yeah.
+		Sim, estou.
 
 		[MADELINE_PHONE left sad]
-		No, wait... you called me.
+		Não, espera... tu é que me telefonaste.
 
 		[EX_PHONE right normal]
-		What are you talking about?
+		Do que é que estás a falar?
 		
 		[MADELINE_PHONE left distracted]
-		It doesn't matter. I'm in trouble.
-		I'm being chased by... someone.
+		Não intressa. Estou em apuros.
+		Estou a ser perseguida por... alguém.
 
 		[MADELINE_PHONE left sad]
-		I don't really understand what's going on,{n}but I know I'm in danger. I can feel it.
+		Não consigo perceber o que é que se passa,{n}mas sei que estou em perigo. Consigo sentí-lo.
 		
 		[EX_PHONE right normal]
-		{+MADELINE}, you only call me when you're{n}panicking in the middle of the night.
-		You don't have to make up some{n}ridiculous story just to get my attention.
+		{+MADELINE}, tu só me ligas quando estás{n}em pânico a meio da noite.
+		Não precisas de inventar uma história{n}ridícula só para chamar a minha atenção.
 		
 		[MADELINE_PHONE left angry]
-		I'm not making it up!
-		You always do this!
+		Eu não estou a inventar!
+		Tu fazes sempre isto!
 		
 		[EX_PHONE right normal]
-		{~}Shhh{/~} {0.5}it's alright, calm down.
-		I'm sorry sweetheart.
-		Talk to me.
+		{~}Shhh{/~} {0.5}está tudo bem, tem calma.
+		Desculpa, amor.
+		Fala comigo.
 		
 		[MADELINE_PHONE left sad]
-		I'm climbing {+celeste_mountain}.{n}I found this old mirror, and it shattered,{n}but part of me escaped, and...
+		Estou a escalar a {+celeste_mountain}.{n}Encontrei um espelho velho, e ele partiu-se,{n}mas parte de mim escapou e...
 
 		[MADELINE_PHONE left upset]
 		...
-		...I'm dreaming, aren't I?
+		...Estou a sonhar, não estou?
 		
 		[EX_PHONE right normal]
-		{+MADELINE}. Of course you're dreaming.
-		I haven't spoken to you in months.
-		Why would I start now?
+		{+MADELINE}. Claro que estás a sonhar.
+		Eu não falo contigo há meses.
+		Porque haveria de começar agora?
 		
 		[MADELINE_PHONE left angry]
-		Ugh! Why am I even climbing this stupid {+mountain}?
+		Ugh! Porque é que eu estou sequer a escalar esta {+mountain} estúpida?
 
 		{trigger 0 Badeline appears}
 		
 		[BADELINE right scoff]
-		I'm wondering the same thing.
+		Pergunto-me o mesmo.
 		
 		[BADELINE right upset]
-		It's time to give up and go home.
+		Está na hora de desistires e ires para casa.
 
 	# if the MADELINE has never met Theo before
 	CH2_THEO_INTRO_NEVER_MET=
 		[THEO left normal]
-		Ho there, fellow explorer!
+		Boas, companheira exploradora!
 		
 		[MADELINE right distracted]
-		Oh... hi.
+		Ah... olá.
 
 		{trigger 0 Madeline approaches}
 
 		[THEO left normal]
-		Did you also trek up here to scope out these old ruins?
+		Também subiste aqui para explorar estas ruínas antigas?
 		
 		[MADELINE right sad]
-		Uhh... no, I'm headed for the summit.
+		Ahh... não, vou em direção ao cume.
 		
 		[THEO left excited]
-		Whoa, that's crazy!
+		Uau, que loucura!
 		
 		[THEO left normal]
-		I'm {+ theo} by the way, an adventurer from a {>> 0.3}{~}far off land!{/~}{>>}
+		Chamo-me {+ theo}, já agora, um aventureiro de uma {>> 0.3}{~}terra longínqua!{/~}{>>}
 		
 		[MADELINE right sad]
 		...{0.2}
 		
 		[THEO left thinking]
-		Not much of a talker, are you?
+		És muito calada, não és?
 		
 		[THEO left normal]
-		Mysterious lone wolf type, I get it.{n}I'll just imagine some dark backstory for you.
+		És do tipo loba solitária, eu percebo.{n}Vou imaginar um passado sombrio para ti.
 
 	# if the MADELINE has met Theo, but never introduced herself
 	CH2_THEO_INTRO_NEVER_INTRODUCED=
 		[MADELINE right sad]
-		Hey {+ theo}, sorry about earlier.{n}I'm {+MADELINE}.
-		I've got a lot on my mind.
+		Olá {+ theo}, desculpa aquilo lá atrás. Sou a {+MADELINE}.
+		Ando com muita coisa na minha cabeça.
 		
 		[THEO left normal]
-		Well this is a good place for it.
-		Something about these ruins feels so introspective.
-		It's really making me take a{n}look in the mirror, so to speak.
+		Bem, este é um bom sítio para isso.
+		Algo acerca destas ruínas parece tão introspetivo.
+		Está mesmo a fazer-me olhar{n}ao espelho, por assim dizer.
 		
 		[MADELINE right distracted]
-		Yeah... I get that.
+		Sim... Eu percebo isso.
 
 		[MADELINE right normal]
-		So what "{>> 0.5}{~}far off land{/~}{>>}" do you hail from?
+		Então, de qual "{>> 0.5}{~}terra longínqua{/~}{>>}" é que vens?
 		
 		[THEO left excited]
-		Well, my inquisitive compatriot, I doth hail{n}from the {0.3}{~}mystical,{0.4} enigmatic{/~}{0.4} kingdom of...
-		
+		Bem, minha compatriota curiosa, eu venho{n}do {0.3}{~}místico,{0.4} exótico{/~}{0.4} reino de...
+
 		[THEO left normal]
 		{0.4} Seattle.
 
 		[MADELINE right normal]
-		It sounds like a special place.
+		Parece um lugar especial.
 
 	# added to the start of the CH2_THEO_A if the MADELINE has met and introduced themselves to Theo
 	# (if NEVER_MET and NEVER_INTRODUCED are skipped)
 	CH2_THEO_A_EXT=
 		[THEO left excited]
-		Hey, {+MADELINE}!{n}You made it!
+		Boa, {+MADELINE}!{n}Conseguiste!
 
 		{trigger 3 Madeline Approaches}
 
@@ -934,36 +933,36 @@
 	# normal conversation once introductions are out of the way
 	CH2_THEO_A=
 		[THEO left normal]
-		Climbing up here was tough,{n}but totally worth it.
+		Escalar até aqui foi difícil,{n}mas valeu mesmo a pena.
 		
 		[THEO left excited]
-		Just look at these ruins!
-		I took so many great pics, wanna see?
+		Olha só estas ruínas!
+		Tirei tantas fotos fixes, queres ver?
 		
 		[MADELINE right sad]
-		Oh... [MADELINE right normal]sure.
+		Ah... [MADELINE right normal]claro.
 
 		{trigger 0 Maddy walks to Theo}
 
 		[MADELINE right normal]
-		{+ theo}, these are great!
+		{+ theo}, estas são fantásticas!
 		
 		[THEO left thinking]
-		Maybe I'll finally hit a thousand followers with these.
+		Pode ser que finalmente chegue aos mil seguidores com estas.
 
 		{trigger 1 Theo puts away phone}
 		
 		[THEO left normal]
-		Oh! We need to formally commemorate this occasion...
+		Ah! Precisamos de comemorar oficialmente esta ocasião...
 		
 		[THEO left excited]
-		Take a selfie with me!
+		Tira uma selfie comigo!
 		
 		[MADELINE right distracted]
-		Uhh... I don't know if that's such a good idea right now...
+		Ah... Não sei se isso é boa ideia agora...
 		
 		[THEO left normal]
-		Come on, it's easy. Like this!
+		Anda lá, é fácil. Assim!
 
 		{trigger 2 Theo takes a selfie with Maddy by surprise}
 		
@@ -972,97 +971,97 @@
 
 	CH2_THEO_B=
 		[THEO left normal]
-		Sorry about that.
-		Don't worry, I won't post that one.
+		Desculpa lá.
+		Não te preocupes, não vou publicar essa.
 
 		[MADELINE right distracted]
 		...
 		
 		[MADELINE right sad]
-		No, it's alright. You can post it.
-		I'm just{.2} not... photogenic.
+		Não faz mal. Podes publicar.
+		Só que eu não sou... fotogénica.
 		
 		[THEO left normal]
-		{+MADELINE}, don't be so hard on yourself!
-		No one looks good without a filter.
+		{+MADELINE}, não sejas tão dura contigo própria!
+		Ninguém fica bem sem um filtro.
 
 		{trigger 0 Add filter to selfie}
 		
 		[THEO left thinking]
-		Casual, yet refined.
+		Casual, mas refinada.
 
 	CH2_THEO_C=
 		[MADELINE right normal]
-		What made you want to try photography?
+		O que te fez tentar fotografia?
 
 		[THEO left normal]
-		My grandpa was really into it.
+		Era uma cena que o meu avô adorava.
 
 		[THEO left thinking]
-		Apparently he was semi-famous{n}in the photography world.
+		Pelos vistos ele era semi-famoso{n}no mundo da fotografia.
 
 		[THEO left wtf]
-		I don't know if I'll ever be that good at it.
+		Acho que nunca vou ser tão bom como isso.
 
 		[THEO left normal]
-		But it's nice to feel close to him.
+		Mas sabe bem sentir-me perto dele.
 
 	CH2_THEO_D=
 		[THEO left excited]
-		So you're determined to climb the entire {+mountain}?
+		Então, estás determinada a escalar a {+mountain} inteira?
 		
 		[MADELINE right normal]
-		Yeah, I told myself I would.
+		Sim, disse a mim própria que o iria fazer.
 
 		[MADELINE right sad]
-		I'm done breaking promises to myself.
+		Estou farta de quebrar promessas a mim própria.
 		
 		[THEO left excited]
-		Life goals! I dig it.
+		Objetivos de vida! Curto isso.
 		
 		[THEO left normal]
-		I doubt I'll make it to the top like you,{n}but I'm not ready to turn back just yet.
+		Duvido que consiga chegar lá acima como tu,{n}mas ainda não estou pronto a voltar atrás.
 
 	CH2_THEO_E=
 		[THEO left wtf]
-		Are you getting any data up here?
+		Consegues apanhar dados móveis cá em cima?
 		
 		[MADELINE right normal]
-		I don't have a smartphone.
+		Eu não tenho um smartphone.
 		
 		[THEO left wtf]
-		{+MADELINE}. I don't even know how to respond to that.
+		{+MADELINE}. Eu nem sei o que responder a isso.
 
 	CH2_END_PHONECALL=
 		[MOM_PHONE right normal]
-		Hello?
+		Estou?
 		
 		[MADELINE_PHONE left distracted]
-		Hey {+ mom}.
+		Olá {+ mom}.
 		
 		[MOM_PHONE right normal]
-		{+MADELINE}, what a nice surprise!
-		How's your trip?
+		{+MADELINE}, mas que bela surpresa!
+		Como está a correr a tua viagem?
 		
 		[MADELINE_PHONE left distracted]
-		It's okay, I'm just kind of... overwhelmed.
+		Está a correr bem, só estou um pouco... sobrecarregada.
 		
 		[MOM_PHONE right concerned]
-		Oh no, are you having another panic attack?
-		Focus on your breathing honey, I'm here.
-		What's going on?
+		Oh não, estás a ter outro ataque de pânico?
+		Concentra-te na respiração, querida. Estou aqui.
+		O que se passa?
 
 	CH2_JOURNAL=
-		There's a dusty old book open on the table.
-		A poem is written on the faded page.
+		Está aqui um livro velho e poeirento em cima da mesa.
+		Um poema está escrito na página desbotada.
 
 	CH2_POEM=
-		An apparition{n}
-		Not of this world{n}
-		But because of it{n}
-		Lurking out of frame{n}{n}
-		Awake, my heart is a fortress{n}
-		In dreams I am vulnerable
+		Uma aparição{n}
+		Que não é deste mundo{n}
+		Mas por causa dele{n}
+		A espreitar além do foco{n}{n}
+		Acordada, o meu coração é uma fortaleza{n}
+		Nos sonhos eu sou vulnerável
 
 # *** Chapter 03 ***
 
