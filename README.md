@@ -8,7 +8,7 @@ Um projeto de tradução do jogo [Celeste][celeste-game] para Português de Port
 
 ## Como Instalar
 
-A engine do Celeste deteta automaticamente novos ficheiros de linguagem e são integrados perfeitamente junto as línguas já existentes, pelo que nenhum ficheiro precisa de ser alterado ou substituído.
+A engine do Celeste deteta automaticamente novos ficheiros de linguagem e são integrados perfeitamente junto as línguas já existentes, pelo que nenhum ficheiro precisa de ser alterado ou substituído, apenas adicionado.
 
 1. Descarregar o ficheiro .zip deste repositório
 
