@@ -32,98 +32,98 @@
 
 # Auto-Saving
 	AUTOSAVING_TITLE_NS=
-		This game features Auto Saving
+		Este jogo grava automaticamente
 	AUTOSAVING_DESC_NS=
-		Do not turn off the console
-		when this icon is displayed
+		Não desligues a consola
+		quando este ícone for exibido
 	AUTOSAVING_TITLE_PS4=
-		This game features Auto Saving
+		Este jogo grava automaticamente
 	AUTOSAVING_DESC_PS4=
-		Do not turn off the console
-		when this icon is displayed
+		Não desligues a consola
+		quando este ícone for exibido
 	AUTOSAVING_TITLE_XB1=
-		This game features Auto Saving
+		Este jogo grava automaticamente
 	AUTOSAVING_DESC_XB1=
-		Do not turn off your console
-		when this icon is displayed
+		Não desligues a consola
+		quando este ícone for exibido
 	AUTOSAVING_TITLE_PC=
-		This game features Auto Saving
+		Este jogo grava automaticamente
 	AUTOSAVING_DESC_PC=
-		Do not turn off your computer
-		when this icon is displayed
+		Não desligues o computador
+		quando este ícone for exibido
 
 # Main Menu
 	MENU_DEBUG=		~DEBUG~
-	MENU_BEGIN=		CLIMB
+	MENU_BEGIN=		ESCALAR
 	MENU_PICO8=		PICO-8
-	MENU_OPTIONS=	Options
-	MENU_CREDITS=	Credits
-	MENU_EXIT=		Exit
+	MENU_OPTIONS=	Opções
+	MENU_CREDITS=	Créditos
+	MENU_EXIT=		Sair
 
 # Options
-	OPTIONS_TITLE=			OPTIONS
-	OPTIONS_CONTROLS=		CONTROLS
-	OPTIONS_RUMBLE_PC=		Rumble
-	OPTIONS_RUMBLE_PS4=		Vibration
-	OPTIONS_RUMBLE_XB1=		Vibration
-	OPTIONS_RUMBLE_NS=		Rumble
+	OPTIONS_TITLE=			OPÇÕES
+	OPTIONS_CONTROLS=		CONTROLOS
+	OPTIONS_RUMBLE_PC=		Vibração
+	OPTIONS_RUMBLE_PS4=		Vibração
+	OPTIONS_RUMBLE_XB1=		Vibração
+	OPTIONS_RUMBLE_NS=		Vibração
 	OPTIONS_RUMBLE_ON=		100%
 	OPTIONS_RUMBLE_HALF=	50%
-	OPTIONS_RUMBLE_OFF=		OFF
-	OPTIONS_GRAB_MODE=		Grab Mode
-	OPTIONS_CROUCH_DASH_MODE=	Crouch Dash Mode
-	OPTIONS_BUTTON_PRESS=	Press
-	OPTIONS_BUTTON_HOLD=	Hold
-	OPTIONS_BUTTON_INVERT=	Invert
-	OPTIONS_BUTTON_TOGGLE=	Toggle
-	OPTIONS_KEYCONFIG=		Keyboard Config
-	OPTIONS_BTNCONFIG=		Controller Config
+	OPTIONS_RUMBLE_OFF=		Desligado
+	OPTIONS_GRAB_MODE=		Modo de Agarrar
+	OPTIONS_CROUCH_DASH_MODE=	Modo de Dash Agachado
+	OPTIONS_BUTTON_PRESS=	Premir
+	OPTIONS_BUTTON_HOLD=	Segurar
+	OPTIONS_BUTTON_INVERT=	Inverter
+	OPTIONS_BUTTON_TOGGLE=	Alternar
+	OPTIONS_KEYCONFIG=		Configuração do Teclado
+	OPTIONS_BTNCONFIG=		Configuração do Comando
 
-	OPTIONS_VIDEO=			VIDEO
-	OPTIONS_FULLSCREEN=		Fullscreen
-	OPTIONS_WINDOW=			Window Scale
-	OPTIONS_VSYNC=			Vertical Sync
-	OPTIONS_VIEWPORT_NS=	Adjust Screen Size
-	OPTIONS_VIEWPORT_PS4=	Adjust Screen Size
-	OPTIONS_VIEWPORT_XB1=	Adjust Screen Size
-	OPTIONS_VIEWPORT_PC=	Adjust Screen Size
-	OPTIONS_DISABLE_FLASH=	Photosensitive Mode
-	OPTIONS_DISABLE_SHAKE=	Screen Shake Effects
+	OPTIONS_VIDEO=			VÍDEO
+	OPTIONS_FULLSCREEN=		Ecrã Inteiro
+	OPTIONS_WINDOW=			Escala da Janela
+	OPTIONS_VSYNC=			Sincronização Vertical
+	OPTIONS_VIEWPORT_NS=	Ajustar Tamanho do Ecrã
+	OPTIONS_VIEWPORT_PS4=	Ajustar Tamanho do Ecrã
+	OPTIONS_VIEWPORT_XB1=	Ajustar Tamanho do Ecrã
+	OPTIONS_VIEWPORT_PC=	Ajustar Tamanho do Ecrã
+	OPTIONS_DISABLE_FLASH=	Modo Fotossensível
+	OPTIONS_DISABLE_SHAKE=	Efeitos de Vibração do Ecrã
 
 	OPTIONS_AUDIO=			AUDIO
-	OPTIONS_MUSIC=			Music
-	OPTIONS_SOUNDS=			Sounds
+	OPTIONS_MUSIC=			Musica
+	OPTIONS_SOUNDS=			Sons
 
-	OPTIONS_GAMEPLAY=		GAMEPLAY
-	OPTIONS_SPEEDRUN=		Speedrun Clock
-	OPTIONS_SPEEDRUN_CHAPTER=Chapter
-	OPTIONS_SPEEDRUN_FILE=	File
-	OPTIONS_DASHES=			Dash Counter
-	OPTIONS_LANGUAGE=		Language
-	OPTIONS_ON=				ON
-	OPTIONS_OFF=			OFF
+	OPTIONS_GAMEPLAY=		JOGO
+	OPTIONS_SPEEDRUN=		Cronómetro de Speedrun
+	OPTIONS_SPEEDRUN_CHAPTER=Capítulo
+	OPTIONS_SPEEDRUN_FILE=	Ficheiro
+	OPTIONS_DASHES=			Contador de Dashes
+	OPTIONS_LANGUAGE=		Idioma
+	OPTIONS_ON=				SIM
+	OPTIONS_OFF=			NÃO
 
 # KEYBOARD CONFIG
-	KEY_CONFIG_TITLE=		Keyboard Config
-	KEY_CONFIG_GAMEPLAY=	GAMEPLAY
-	KEY_CONFIG_LEFT=		Left
-	KEY_CONFIG_RIGHT=		Right
-	KEY_CONFIG_UP=			Up
-	KEY_CONFIG_DOWN=		Down
-	KEY_CONFIG_JUMP=		Jump
+	KEY_CONFIG_TITLE=		Configuração do Teclado
+	KEY_CONFIG_GAMEPLAY=	JOGO
+	KEY_CONFIG_LEFT=		Esquerda
+	KEY_CONFIG_RIGHT=		Direita
+	KEY_CONFIG_UP=			Cima
+	KEY_CONFIG_DOWN=		Baixo
+	KEY_CONFIG_JUMP=		Saltar
 	KEY_CONFIG_DASH=		Dash
-	KEY_CONFIG_GRAB=		Grab
-	KEY_CONFIG_TALK=		Talk
+	KEY_CONFIG_GRAB=		Agarrar
+	KEY_CONFIG_TALK=		Falar
 	KEY_CONFIG_MENUS=		MENU
-	KEY_CONFIG_CONFIRM=		Confirm
-	KEY_CONFIG_CANCEL=		Cancel
-	KEY_CONFIG_PAUSE=		Pause
-	KEY_CONFIG_JOURNAL=		Journal
-	KEY_CONFIG_QUICKRESTART=Quick Restart
-	KEY_CONFIG_RESET=		Reset All to Defaults
-	KEY_CONFIG_CHANGING=	PRESS KEY FOR
-	KEY_CONFIG_MOVE_ONLY=	FOR MOVEMENT ONLY
-	KEY_CONFIG_DASH_ONLY=	FOR DASHING ONLY
+	KEY_CONFIG_CONFIRM=		Confirmar
+	KEY_CONFIG_CANCEL=		Cancelar
+	KEY_CONFIG_PAUSE=		Pausar
+	KEY_CONFIG_JOURNAL=		Diário
+	KEY_CONFIG_QUICKRESTART=Reinicio Rápido
+	KEY_CONFIG_RESET=		Reiniciar Tudo
+	KEY_CONFIG_CHANGING=	CARREGA NA TECLA PARA
+	KEY_CONFIG_MOVE_ONLY=	APENAS PARA MOVIMENTO
+	KEY_CONFIG_DASH_ONLY=	APENAS PARA DASH
 
 # CONTROLLER CONFIG
 	BTN_CONFIG_TITLE=		Controller Config
