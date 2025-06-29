@@ -302,7 +302,7 @@
 
 	CHECKPOINT_8H_0=	No núcleo
 	CHECKPOINT_8H_1=	Queimar ou Congelar
-	CHECKPOINT_8H_2=	Ataque Cardíaco
+	CHECKPOINT_8H_2=	Batimento Cardíaco
 
 # Postcards
 	POSTCARD_AREA_1=
@@ -379,61 +379,61 @@
 	MOUNTAIN_COMPLETE_CSIDE=			Lado C Completo
 
 # Game Paused
-	MENU_PAUSE_TITLE=			PAUSED
-	MENU_PAUSE_RESUME=			Resume
-	MENU_PAUSE_SKIP_CUTSCENE=	Skip Cutscene
-	MENU_PAUSE_RETRY=			Retry
-	MENU_PAUSE_ASSIST=			Assist Options
-	MENU_PAUSE_VARIANT=			Variants
-	MENU_PAUSE_OPTIONS=			Options
-	MENU_PAUSE_RESTARTAREA=		Restart Chapter
-	MENU_PAUSE_SAVEQUIT=		Save and Quit
-	MENU_PAUSE_RETURN=			Return to Map
-	MENU_PAUSE_RESTARTDEMO=		Restart Demo
-	MENU_RETURN_TITLE=			RETURN TO MAP?
-	MENU_RETURN_CONTINUE=		Yes
-	MENU_RETURN_CANCEL=			Cancel
-	MENU_RETURN_INFO=			Returning to Map will save your progress{n}
-								but you must restart at the last checkpoint
-	MENU_RESTART_TITLE=			RESTART CHAPTER?
-	MENU_RESTART_CONTINUE=		Yes
-	MENU_RESTART_CANCEL=		Cancel
+	MENU_PAUSE_TITLE=			PAUSA
+	MENU_PAUSE_RESUME=			Continuar
+	MENU_PAUSE_SKIP_CUTSCENE=	Saltar Cutscene
+	MENU_PAUSE_RETRY=			Tentar Novamente
+	MENU_PAUSE_ASSIST=			Opções de Assistência
+	MENU_PAUSE_VARIANT=			Variantes
+	MENU_PAUSE_OPTIONS=			Opções
+	MENU_PAUSE_RESTARTAREA=		Reiniciar Capítulo
+	MENU_PAUSE_SAVEQUIT=		Guardar e Sair
+	MENU_PAUSE_RETURN=			Voltar ao Mapa
+	MENU_PAUSE_RESTARTDEMO=		Reiniciar Demo
+	MENU_RETURN_TITLE=			VOLTAR AO MAPA?
+	MENU_RETURN_CONTINUE=		Sim
+	MENU_RETURN_CANCEL=			Cancelar
+	MENU_RETURN_INFO=			Voltar ao Mapa irá guardar o teu progresso{n}
+								mas tens de recomeçar no último checkpoint
+	MENU_RESTART_TITLE=			REINICIAR CAPÍTULO?
+	MENU_RESTART_CONTINUE=		Sim
+	MENU_RESTART_CANCEL=		Cancelar
 
 # Assist UI
-	MENU_ASSIST_TITLE=					ASSIST MODE
-	MENU_ASSIST_SUBTITLE=				Assists
-	MENU_ASSIST_GAMESPEED=				Game Speed
-	MENU_ASSIST_INVINCIBLE=				Invincibility
-	MENU_ASSIST_AIR_DASHES=				Air Dashes
-	MENU_ASSIST_DASH_ASSIST=			Dash Assist
-	MENU_ASSIST_AIR_DASHES_NORMAL=		Default
+	MENU_ASSIST_TITLE=					MODO DE ASSISTÊNCIA
+	MENU_ASSIST_SUBTITLE=				Assistências
+	MENU_ASSIST_GAMESPEED=				Velocidade do Jogo
+	MENU_ASSIST_INVINCIBLE=				Invencibilidade
+	MENU_ASSIST_AIR_DASHES=				Dashes no Ar
+	MENU_ASSIST_DASH_ASSIST=			Assistência aos Dashes
+	MENU_ASSIST_AIR_DASHES_NORMAL=		Normal
 	MENU_ASSIST_AIR_DASHES_TWO=			2
-	MENU_ASSIST_AIR_DASHES_INFINITE=	Infinite
-	MENU_ASSIST_INFINITE_STAMINA=		Infinite Stamina
+	MENU_ASSIST_AIR_DASHES_INFINITE=	Infinito
+	MENU_ASSIST_INFINITE_STAMINA=		Energia Infinita
 
 # Variant UI
-	MENU_VARIANT_TITLE=					VARIANTS
-	MENU_VARIANT_SUBTITLE=				Variants
-	MENU_VARIANT_MIRROR=				Mirror Mode
-	MENU_VARIANT_360DASHING=			360 Dashing
-	MENU_VARIANT_INVISMOTION=			Invisible Motion
-	MENU_VARIANT_PLAYASBADELINE=		Other Self
-	MENU_VARIANT_NOGRABBING=			No Grabbing
-	MENU_VARIANT_LOWFRICTION=			Low Friction
+	MENU_VARIANT_TITLE=					VARIANTES
+	MENU_VARIANT_SUBTITLE=				Variantes
+	MENU_VARIANT_MIRROR=				Modo Espelhado
+	MENU_VARIANT_360DASHING=			Dashing 360
+	MENU_VARIANT_INVISMOTION=			Movimento Invisível
+	MENU_VARIANT_PLAYASBADELINE=		Outro Próprio
+	MENU_VARIANT_NOGRABBING=			Sem Agarrar
+	MENU_VARIANT_LOWFRICTION=			Baixa Fricção
 	MENU_VARIANT_SUPERDASHING=			Super Dashing
-	MENU_VARIANT_HICCUPS=				Hiccups
+	MENU_VARIANT_HICCUPS=				Soluços
 
 # Misc UI
-	UI_CUTSCENE_SKIP=	Skip
-	UI_REMIX_UNLOCKED=	B-Side Unlocked
-	UI_CANCEL=			Back
-	UI_CONFIRM=			Confirm
-	UI_QUICK_RESTART_TITLE=Quick Restart: 
-	UI_QUICK_RESTART_HOLD=Hold
-	UI_QUICK_RESTART_PRESS=Press
+	UI_CUTSCENE_SKIP=	Saltar
+	UI_REMIX_UNLOCKED=	Lado B Desbloqueado
+	UI_CANCEL=			Voltar
+	UI_CONFIRM=			Confirmar
+	UI_QUICK_RESTART_TITLE=Reinicio Rápido:
+	UI_QUICK_RESTART_HOLD=Segurar
+	UI_QUICK_RESTART_PRESS=Premir
 
 # B SIDES
-	REMIX_BY=			Music by
+	REMIX_BY=			Musica por
 	REMIX_ALBUM=		Celeste B-Sides
 
 	AREA_1_REMIX=		(Sever the Skyline Mix)
@@ -446,30 +446,30 @@
 	AREA_9_REMIX=		(Say Goodbye Mix)
 
 # Credits
-	CREDITS_THANKYOU=	Thanks for playing :)
+	CREDITS_THANKYOU=	Obrigado por jogares :)
 
 # Names
 	THEO=				{# FF9523}Theo{#}
 	THEO_UNDER_STARS=	{# FFFF4C}TheoUnderStars{#}
-	MIXMASTER_THEO=		{# FF9523}Mix Master Theo{#}
-	MOM=				{# 339CC7}Mom{#}
-	MROSHIRO=			{# 7BD838}Mr\. Oshiro{#}
+	MIXMASTER_THEO=		{# FF9523}Mestre das Misturas Theo{#}
+	MOM=				{# 339CC7}Mãe{#}
+	MROSHIRO=			{# 7BD838}Sr\. Oshiro{#}
 	OSHIRO=				{# 7BD838}Oshiro{#}
 	ELCREEPO=			{# 7BD838}El Creepo{#}
 	MADELINE=			{# F94A4A}{savedata Name}{#}
-	MS_MADELINE=		{# F94A4A}Ms\. {savedata Name}{#}
-	RESORT=				{# b864be}Celestial Resort{#}
+	MS_MADELINE=		{# F94A4A}Sra\. {savedata Name}{#}
+	RESORT=				{# b864be}Resort Celestial{#}
 	THOUGHT=			{# 696a6a}{~}(
 	ENDTHOUGHT=			){/~}{#}
-	MOUNTAIN=			{# 96EFFF}Mountain{#}
-	CELESTE_MOUNTAIN=	{# 96EFFF}Celeste Mountain{#}
-	PART_OF_ME=			{# d678db}{~}Part of Me{/~}{#}
-	PART_OF_YOU=		{# d678db}{~}Part of You{/~}{#}
+	MOUNTAIN=			{# 96EFFF}Montanha{#}
+	CELESTE_MOUNTAIN=	{# 96EFFF}Montanha Celeste{#}
+	PART_OF_ME=			{# d678db}{~}Parte de Mim{/~}{#}
+	PART_OF_YOU=		{# d678db}{~}Parte de Ti{/~}{#}
 	ST_BAD=				{# d678db}{~}
 	END_BAD=			{/~}{#}
-	GRANNY=				{# 66ea3a}Granny{#}
-	PART_OF_HER=		{# 66ea3a}{~}Part of Her{/~}{#}
-	PART_OF_GRANNY=		{# 66ea3a}{~}Part of Granny{/~}{#}
+	GRANNY=				{# 66ea3a}Avózinha{#}
+	PART_OF_HER=		{# 66ea3a}{~}Parte Dela{/~}{#}
+	PART_OF_GRANNY=		{# 66ea3a}{~}Parte da Avózinha/~}{#}
 
 # Theo sister name
 # if the player name is the same as this one, theo's sister name becomes the ALT_NAME
@@ -482,33 +482,33 @@
 # *** Prologue ***
 
 	CH0_INTRO=
-		This is it, {+MADELINE}.
-		Just breathe.
-		Why are you so nervous?
+		É agora, {+MADELINE}.
+		Respira fundo.
+		Porque é que estás tão nervosa?
 
 	CH0_GRANNY=
 		{anchor top}
 
 		[MADELINE left normal]
-		Excuse me, ma'am?
+		Desculpe, senhora?
 
 		{trigger 0 Madeline walks forward}
 
 		[MADELINE left normal]
-		The sign out front is busted...{n}is this the {+mountain} trail?
+		A tabuleta lá à frente está partida...{n}é este o trilho da {+mountain}?
 
 		[GRANNY right normal]
-		You're almost there.{n}It's just across the bridge.
+		Estás quase lá.{n}É do outro lado da ponte.
 
 		{trigger 1 Madeline walks to the right of the house, turns left}
 		
 		[MADELINE right sad]
-		By the way, you should call someone about your driveway. The ridge collapsed and I nearly died.
+		Já agora, devia ligar a alguém por causa da sua entrada. A passagem desmoronou-se e eu quase morri.
 
 		{trigger 2 Granny laughs}
 
 		[GRANNY left laugh]
-		If my {>> 0.3}"driveway"{>>}{0.2} almost did you in,{n}the {+mountain} might be a bit much for you.
+		Se a minha{>> 0.3}"entrada"{>>}{0.2} quase te mandou desta para melhor,{n}então a {+mountain} é demais para ti.
 
 		{trigger 3 Laugh Continues}
 
@@ -516,33 +516,33 @@
 		{0.5}...{0.2}
 
 		[MADELINE right angry]
-		Well, if an old bat like {~}you{/~} can{n}survive out here, I think I'll be fine.
+		Bem, se uma velha como {~}a senhora{/~} consegue{n}sobreviver aqui, acho que vou ficar bem.
 
 		{trigger 4 Stop laughing}
 
 		[GRANNY left normal]
-		Suit yourself.
+		Fica à vontade.
 
 		{silent_trigger 5 Ominous zoom-in}
 
 		[GRANNY left normal]
-		But you should know,{n}{+CELESTE_MOUNTAIN} is a strange place.
+		Mas devias ficar a saber, a {n}{+CELESTE_MOUNTAIN} é um lugar estranho.
 
 		[GRANNY left creepA]
-		You might see things.
+		Poderás ver coisas.
 
 		[GRANNY left creepB]
-		Things you ain't ready to see.
+		Coisas que não estás preparada para ver.
 
 		{trigger 6 pan to Maddy}
 
 		[MADELINE right upset]
-		You should seek help, lady.
+		Trate-se, senhora.
 
 		{trigger 3 resume laughing}
 
 	CH0_END=
-		You can do this.
+		Tu consegues fazer isto.
 
 # *** Chapter 01 ***
 
