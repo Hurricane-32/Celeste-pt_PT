@@ -596,7 +596,7 @@
 	CH1_THEO_B=
 		[MADELINE right sad]
 		Ah, desculpa. Eu sou a {+MADELINE}.
-		Ando com muita coisa na minha cabeça.
+		Ando com muitas coisas na minha cabeça.
 
 		[THEO left normal]
 		Bem, {+MADELINE}, eu diria que vieste ao sítio certo!
@@ -902,7 +902,7 @@
 	CH2_THEO_INTRO_NEVER_INTRODUCED=
 		[MADELINE right sad]
 		Olá {+ theo}, desculpa aquilo lá atrás. Sou a {+MADELINE}.
-		Ando com muita coisa na minha cabeça.
+		Ando com muitas coisas na minha cabeça.
 		
 		[THEO left normal]
 		Bem, este é um bom sítio para isso.
@@ -910,7 +910,7 @@
 		Está mesmo a fazer-me olhar{n}ao espelho, por assim dizer.
 		
 		[MADELINE right distracted]
-		Sim... Eu percebo isso.
+		Sim... Percebo isso.
 
 		[MADELINE right normal]
 		Então, de qual "{>> 0.5}{~}terra longínqua{/~}{>>}" é que vens?
@@ -1012,7 +1012,7 @@
 
 	CH2_THEO_D=
 		[THEO left excited]
-		Então, estás determinada a escalar a {+mountain} inteira?
+		Então, estás determinada a escalar a {+mountain} toda?
 		
 		[MADELINE right normal]
 		Sim, disse a mim própria que o iria fazer.
@@ -1021,10 +1021,10 @@
 		Estou farta de quebrar promessas a mim própria.
 		
 		[THEO left excited]
-		Objetivos de vida! Curto isso.
+		Objetivos de vida! Curto disso.
 		
 		[THEO left normal]
-		Duvido que consiga chegar lá acima como tu,{n}mas ainda não estou pronto a voltar atrás.
+		Duvido que consiga chegar lá acima como tu,{n}mas ainda não estou disposto a voltar atrás.
 
 	CH2_THEO_E=
 		[THEO left wtf]
@@ -1034,7 +1034,7 @@
 		Eu não tenho um smartphone.
 		
 		[THEO left wtf]
-		{+MADELINE}. Eu nem sei o que responder a isso.
+		{+MADELINE}. Nem sei o que responder a isso.
 
 	CH2_END_PHONECALL=
 		[MOM_PHONE right normal]
@@ -1062,9 +1062,9 @@
 	CH2_POEM=
 		Uma aparição{n}
 		Que não é deste mundo{n}
-		Mas por causa dele{n}
-		A espreitar além do foco{n}{n}
-		Acordada, o meu coração é uma fortaleza{n}
+		Mas sim por causa dele{n}
+		À espreita fora de alcançe{n}{n}
+		Acordado, o meu coração é uma fortaleza{n}
 		Nos sonhos eu sou vulnerável
 
 # *** Chapter 03 ***
@@ -1402,7 +1402,7 @@
 		
 		[MADELINE right upset]
 		Claro, que se lixe.
-		Mostre-me a suite presidencial.
+		Mostre-me lá a suite presidencial.
 		Parece ser fantástica.
 		
 		[OSHIRO left sideworried]
@@ -1447,7 +1447,7 @@
 
 		[MADELINE left normal]
 		Eu sou a {+MADELINE}, já agora.
-		Desculpa por ter sido antisocial há um bocado,{n}ando com muita coisa na minha cabeça.
+		Desculpa por ter sido antisocial há um bocado,{n}ando com muitas coisas na minha cabeça.
 
 		{+CH3_THEO_ESCAPING}
 
@@ -1507,7 +1507,7 @@
 		
 		[THEO right wtf]
 		Meu, és mais teimosa do que a minha irmã.
-		Eu pensava que isso era impossível.
+		E eu pensava que isso era impossível.
 
 		{trigger 3 Theo walks to Maddy}
 		
@@ -1628,7 +1628,7 @@
 		As cores são elegantes.
 
 		[MADELINE left normal]
-		Consigo ver que dedicou muito esforço nela.
+		Consigo ver que lhe dedicou muito esforço.
 
 		[OSHIRO right worried]
 		{*}Eu sabia que a ia impressionar!{/*}
@@ -1686,7 +1686,7 @@
 		Eu...
 
 		[OSHIRO right lostcontrol]
-		Eu estou muito ocupado.
+		Estou muito ocupado.
 		Por favor vá-se embora, {+MS_MADELINE}. {silent_trigger 5 Madeline jumps back}
 		
 		[BADELINE right upset]
