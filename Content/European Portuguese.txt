@@ -1,6 +1,7 @@
-﻿########################################################################################################
-# Traduzido por Hurricane_32, com base no inglês, e alguma (pouca) assistência da tradução brasileira. #
-########################################################################################################
+﻿###########################################################
+# https://github.com/Hurricane-32/Celeste-pt_PT/tree/main #
+###########################################################
+
 # NOTES:
 # The # Symbol at the start of a line counts as a Comment. To include in dialog, use a \#
 # The . Symbol will cause a pause unless escaped with \. (ex: Mr. Oshiro has a pause, Mr\. Oshiro does not)
