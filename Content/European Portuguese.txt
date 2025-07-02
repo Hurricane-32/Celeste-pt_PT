@@ -1174,7 +1174,7 @@
 		A minha mala?
 
 		[MADELINE left normal]
-		Não obrigado, eu fico com ela.
+		Não obrigada, eu fico com ela.
 		
 		[OSHIRO right normal]
 		Hm. Tudo bem.
@@ -1516,7 +1516,7 @@
 		Tem cuidado contigo.
 
 		[MADELINE left normal]
-		Obrigado {+theo}. Vê-mo-nos lá fora.
+		Obrigada {+theo}. Vê-mo-nos lá fora.
 
 	CH3_THEO_VENTS=
 		{anchor bottom}
@@ -2113,7 +2113,7 @@
 		Sentes-te melhor?
 		
 		[MADELINE right distracted flip]
-		Acho que sim. Obrigado por me ajudares a acalmar.
+		Acho que sim. Obrigada por me ajudares a acalmar.
 
 		{trigger 15 Wait a bit}
 		
@@ -2151,57 +2151,45 @@
 		[THEO right excited flip]
 		Oh meu, olha só este lugar!
 		Queres ir numa aventura?
-		Oh man, look at this place!
-		Feeling adventurous?
 
 		{trigger 0 Maddy turns right}
 
 		[MADELINE left sad]
 		Hm, não sei não.
 		Parece-me bastante escuro lá dentro.
-		Uh, I don't know. 
-		It looks pretty dark in there.
 
 		[MADELINE left distracted]
 		Parece mais um pesadelo que uma aventura.
-		More like a nightmare than an adventure.
 
 		{trigger 1 Theo turns left}
 		
 		[THEO right normal]
 		Vou só dar uma olhadela, tirar umas fotos.
-		I'll just take a quick peek, snap a few photos.
 
 		{trigger 1 Theo turns right}
 
 		[THEO right excited flip]
 		Este sítio deve ser bem antigo!
-		This place must be ancient!
 
 		[MADELINE left sad]
 		{+THEO}, espera.
-		{+THEO}, wait.
 		
 		[THEO right excited flip]
 		Os meus seguidores do {# FFFF4C}InstaPix{#} vão adorar isto.
-		My {# FFFF4C}InstaPix{#} followers are gonna eat this up.
 
 		{trigger 2 Theo leaves}
 		
 		[MADELINE left distracted]
 		Isto não vai acabar bem.
-		There's no way this ends well.
 
 	CH5_PHONE=
 		[MADELINE left sad]
 		Oh não.
-		Uh oh.
 
 		{trigger 0 Maddy walks to phone, ducks to pick it up}
 
 		[MADELINE left distracted]
 		Isto é o telemóvel do {+THEO}...
-		This is {+THEO}'s phone...
 
 		{trigger 1 Maddy stands back up}
 
@@ -2209,250 +2197,184 @@
 		Acalma-te, {+MADELINE}.
 		Se calhar só lhe caiu do bolso.
 		Vou devolver-lho assim que o encontrar.
-		Don't panic, {+MADELINE}.
-		Maybe it just fell out of his pocket.
-		I'll give it back to him when I find him.
 
 	CH5_THEO_MIRROR=
 		[MADELINE left normal]
 		{+theo}! Aí estás tu!
-		{+theo}! There you are!
 		
 		[THEO_MIRROR right excited]
 		{+MADELINE}! Ei!
-		{+MADELINE}! Hey!
 		
 		[THEO_MIRROR right wtf]
 		...ah, porque é que estás dentro de um espelho?
-		...uh, why are you inside a mirror?
 		
 		[MADELINE left sad]
 		Tenho a certeza que tú é que estás dentro do espelho.
 		O que aconteceu?
-		I'm pretty sure you're the one in the mirror.
-		What happened?
 		
 		[THEO_MIRROR right wtf]
 		Bem, estava aqui a tirar uma selfie na descontra...
 		Sabes, {~}{# aaaaaa}"Como é que é pessoal, daqui é o {+THEO}{# aaaaaa} neste{n}templo ancestral, nada de mais."{#}{/~}
-		Well, I was taking a nonchalant mirror selfie...
-		Y'know, {~}{# aaaaaa}"It's your boy {+THEO}{# aaaaaa} in this{n}ancient temple, no big deal."{#}{/~}
 
 		[THEO_MIRROR right thinking]
 		{# ffff9b}\#abençoado{#}
-		{# ffff9b}\#blessed{#}
 		
 		[THEO_MIRROR right serious]
 		Quando dou por mim acordo deitado no chão.
-		Next thing I know I wake up lying on the ground.
 		
 		[MADELINE left sad]
 		Como é que são as coisas desse lado?
 		Como posso encontrar-te?
-		What does it look like over there?
-		How can I find you?
 		
 		[THEO_MIRROR right serious]
 		É, ah... é muito escuro e estranho. Tem aqui...
-		It's, uh... it's really dark and weird. There's...
 		
 		[THEO_MIRROR right wtf]
 		Espera, está aí a vir alguma coisa.
 		Estou a sentir uma vontade forte de fugir.
-		Wait, something's coming.
-		I'm feeling a strong inclination to run away.
 		
 		[THEO_MIRROR right serious]
 		Tem cuidado, está bem?
-		Be careful, okay?
 
 	CH5_SHADOW_MADDY_0=
 		[MADELINE left angry]
 		{*}Ei!{/*} Onde é que estamos?
 		{!}O que é tu que fizeste ao {+theo}?{/!}
-		{*}Hey!{/*} Where are we?
-		{!}What did you do to {+theo}?{/!}
 		
 		[BADELINE right scoff]
 		Tu achas que sou {~}eu{/~} a fazer isto?
 		Que giro.
-		You think {~}I'm{/~} doing this?
-		That's cute.
 		
 		[BADELINE right upset]
 		Querida, foi exatamente por isto que eu te avisei.
-		Sweetheart, this is exactly what I warned you about.
 		
 	CH5_SHADOW_MADDY_1=
 		[MADELINE left angry]
 		Não tentes meter as culpas em mim.
-		Don't try to make this my fault.
 
 		[BADELINE right scoff]
 		Ainda não percebeste?
-		You still don't get it?
 
 		[BADELINE right upset]
 		A {+mountain} deu-me este corpo.
-		The {+mountain} gave me this body.
 
 		[BADELINE right scoff]
 		Mas não sou a única {*}coisa assustadora{/*} a viver{n}nessa tua cabeça toda lixada.
-		But I'm not the only {*}creepy thing{/*} living{n}in that messed up head of yours.
 
 		[BADELINE right normal]
 		Não gostas daquilo que vês?
-		Don't like what you see?
 
 		[BADELINE right scoff]
 		{~}Mas que surpresa.{/~}
-		{~}What a surprise.{/~}
 		
 		[MADELINE left angry]
 		Cala-te!
-		Shut up!
 
 		[BADELINE right angry]
 		Eu {~}tentei{/~} impedir-te.
-		I {~}tried{/~} to stop you.
 
 		[BADELINE right yell]
 		Olha-te ao espelho, tudo isto é teu.
-		Look into the mirror, all of this is yours.
 
 		[BADELINE right angry]
 		Este templo apenas amplia o poder da {+montanha}.
-		This temple only magnifies the {+mountain}'s power.
 
 		[BADELINE right upset]
 		És tu em controlo aqui, não sou eu.
-		You're in control here, not me.
 
 	CH5_SHADOW_MADDY_2=
 		[MADELINE left sad]
 		Não acredito em ti.
-		I don't believe you.
 
 		[MADELINE left distracted]
 		Se és {+PART_OF_ME}, porque é que me queres magoar?
-		If you're {+PART_OF_ME}, why do you want to hurt me?
 
 		[BADELINE right angry]
 		Pobre {+MADELINE}, {~}sempre a fazer de vítima{/~}.
-		Poor {+MADELINE}, {~}always the victim.{/~}
 
 		[BADELINE right yell]
 		Tudo o que eu faço é cuidar de ti, e tu odeias-me por isso.
-		All I do is babysit you, and you hate me for it.
 
 		[BADELINE right angry]
 		A verdade está a vir ao de cima e tu sabes disso.
-		You're unravelling and you know it. 
 
 		[MADELINE left angry]
 		Se te preocupas tanto em me proteger, porque é que{n}simplesmente não me {*}explicaste{/*} o que se estava a passar?
-		If you care so much about protecting me,{n}why didn't you just {*}explain{/*} what was going on?
 		
 		[BADELINE right angry]
 		Como se me fosses dar ouvidos?
 		Nunca me deste uma oportunidade.
-		Like you would have listened?
-		You never gave me a chance.
 
 	CH5_SHADOW_MADDY_3=
 		[MADELINE left panic]
 		Por favor, ajuda-me só a sair daqui.
-		Please, just help me get out of here.
 
 		[BADELINE right scoff]
 		{~}Agora{/~} é que queres a minha ajuda?
-		{~}Now{/~} you want me to save you?
 
 		[MADELINE left panic]
 		Porque é que estás a fazer isto?
 		Põe-te do meu lado.
 		Por favor.
-		Why are you doing this?
-		Just be on my side here.
-		Please.
 
 		[BADELINE right angry]
 		Para de me tentar fazer sentir como um monstro.
 		Ques {~}mesmo{/~} saber porque é que eu não te ajudo?
-		Stop trying to make me feel like a monster.
-		You {~}really{/~} want to know why I won't help?
 
 		[BADELINE right yell]
 		Porque tu {*}mereces{/*} isto.
-		Because you {*}deserve{/*} this.
 
 		[MADELINE left panic]
 		...
 
 		[BADELINE right angry]
 		Ainda achas que consegues {~}escalar esta {+MOUNTAIN}?{/~}
-		Still think you can {~}climb this {+MOUNTAIN}?{/~}
 
 		[MADELINE left angry]
 		{*}ESTÁ CALADA!{/*}
-		{*}SHUT UP!{/*}
 
 		{trigger 0 Badeline Leaves}
 
 		[MADELINE left angry]
 		{*}Mão preciso da tua ajuda.{/*}
 		Faço isto sozinha.
-		{*}I don't need your help.{/*}
-		I'll do this alone.
 
 	CH5_REFLECTION=
 		[MADELINE right sad]
 		Se isto está tudo na minha cabeça, porque é que é tão hostil?
-		If this is all in my head, why is it so hostile?
 		
 		[MADELINE right distracted]
 		Aquelas {*}coisas{/*} estão a caçar-me.
 		Sou uma invasora dentro do meu próprio mundo.
-		Those {*}things{/*} are hunting me.
-		I'm a trespasser in my own world.
 
 		{trigger 0 Madeline falls to knees}
 		
 		[MADELINE right panic]
 		O {+theo} está preso algures aqui dentro por culpa minha.
 		Se eu me entregar completamente, {n}talvez o templo o liberte...
-		{+theo} is trapped somewhere in here because of me.
-		If I give in fully, maybe the temple will let him go...
 
 		{trigger 1 Madeline stops panicking}
 
 		[MADELINE_MIRROR left determinedclosed flip]
 		...
 		Respira.
-		Breathe.
 		
 		[MADELINE_MIRROR left determined flip]
 		Tudo isto está a vir de dentro de mim.
 		Levanta-te, {+MADELINE}.
-		This is all coming from inside me.
-		Get up, {+MADELINE}.
 
 		{trigger 2 Madeline gets up}
 
 		[MADELINE_MIRROR left determinedclosed flip]
 		Pensa na pena.
 		Tu consegues salvar o {+theo}.
-		Think of the feather.
-		You can save {+theo}.
 
 	CH5_SEE_THEO=
 		[MADELINE left normal]
 		{+theo}! Graças a Deus que te encontrei.
-		{+theo}! Thank God I found you.
 		
 		[THEO right excited]
 		{+MADELINE}! Uau, estou tão contente por te ver.
-		{+MADELINE}! Wow, am I happy to see you.
 
 		{trigger 0 zoom in}
 
@@ -2518,7 +2440,7 @@
 		E este cristal vem de dentro de mim, tenho a certeza.
 
 		[THEO right serious]
-		Destesto pedir-te, mas preciso mesmo da tua ajuda agora.
+		Detesto pedir-te, mas preciso mesmo da tua ajuda agora.
 
 		{trigger 0 zoom back in}
 
@@ -2607,7 +2529,7 @@
 		Sim, mas como é que o partimos?
 
 		[THEO right serious]
-		Se eu soubesse o {~}porquê{n} de me ter preso a mim{n}nesta coisa, talvez conseguisse arranjar como sair.
+		Se eu soubesse o {~}porquê{n} de me ter preso a mim{n}nesta coisa, talvez conseguisse arranjar maneira de sair.
 
 		[THEO right wtf]
 		Mas não sei.
@@ -2691,125 +2613,169 @@
 
 	CH6_THEO_INTRO=
 		[MADELINE right normal]
+		{+theo}, estás acordado!
 		{+theo}, you're awake!
 
 		[THEO left thinking]
+		Será que estou? Não sei não...
 		Am I? I'm skeptical...
 
 		[THEO left wtf]
+		Tive um pesadelo bem {~}lixado{/~}.
 		I had a {~}messed up{/~} nightmare.
 		
 		[MADELINE right distracted]
+		Pois, acerca disso...
 		Yeah, about that...
 
 		[THEO left wtf]
+		Espera...
 		Wait...
 
 		[THEO left thinking]
+		Ah, sim, estou agora a lembrar-me.
 		Oh, yep, it's all coming back to me now.
 
 		[THEO left wtf]
+		Aquilo aconteceu mesmo.
 		That actually happened.
 
 		[THEO left serious]
+		Obrigado por nos tirares dali.
 		Thanks for getting us out of there.
 
 		[MADELINE right distracted]
+		Ainda bem que estivemos nisto juntos.
 		I'm glad we were in it together.
 
 		[MADELINE right sad]
+		Não sei se era capaz de o ter feito sozinha.
 		I don't know if I could've done that alone.
 
 	CH6_THEO_ASK_OUTFOR=
 		[THEO left thinking]
+		Por quanto tempo estive apagado?
 		How long was I out for?
 	CH6_THEO_SAY_OUTFOR=
 		[THEO left thinking]
+		Por quanto tempo estive apagado?
 		How long was I out for?
 
 		[MADELINE right sad]
+		Ainda devem ter sido algumas horas...
 		It must've been a few hours...
 
 		[THEO left serious]
+		Meu, mas que aventura.
 		Man, what a ride.
 
 		[MADELINE right upset]
+		Nem me digas nada.
 		Tell me about it.
 
 		[MADELINE right sad]
+		Estás bem?
 		Are you okay?
 
 		[THEO left thinking]
+		Tipo, tirando a crise existencial?
 		I mean, aside from the existential crisis?
 
 		[THEO left wtf]
+		Sim, estou bem.
 		Yeah, I'm fine.
 
 	CH6_THEO_ASK_EXPLAIN=
 		[THEO left wtf]
+		O que se está mesmo a passar aqui?
 		What's really going on here?
 	CH6_THEO_SAY_EXPLAIN=
 		[THEO left wtf]
+		Claramente esta não é uma {+MOUNTAIN} normal.
+		O que se está mesmo a passar aqui?
 		Clearly this isn't a normal {+MOUNTAIN}.
 		What's really going on here?
 
 		[MADELINE right sad]
+		Devia ter-te dito mais cedo.
 		I should've told you sooner.
 
 		[MADELINE right distracted]
+		Lá atrás nas ruínas, uma...{n}{+PART_OF_ME} escapou de um espelho.
+		Uma parte que não me orgulho muito.
 		Back at the old ruins, a...{n}{+PART_OF_ME} escaped from a mirror.
 		A part I'm not very proud of.
 
 		[MADELINE right upset]
+		Juro que foi um sonho.
 		I swear I dreamt it.
 
 		[THEO left serious]
+		Achas que a {+MOUNTAIN} a tornou real?
 		You think the {+MOUNTAIN} made her real?
 
 		[MADELINE right distracted]
+		Sim.
+		Ela tem-me estado a atormentar este tempo todo.
 		Yeah.
 		She's been haunting me the whole time.
 
 		[MADELINE right sad]
+		Ela deu cabo da cabeça do {+MROSHIRO}.
 		She lashed out at {+MROSHIRO}.
 
 		[MADELINE right distracted]
+		Penso que ela foi a razão do teleférico ter encravado.
 		I think she was the reason the gondola stalled out.
 
 		[MADELINE right sad]
+		E ela estava lá, to templo.
 		And she was there, in the temple.
 
 		[THEO left worried]
 		...
+		Porque é que não disseste nada?
+		Não teria entrado naquele templo se eu{n}soubesse do que esta {+MOUNTAIN} era capaz...
 		Why didn't you say something?
 		I wouldn't have gone into that temple{n}if I knew what this {+MOUNTAIN} was capable of...
 
-		[MADELINE right upset]		
-		I tried to stop you.	
+		[MADELINE right upset]
+		Eu tentei impedir-te.
+		I tried to stop you.
 		
 		[THEO left wtf]
+		Podias ter-me dito que a tua{n}{+ST_BAD}doppelgänger demoníaca{+END_BAD} andava aí à solta.
 		You could have mentioned that your{n}{+ST_BAD}demon doppelgänger{+END_BAD} was on the loose.
 			
 		[MADELINE right upset]
+		Vá lá, {+THEO}.
+		Tu sabes o quão ridículo isto parece.
 		Come on, {+THEO}.
 		You know how crazy this sounds.
 
 		[MADELINE right distracted]
+		Eu nem acreditei em mim própria.
 		I didn't even believe myself.
 
 		[THEO left wtf]
+		Está be, está bem.
+		Já percebi.
 		Okay, okay.
 		I understand.
 
 		[THEO left thinking]
+		Mas para a próxima vez, {0.3}fala comigo.
+		Prometo que vou acreditar em ti.
 		Next time just {0.3}talk to me, though.
 		I promise I'll believe you.
 
 		[MADELINE right distracted]
+		Está bem.
 		Okay.
 
 	CH6_THEO_ASK_THANKYOU=
 		[MADELINE right distracted]
+		Obrigada por acreditares em mim lá atrás.
 		Thank you, for believing in me back there.
 	CH6_THEO_SAY_THANKYOU=
 		[MADELINE right distracted]
