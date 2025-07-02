@@ -2148,207 +2148,278 @@
 
 	CH5_ENTRANCE=
 		[THEO right excited flip]
+		Oh meu, olha só este lugar!
+		Queres ir numa aventura?
 		Oh man, look at this place!
 		Feeling adventurous?
 
 		{trigger 0 Maddy turns right}
 
 		[MADELINE left sad]
+		Hm, não sei não.
+		Parece-me bastante escuro lá dentro.
 		Uh, I don't know. 
 		It looks pretty dark in there.
 
 		[MADELINE left distracted]
+		Parece mais um pesadelo que uma aventura.
 		More like a nightmare than an adventure.
 
 		{trigger 1 Theo turns left}
 		
 		[THEO right normal]
+		Vou só dar uma olhadela, tirar umas fotos.
 		I'll just take a quick peek, snap a few photos.
 
 		{trigger 1 Theo turns right}
 
 		[THEO right excited flip]
+		Este sítio deve ser bem antigo!
 		This place must be ancient!
 
 		[MADELINE left sad]
+		{+THEO}, espera.
 		{+THEO}, wait.
 		
 		[THEO right excited flip]
+		Os meus seguidores do {# FFFF4C}InstaPix{#} vão adorar isto.
 		My {# FFFF4C}InstaPix{#} followers are gonna eat this up.
 
 		{trigger 2 Theo leaves}
 		
 		[MADELINE left distracted]
+		Isto não vai acabar bem.
 		There's no way this ends well.
 
 	CH5_PHONE=
 		[MADELINE left sad]
+		Oh não.
 		Uh oh.
 
 		{trigger 0 Maddy walks to phone, ducks to pick it up}
 
 		[MADELINE left distracted]
+		Isto é o telemóvel do {+THEO}...
 		This is {+THEO}'s phone...
 
 		{trigger 1 Maddy stands back up}
 
 		[MADELINE left determinedclosed]
+		Acalma-te, {+MADELINE}.
+		Se calhar só lhe caiu do bolso.
+		Vou devolver-lho assim que o encontrar.
 		Don't panic, {+MADELINE}.
 		Maybe it just fell out of his pocket.
 		I'll give it back to him when I find him.
 
 	CH5_THEO_MIRROR=
 		[MADELINE left normal]
+		{+theo}! Aí estás tu!
 		{+theo}! There you are!
 		
 		[THEO_MIRROR right excited]
+		{+MADELINE}! Ei!
 		{+MADELINE}! Hey!
 		
 		[THEO_MIRROR right wtf]
+		...ah, porque é que estás dentro de um espelho?
 		...uh, why are you inside a mirror?
 		
 		[MADELINE left sad]
+		Tenho a certeza que tú é que estás dentro do espelho.
+		O que aconteceu?
 		I'm pretty sure you're the one in the mirror.
 		What happened?
 		
 		[THEO_MIRROR right wtf]
+		Bem, estava aqui a tirar uma selfie na descontra...
+		Sabes, {~}{# aaaaaa}"Como é que é pessoal, daqui é o {+THEO}{# aaaaaa} neste{n}templo ancestral, nada de mais."{#}{/~}
 		Well, I was taking a nonchalant mirror selfie...
 		Y'know, {~}{# aaaaaa}"It's your boy {+THEO}{# aaaaaa} in this{n}ancient temple, no big deal."{#}{/~}
 
 		[THEO_MIRROR right thinking]
+		{# ffff9b}\#abençoado{#}
 		{# ffff9b}\#blessed{#}
 		
 		[THEO_MIRROR right serious]
+		Quando dou por mim acordo deitado no chão.
 		Next thing I know I wake up lying on the ground.
 		
 		[MADELINE left sad]
+		Como é que são as coisas desse lado?
+		Como posso encontrar-te?
 		What does it look like over there?
 		How can I find you?
 		
 		[THEO_MIRROR right serious]
+		É, ah... é muito escuro e estranho. Tem aqui...
 		It's, uh... it's really dark and weird. There's...
 		
 		[THEO_MIRROR right wtf]
+		Espera, está aí a vir alguma coisa.
+		Estou a sentir uma vontade forte de fugir.
 		Wait, something's coming.
 		I'm feeling a strong inclination to run away.
 		
 		[THEO_MIRROR right serious]
+		Tem cuidado, está bem?
 		Be careful, okay?
 
 	CH5_SHADOW_MADDY_0=
 		[MADELINE left angry]
+		{*}Ei!{/*} Onde é que estamos?
+		{!}O que é tu que fizeste ao {+theo}?{/!}
 		{*}Hey!{/*} Where are we?
 		{!}What did you do to {+theo}?{/!}
 		
 		[BADELINE right scoff]
+		Tu achas que sou {~}eu{/~} a fazer isto?
+		Que giro.
 		You think {~}I'm{/~} doing this?
 		That's cute.
 		
 		[BADELINE right upset]
+		Querida, foi exatamente por isto que eu te avisei.
 		Sweetheart, this is exactly what I warned you about.
 		
 	CH5_SHADOW_MADDY_1=
 		[MADELINE left angry]
+		Não tentes meter as culpas em mim.
 		Don't try to make this my fault.
 
 		[BADELINE right scoff]
+		Ainda não percebeste?
 		You still don't get it?
 
 		[BADELINE right upset]
+		A {+mountain} deu-me este corpo.
 		The {+mountain} gave me this body.
 
 		[BADELINE right scoff]
+		Mas não sou a única {*}coisa assustadora{/*} a viver{n}nessa tua cabeça toda lixada.
 		But I'm not the only {*}creepy thing{/*} living{n}in that messed up head of yours.
 
 		[BADELINE right normal]
+		Não gostas daquilo que vês?
 		Don't like what you see?
 
 		[BADELINE right scoff]
+		{~}Mas que surpresa.{/~}
 		{~}What a surprise.{/~}
 		
 		[MADELINE left angry]
+		Cala-te!
 		Shut up!
 
 		[BADELINE right angry]
+		Eu {~}tentei{/~} impedir-te.
 		I {~}tried{/~} to stop you.
 
 		[BADELINE right yell]
+		Olha-te ao espelho, tudo isto é teu.
 		Look into the mirror, all of this is yours.
 
 		[BADELINE right angry]
+		Este templo apenas amplia o poder da {+montanha}.
 		This temple only magnifies the {+mountain}'s power.
 
 		[BADELINE right upset]
+		És tu em controlo aqui, não sou eu.
 		You're in control here, not me.
 
 	CH5_SHADOW_MADDY_2=
 		[MADELINE left sad]
+		Não acredito em ti.
 		I don't believe you.
 
 		[MADELINE left distracted]
+		Se és {+PART_OF_ME}, porque é que me queres magoar?
 		If you're {+PART_OF_ME}, why do you want to hurt me?
 
 		[BADELINE right angry]
+		Pobre {+MADELINE}, {~}sempre a fazer de vítima{/~}.
 		Poor {+MADELINE}, {~}always the victim.{/~}
 
 		[BADELINE right yell]
+		Tudo o que eu faço é cuidar de ti, e tu odeias-me por isso.
 		All I do is babysit you, and you hate me for it.
 
 		[BADELINE right angry]
+		A verdade está a vir ao de cima e tu sabes disso.
 		You're unravelling and you know it. 
 
 		[MADELINE left angry]
+		Se te preocupas tanto em me proteger, porque é que{n}simplesmente não me {*}explicaste{/*} o que se estava a passar?
 		If you care so much about protecting me,{n}why didn't you just {*}explain{/*} what was going on?
 		
 		[BADELINE right angry]
+		Como se me fosses dar ouvidos?
+		Nunca me deste uma oportunidade.
 		Like you would have listened?
 		You never gave me a chance.
 
 	CH5_SHADOW_MADDY_3=
 		[MADELINE left panic]
+		Por favor, ajuda-me só a sair daqui.
 		Please, just help me get out of here.
 
 		[BADELINE right scoff]
+		{~}Agora{/~} é que queres a minha ajuda?
 		{~}Now{/~} you want me to save you?
 
 		[MADELINE left panic]
+		Porque é que estás a fazer isto?
+		Põe-te do meu lado.
+		Por favor.
 		Why are you doing this?
 		Just be on my side here.
 		Please.
 
 		[BADELINE right angry]
+		Para de me tentar fazer sentir como um monstro.
+		Ques {~}mesmo{/~} saber porque é que eu não te ajudo?
 		Stop trying to make me feel like a monster.
 		You {~}really{/~} want to know why I won't help?
 
 		[BADELINE right yell]
+		Porque tu {*}mereces{/*} isto.
 		Because you {*}deserve{/*} this.
 
 		[MADELINE left panic]
 		...
 
 		[BADELINE right angry]
+		Ainda achas que consegues {~}escalar esta {+MOUNTAIN}?{/~}
 		Still think you can {~}climb this {+MOUNTAIN}?{/~}
 
 		[MADELINE left angry]
+		{*}ESTÁ CALADA!{/*}
 		{*}SHUT UP!{/*}
 
 		{trigger 0 Badeline Leaves}
 
 		[MADELINE left angry]
+		{*}Mão preciso da tua ajuda.{/*}
+		Faço isto sozinha.
 		{*}I don't need your help.{/*}
 		I'll do this alone.
 
 	CH5_REFLECTION=
 		[MADELINE right sad]
+		Se isto está tudo na minha cabeça, porque é que é tão hostil?
 		If this is all in my head, why is it so hostile?
 		
 		[MADELINE right distracted]
+		Aquelas {*}coisas{/*} estão a caçar-me.
+		Sou uma invasora dentro do meu próprio mundo.
 		Those {*}things{/*} are hunting me.
 		I'm a trespasser in my own world.
 
 		{trigger 0 Madeline falls to knees}
 		
 		[MADELINE right panic]
+		O {+theo} está preso algures aqui dentro por culpa minha.
+		Se eu me entregar completamente, {n}talvez o templo o liberte...
 		{+theo} is trapped somewhere in here because of me.
 		If I give in fully, maybe the temple will let him go...
 
@@ -2356,88 +2427,97 @@
 
 		[MADELINE_MIRROR left determinedclosed flip]
 		...
+		Respira.
 		Breathe.
 		
 		[MADELINE_MIRROR left determined flip]
+		Tudo isto está a vir de dentro de mim.
+		Levanta-te, {+MADELINE}.
 		This is all coming from inside me.
 		Get up, {+MADELINE}.
 
 		{trigger 2 Madeline gets up}
 
 		[MADELINE_MIRROR left determinedclosed flip]
+		Pensa na pena.
+		Tu consegues salvar o {+theo}.
 		Think of the feather.
 		You can save {+theo}.
 
 	CH5_SEE_THEO=
 		[MADELINE left normal]
+		{+theo}! Graças a Deus que te encontrei.
 		{+theo}! Thank God I found you.
 		
 		[THEO right excited]
+		{+MADELINE}! Uau, estou tão contente por te ver.
 		{+MADELINE}! Wow, am I happy to see you.
 
 		{trigger 0 zoom in}
 
 		[MADELINE left sad]
-		Are you alright?
+		Estás bem?
 		
 		[THEO right serious]
-		Yeah, I'm fine. 	
+		Sim, estou.
 
 		[THEO right thinking]
-		I've just been stuck in this... crystal thing for ages.
+		Só que tenho estado preso nesta... coisa de cristal há que tempos.
 
 		[THEO right wtf]
-		Do you get the feeling that this place{n}knows you better than you know yourself?
+		Não tens aquele pressentimento que este lugar{n}te conhece melhor do que tu te conheces a ti própria?
 		
 		[MADELINE left distracted]
-		Yeah...
-		I'm so embarrassed that you{n}have to see this side of me.
+		Sim...
+		Estou tão envergonhada que{n}tenhas de ver este meu lado.
 
 		[MADELINE left upset]
+		Eu tentei impedir-te.
+		Espero que a selfie tenha valido a pena.
 		I tried to stop you.
-		I hope that selfie was worth it.
 
 		[THEO right yolo]
-		Selfies are always worth it, dude.
+		As selfies valem sempre a pena, meu.
 
 		[MADELINE left distracted]
-		I shouldn't be mad, this isn't your fault.
+		Não devia estar chateada, a culpa não foi tua.
 
 		[MADELINE left sad]
-		I'm glad you're safe, but{n}you're trapped because of me.
+		Ainda bem que estás bem,{n}mas estás preso por causa de mim.
 
 		{trigger 1 Madeline turns around}
 
 		[MADELINE left distracted flip]
-		And now this temple is showing{n}you what I'm really like.
-		I'm horrible...
+		E agora este templo está a{n}mostrar-te quem eu sou de verdade.
+		Sou horrível...
 
 		{trigger 2 wait a bit}
 
 		[THEO right thinking]
+		Ei, estamos metidos nisto juntos.
 		Hey, we're in this together.
 
 		[THEO right wtf]
-		Don't act like this is all on you.
+		Não ajas como se isto fosse tudo culpa tua.
 
 		{trigger 3 Madeline turns back, zoom out, room gets brighter}
 
 		[MADELINE left sad]
-		What do you mean?
+		O que queres dizer?
 
 		[THEO right wtf]
-		You didn't trap me in this crystal.
-		Sure, those monsters are coming from you,{n}but the temple is shaping itself around me too.
+		Não me prendeste dentro deste cristal.
+		Claro, estes monstros vêm de ti, mas o{n}templo também se está basear em mim para se formar..
 
 		[THEO right worried]
-		I can {*}feel{/*} it.
-		These {~}eyes{/~} are staring at me...
+		Consigo {*}senti-lo{/*}.
+		Estes {~}olhos{/~} a olhar fixamente para mim...
 
 		[THEO right wtf]
-		And this crystal is coming from me, I know it.
+		E este cristal vem de dentro de mim, tenho a certeza.
 
 		[THEO right serious]
-		I hate to ask, but I really need your help right now.
+		Destesto pedir-te, mas preciso mesmo da tua ajuda agora.
 
 		{trigger 0 zoom back in}
 
@@ -2445,165 +2525,166 @@
 		...
 		
 		[MADELINE left distracted]
-		Okay.
+		Tudo bem.
 
 		[MADELINE left normal]
-		I've got your back.
-		I'll bust you out of that thing,{n}then we'll escape together.
+		Podes contar comigo.
+		Vou tirar-te para fora dessa coisa,{n}e depois escapamos juntos.
 
 		[MADELINE left sad]
-		Just as soon as I find my way around to you...
+		Assim que encontrar uma maneira de chegar até ti...
 		
 		[THEO right serious]
-		{+MADELINE}, you're my only hope right now.
-		I believe in you, for real.
+		{+MADELINE}, és a minha única esperança neste momento.
+		Acredito em ti, de verdade.
 
 		[MADELINE left distracted]
-		I hope that's not a mistake.
+		Espero que isso não seja um erro.
 
 	CH5_SEE_THEO_B=
 		[MADELINE left distracted]
-		If the temple is showing me who I really am...
+		Se o templo me está a mostrar quem eu verdadeiramente sou...
 
 		[MADELINE left sad]
-		...then I deserve this, don't I?
+		...então mereço isto, não mereço?
 
 		[THEO right wtf]
-		{+ALEX}, you have to stop being so hard on yourself.
+		{+ALEX}, tens de parar de ser tão dura contigo própria.
 
 		[MADELINE left sad]
 		...
-		Who's {+ALEX}?
+		Quem é a {+ALEX}?
 
 		[THEO right thinking]
-		Sorry, I meant {+MADELINE}.
+		Desculpa, quis dizer {+MADELINE}.
 
 		[THEO right wtf]
-		But my comment still stands.
-		No one deserves this, least of all you.
+		Mas mantenho aquilo que disse.
+		Ninguém merece isto, muito menos tu.
 
 		[MADELINE left sad]
-		Yeah... you're right.
+		Sim... tens razão.
 
 		[MADELINE left determinedclosed]
-		Okay, I can do this.
+		Certo, eu consigo fazer isto.
 
 	CH5_FOUND_THEO=
 		[MADELINE left normal]
-		{+theo}! I finally found you.
+		{+theo}! Finalmente encontrei-te.
 		
 		[THEO right excited]
-		I knew you'd make it!
+		Eu sabia que eras capaz!
 
 		[MADELINE left sad]
-		It wasn't easy...
+		Não foi nada fácil...
 
 		[MADELINE left distracted]
-		Are those monsters really coming from inside me?
+		Estes monstros todos estão mesmo a vir de dentro de mim?
 		
 		[THEO right thinking]
-		{+MADELINE}, that's a valid question.
-		I'll be happy to discuss how the{n}monsters relate to your inner self...
+		{+MADELINE}, essa é uma muitíssima boa pergunta.
+		Ficarei feliz por discutir sobre como é que os{n}monstros estão relacionados com o teu eu interior...
 
 		[THEO right wtf]
-		But right now, {~}my{/~} inner self is real{n}sick of being stuck in this crystal.
+		Mas neste momento, o {~}meu {/~} eu interior está{n}farto até às orelhas de estar preso neste cristal.
 		
 		[MADELINE left sad]
-		Oh, right.
+		Ah, pois é.
 
 		[MADELINE left normal]
-		Don't worry, I'll break you out!
+		Não te preocupes, eu vou tirar-te daí.
 
 		{trigger 0 Attempt to break the crystal, but it just falls to the ground}
 		
 		[THEO right thinking]
-		Well, this is a solid start, but...
+		Bem, isto é um bom começo, mas...
 		
 		[THEO right wtf]
-		This crystal is, like, an expression of my{n}negative psychic energy... or whatever.
+		Este cristal é, tipo, uma expressão da minha{n}energia psíquica negativa... ou sei lá.
 
 		[MADELINE left sad]
-		Yeah, but how do we break it?
+		Sim, mas como é que o partimos?
 
 		[THEO right serious]
-		If I knew {~}why{/~} I trapped myself in{n}this thing, maybe I could bust out.
+		Se eu soubesse o {~}porquê{n} de me ter preso a mim{n}nesta coisa, talvez conseguisse arranjar como sair.
 
 		[THEO right wtf]
-		But I don't.
+		Mas não sei.
 
 		[THEO right thinking]
-		And I don't think I can get to the bottom of it{n}while we're stuck in this nightmare dimension.
+		E acho que não vou conseguir chegar ao fundo desta questão{n}enquanto estivermos presos nesta dimensão infernal.
 		
 		[THEO right serious]
-		I hate to say it, but you might have to-
+		Detesto ter de o dizer, mas acho que vais ter de-
 		
 		[MADELINE left angry]
-		{+theo}, don't even think about that!
-		I am {*}not{/*} leaving you behind!
+		{+theo}, nem sequer penses nisso!
+		Eu {*}não{/*} te vou deixar para trás!
 		
 		[THEO right worried]
-		{~}Hell no{/~}, you better not leave me in this place!
+		{~}Era só o que faltava{/~}, espero bem que não me deixes aqui!
 
 		[THEO right thinking]
-		I was gonna say you might have to carry me.
+		Ia a dizer que talvez tenhas que me carregar.
 		
 		[MADELINE left sad]
+		Ah.
 		Oh.
 		
 		[MADELINE left normal]
-		Yeah, I can do that.
+		Sim, consigo fazer isso.
 
 	CH5_THEO_SAVING_LIFT=
 		[THEO left thinking]
-		Dang girl, you can lift.
+		Ei miúda, tens cá uma força.
 
 	CH5_THEO_SAVING_A=
 		[THEO left excited]
-		{~}Alright{/~}, you got this!
+		{~}Boa{/~}, tu consegues!
 
 	CH5_THEO_SAVING_NICE=
 		[THEO left thinking]
-		Crushing it! That door didn't stand a chance.
+		Estás a dar-lhe! Aquela porta nem teve hipótese.
 
 	CH5_THEO_SAVING_B=
 		[THEO left worried]
-		Uh oh... I hope you know how to deal with these things.
+		Oh não... Espero que saibas como lidar com essas coisas.
 
 	CH5_THEO_SAVING_C=
 		[THEO left worried]
-		Another one!? Come on...
+		Mais ainda!? Oh, vá lá...
 
 	CH5_THEO_SAVING_SWITCH=
 		[THEO left thinking]
-		{+theo} saves the day again.
+		{+theo} salva o dia outra vez.
 
 	CH5_THEO_SAVING_DUNK=
 		[THEO left nailedit]
-		I'm helping.
+		Estou a ajudar.
 
 	CH5_THEO_SAVING_REALLY=
 		[THEO left thinking]
-		Now you're just showing off.
+		Agora só te estás a exibir.
 
 	CH5_THEO_SAVING_D=
 		[THEO left excited]
-		We have to be close, I can feel it.
+		Devemos estar perto, consigo senti-lo.
 
 	CH5_THEO_SAVING_E=
 		[THEO left worried]
-		Just a bit further. You can do this {+MADELINE}.
+		Só mais um bocadinho. Tu consegues, {+MADELINE}.
 
 	CH5_BSIDE_THEO_A=
 		[THEO left excited]
-		It's the temple remix, featuring your boy {+MIXMASTER_THEO}!
+		Boas pessoal! Sou o +MIXMASTER_THEO}{n}e este é o remix do templo.
 
 	CH5_BSIDE_THEO_B=
 		[THEO left wtf]
-		This isn't canon, is it?
+		Isto não é canon, pois não?
 
 	CH5_BSIDE_THEO_C=
 		[THEO left wtf]
-		Uhh, this one is clearly impossible.
+		Uhh, isto é claramente impossível.
 
 # *** Chapter 06 ***
 
