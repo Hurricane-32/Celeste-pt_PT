@@ -2779,133 +2779,180 @@
 		Thank you, for believing in me back there.
 	CH6_THEO_SAY_THANKYOU=
 		[MADELINE right distracted]
+		Obrigada, {+THEO}.
+		...por acreditares em mim lá atrás.
 		Thank you, {+THEO}.
 		...for believing in me back there, I mean.
 
 		[THEO left wtf]
+		Acreditar em ti foi a parte fácil.
 		Believing in you was the easy part.
 
 		[THEO left thinking]
+		Quem me dera poder ter ajudado.
 		I wish I could've helped.
 
 		[THEO left wtf]
+		Fui bastante inútil, preso naquela coisa.
 		I was pretty useless, stuck in that thing.
 
 		[MADELINE right sad]
+		Na verdade ajudaste e muito.
 		You actually helped a lot.
 
 		[MADELINE right distracted]
+		Para ser sincera, não teria conseguido sair dali sem a tua ajuda.
 		Honestly, I couldn't have made it without your support.
 
 	CH6_THEO_ASK_TRUST=
-		[MADELINE right distracted] 
+		[MADELINE right distracted]
+		Porque é que é tão fácil para ti confiares em mim?
 		Why is it so easy for you to trust me?
 	CH6_THEO_SAY_TRUST=
-		[MADELINE right distracted] 
+		[MADELINE right distracted]
+		Porque é que é tão fácil para ti confiares em mim?
 		Why is it so easy for you to trust me?
 
 		[MADELINE right sad]
+		A sério, mal me conheces.
 		Seriously, you barely know me.
 
 		[THEO left normal]
+		Para ser sincero?
+		Fazes-me lembrar a minha irmã.
 		Honestly?
 		You remind me of my sister.
 
 		[MADELINE right normal]
+		Que fofo.
+		Como é que ela é?
 		That's adorable. 
 		What's she like?
 
 		[THEO left excited]
+		Ah, ias adorá-la!
 		Oh, you'd love her!
 
 		[THEO left wtf]
+		Na verdade, podiam não se dar bem ao principio...
 		Actually, you might not get along at first...
 
 		[THEO left thinking]
+		Mas ias acabar por adorá-la.
 		But you'd eventually love her.
 
 		[THEO left excited]
+		Ela é {~}literalmente{/~} uma estrela de rock.
 		She's a {~}literal{/~} rockstar.
 
 		[MADELINE right normal]
+		Ela tem uma banda?
+		Que fixe!
 		She's a musician?
 		That's so cool!
 
 		[THEO left thinking]
+		Ok, ela não é {~}literalmente{/~} uma estrela de rock literal.
 		Okay, she's not {~}literally{/~} a literal rockstar.
 
 		[THEO left normal]
+		A {+ALEX} é só... incrível em tudo.
+		Ela está a estudar para ser uma advogada de direito civil.
 		{+ALEX} is just... amazing at everything.
 		She's studying to be a civil rights lawyer.
 
 		[MADELINE right normal]
+		Uau!
 		Wow!
 
 		[MADELINE right distracted]
+		Em que sentido é que te faço lembrar dela?
 		How do I remind you of her?
 
 		[THEO left wtf]
+		Vocẽs as duas vivem bem dentro das vossas próprias cabeças.
 		You both live so deep inside your own heads.
 
 		[MADELINE right distracted]
+		Ah...
 		Oh...
 
 		[THEO left thinking]
+		A {+ALEX} tem uma bússola interna incrível.
 		{+ALEX} has this amazing internal compass.
 
 		[THEO left normal]
+		É bem claro que ela vai conseguir chegar onde quer.
+		Consigo ver o mesmo em ti também.
 		It's obvious that she'll get where she needs to be.
 		I can see that in you too.
 
 		[THEO left wtf]
+		Gostava de poder dizer o mesmo acerca de mim.
 		I wish I could say the same for myself.
 		
 	CH6_THEO_ASK_WHY=
 		[MADELINE right distracted]
+		A tua irmã parece ser fixe. Sou mesmo tão parecida a ela?
 		Your sister sounds great. I really remind you of her?
 	CH6_THEO_SAY_WHY=
 		[MADELINE right distracted]
+		A tua irmã parece ser fixe. Sou mesmo tão parecida a ela?
 		Your sister sounds great. I really remind you of her?
 
 		[THEO left thinking]
+		Estás a brincar?
 		Are you kidding me?
 
 		[THEO left excited]
+		És tu quem está {~}super decidida{/~}{n}a escalar esta {+MOUNTAIN}.
 		You're the one who's {~}dead set{/~}{n}on climbing this {+MOUNTAIN}.
 
 		[THEO left thinking]
+		E tu {~}{>> .3}nem sequer sabes porquê.{>>}{/~}
 		And you {~}{>> .3}don't even know why.{>>}{/~}
 
 		[THEO left excited]
+		Eś igualzinha à {+ALEX}.
 		That's classic {+ALEX}.
 
 		[MADELINE right distracted]
 		...
 
 		[THEO left thinking]
+		Estou só a meter-me contigo.
 		I'm just teasing you.
 
 		[THEO left normal]
+		Mas afinal {~}porque é que{/~} estás a escalar a {+MOUNTAIN}?
 		Why {~}are{/~} you climbing the {+MOUNTAIN}, anyways?
 
 		[MADELINE right distracted]
+		Tens razão, nem sequer sei porquê.
 		You're right, I don't even know why.
 
 		[MADELINE right sad]
+		Eu só{0.4} tinha que sair da minha {*}cabeça.{/*}
+		Estou presa num ciclo.
 		I just{0.4} had to get out of my {*}head.{/*}
 		I'm stuck in a cycle.
 
 		[THEO left normal]
+		Estamos os dois de acordo.
+		Já tive muitos empregos de destruir a alma.
 		You're preaching to the choir here.
 		I've had many a soul-destroying day job.
 
 		[MADELINE right sad]
+		O trabalho está a correr bem na verdade, mas eu...
 		Work is fine actually, I just...
 
 		[MADELINE right distracted]
 		...
 
 		[MADELINE right upset]
+		Estou a dar em doida.
+		Não consigo parar de pensar em{n}porcarias que não interessam para nada.
 		I'm going crazy.
 		I can't stop thinking about{n}dumb crap that doesn't matter.
 
