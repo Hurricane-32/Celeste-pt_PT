@@ -6,7 +6,7 @@
 
 Um projeto de tradução do jogo [Celeste][celeste-game] para Português de Portugal.
 
-Uma tradução livre, completamente _isenta_ de IA, com base na versão original inglesa, com algum (pouco) apoio da tradução brasileira.
+Uma tradução livre, completamente _isenta_ de IA, com base na versão original inglesa, com algum (pouco) apoio da tradução brasileira. Incorpora alguns maneirismos, calão e expressões idiomáticas da língua portuguesa.
 
 ## Como Instalar
 
@@ -26,7 +26,7 @@ A engine do Celeste deteta automaticamente novos ficheiros de linguagem e estes 
 - Capítulo 2: Old Site - ✅
 - Capítulo 3: Celestial Resort - ✅
 - Capítulo 4: Golden Ridge - ✅
-- Capítulo 5: Mirror Temple - ❌
+- Capítulo 5: Mirror Temple - ✅
 - Capítulo 6: Reflection - ❌
 - Capítulo 7: The Summit - ❌
 - Epilogue - ❌
