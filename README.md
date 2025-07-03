@@ -6,7 +6,7 @@
 
 Um projeto de tradução do jogo [Celeste][celeste-game] para Português de Portugal.
 
-Uma tradução livre, completamente _isenta_ de IA, com base na versão original inglesa, com algum (pouco) apoio da tradução brasileira. Incorpora alguns maneirismos, calão e expressões idiomáticas da língua portuguesa.
+Uma tradução livre, feita à mão ecompletamente _isenta_ de IA, com base na versão original inglesa (com algum (pouco) apoio da tradução brasileira).
 
 ## Como Instalar
 
