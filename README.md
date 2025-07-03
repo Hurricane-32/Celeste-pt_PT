@@ -6,7 +6,7 @@
 
 Um projeto de tradução do jogo [Celeste][celeste-game] para Português de Portugal.
 
-Uma tradução livre, feita à mão ecompletamente _isenta_ de IA, com base na versão original inglesa (com algum (pouco) apoio da tradução brasileira).
+Uma tradução livre, feita à mão e completamente _isenta_ de IA, com base na versão original inglesa, com algum (pouco) apoio da tradução brasileira.
 
 ## Como Instalar
 
@@ -30,6 +30,7 @@ A engine do Celeste deteta automaticamente novos ficheiros de linguagem e estes 
 - Capítulo 6: Reflection - ❌
 - Capítulo 7: The Summit - ❌
 - Epilogue - ❌
+- Capítulo 8: Core - ❌
 - Capítulo 9: Farewell - ❌
 
 ## Screenshots
