@@ -2559,7 +2559,7 @@
 
 	CH5_THEO_SAVING_LIFT=
 		[THEO left thinking]
-		Ei miúda, tens cá uma força.
+		Ei miúda, tens cá um músculo.
 
 	CH5_THEO_SAVING_A=
 		[THEO left excited]
