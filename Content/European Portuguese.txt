@@ -2614,449 +2614,332 @@
 	CH6_THEO_INTRO=
 		[MADELINE right normal]
 		{+theo}, estás acordado!
-		{+theo}, you're awake!
 
 		[THEO left thinking]
 		Será que estou? Não sei não...
-		Am I? I'm skeptical...
 
 		[THEO left wtf]
 		Tive um pesadelo bem {~}lixado{/~}.
-		I had a {~}messed up{/~} nightmare.
 		
 		[MADELINE right distracted]
 		Pois, acerca disso...
-		Yeah, about that...
 
 		[THEO left wtf]
 		Espera...
-		Wait...
 
 		[THEO left thinking]
-		Ah, sim, estou agora a lembrar-me.
-		Oh, yep, it's all coming back to me now.
+		Ah, sim, agora estou a lembrar-me.
 
 		[THEO left wtf]
 		Aquilo aconteceu mesmo.
-		That actually happened.
 
 		[THEO left serious]
 		Obrigado por nos tirares dali.
-		Thanks for getting us out of there.
 
 		[MADELINE right distracted]
 		Ainda bem que estivemos nisto juntos.
-		I'm glad we were in it together.
 
 		[MADELINE right sad]
 		Não sei se era capaz de o ter feito sozinha.
-		I don't know if I could've done that alone.
 
 	CH6_THEO_ASK_OUTFOR=
 		[THEO left thinking]
 		Por quanto tempo estive apagado?
-		How long was I out for?
 	CH6_THEO_SAY_OUTFOR=
 		[THEO left thinking]
 		Por quanto tempo estive apagado?
-		How long was I out for?
 
 		[MADELINE right sad]
 		Ainda devem ter sido algumas horas...
-		It must've been a few hours...
 
 		[THEO left serious]
 		Meu, mas que aventura.
-		Man, what a ride.
 
 		[MADELINE right upset]
 		Nem me digas nada.
-		Tell me about it.
 
 		[MADELINE right sad]
 		Estás bem?
-		Are you okay?
 
 		[THEO left thinking]
 		Tipo, tirando a crise existencial?
-		I mean, aside from the existential crisis?
 
 		[THEO left wtf]
 		Sim, estou bem.
-		Yeah, I'm fine.
 
 	CH6_THEO_ASK_EXPLAIN=
 		[THEO left wtf]
 		O que se está mesmo a passar aqui?
-		What's really going on here?
 	CH6_THEO_SAY_EXPLAIN=
 		[THEO left wtf]
 		Claramente esta não é uma {+MOUNTAIN} normal.
 		O que se está mesmo a passar aqui?
-		Clearly this isn't a normal {+MOUNTAIN}.
-		What's really going on here?
 
 		[MADELINE right sad]
 		Devia ter-te dito mais cedo.
-		I should've told you sooner.
 
 		[MADELINE right distracted]
 		Lá atrás nas ruínas, uma...{n}{+PART_OF_ME} escapou de um espelho.
 		Uma parte que não me orgulho muito.
-		Back at the old ruins, a...{n}{+PART_OF_ME} escaped from a mirror.
-		A part I'm not very proud of.
 
 		[MADELINE right upset]
 		Juro que foi um sonho.
-		I swear I dreamt it.
 
 		[THEO left serious]
 		Achas que a {+MOUNTAIN} a tornou real?
-		You think the {+MOUNTAIN} made her real?
 
 		[MADELINE right distracted]
 		Sim.
 		Ela tem-me estado a atormentar este tempo todo.
-		Yeah.
-		She's been haunting me the whole time.
 
 		[MADELINE right sad]
 		Ela deu cabo da cabeça do {+MROSHIRO}.
-		She lashed out at {+MROSHIRO}.
 
 		[MADELINE right distracted]
 		Penso que ela foi a razão do teleférico ter encravado.
-		I think she was the reason the gondola stalled out.
 
 		[MADELINE right sad]
 		E ela estava lá, to templo.
-		And she was there, in the temple.
 
 		[THEO left worried]
 		...
 		Porque é que não disseste nada?
 		Não teria entrado naquele templo se eu{n}soubesse do que esta {+MOUNTAIN} era capaz...
-		Why didn't you say something?
-		I wouldn't have gone into that temple{n}if I knew what this {+MOUNTAIN} was capable of...
 
 		[MADELINE right upset]
 		Eu tentei impedir-te.
-		I tried to stop you.
 		
 		[THEO left wtf]
 		Podias ter-me dito que a tua{n}{+ST_BAD}doppelgänger demoníaca{+END_BAD} andava aí à solta.
-		You could have mentioned that your{n}{+ST_BAD}demon doppelgänger{+END_BAD} was on the loose.
 			
 		[MADELINE right upset]
 		Vá lá, {+THEO}.
 		Tu sabes o quão ridículo isto parece.
-		Come on, {+THEO}.
-		You know how crazy this sounds.
 
 		[MADELINE right distracted]
 		Eu nem acreditei em mim própria.
-		I didn't even believe myself.
 
 		[THEO left wtf]
 		Está be, está bem.
 		Já percebi.
-		Okay, okay.
-		I understand.
 
 		[THEO left thinking]
 		Mas para a próxima vez, {0.3}fala comigo.
 		Prometo que vou acreditar em ti.
-		Next time just {0.3}talk to me, though.
-		I promise I'll believe you.
 
 		[MADELINE right distracted]
 		Está bem.
-		Okay.
 
 	CH6_THEO_ASK_THANKYOU=
 		[MADELINE right distracted]
 		Obrigada por acreditares em mim lá atrás.
-		Thank you, for believing in me back there.
 	CH6_THEO_SAY_THANKYOU=
 		[MADELINE right distracted]
 		Obrigada, {+THEO}.
 		...por acreditares em mim lá atrás.
-		Thank you, {+THEO}.
-		...for believing in me back there, I mean.
 
 		[THEO left wtf]
 		Acreditar em ti foi a parte fácil.
-		Believing in you was the easy part.
 
 		[THEO left thinking]
 		Quem me dera poder ter ajudado.
-		I wish I could've helped.
 
 		[THEO left wtf]
 		Fui bastante inútil, preso naquela coisa.
-		I was pretty useless, stuck in that thing.
 
 		[MADELINE right sad]
 		Na verdade ajudaste e muito.
-		You actually helped a lot.
 
 		[MADELINE right distracted]
 		Para ser sincera, não teria conseguido sair dali sem a tua ajuda.
-		Honestly, I couldn't have made it without your support.
 
 	CH6_THEO_ASK_TRUST=
 		[MADELINE right distracted]
 		Porque é que é tão fácil para ti confiares em mim?
-		Why is it so easy for you to trust me?
 	CH6_THEO_SAY_TRUST=
 		[MADELINE right distracted]
 		Porque é que é tão fácil para ti confiares em mim?
-		Why is it so easy for you to trust me?
 
 		[MADELINE right sad]
 		A sério, mal me conheces.
-		Seriously, you barely know me.
 
 		[THEO left normal]
 		Para ser sincero?
 		Fazes-me lembrar a minha irmã.
-		Honestly?
-		You remind me of my sister.
 
 		[MADELINE right normal]
 		Que fofo.
 		Como é que ela é?
-		That's adorable. 
-		What's she like?
 
 		[THEO left excited]
 		Ah, ias adorá-la!
-		Oh, you'd love her!
 
 		[THEO left wtf]
 		Na verdade, podiam não se dar bem ao principio...
-		Actually, you might not get along at first...
 
 		[THEO left thinking]
 		Mas ias acabar por adorá-la.
-		But you'd eventually love her.
 
 		[THEO left excited]
 		Ela é {~}literalmente{/~} uma estrela de rock.
-		She's a {~}literal{/~} rockstar.
 
 		[MADELINE right normal]
 		Ela tem uma banda?
 		Que fixe!
-		She's a musician?
-		That's so cool!
 
 		[THEO left thinking]
 		Ok, ela não é {~}literalmente{/~} uma estrela de rock literal.
-		Okay, she's not {~}literally{/~} a literal rockstar.
 
 		[THEO left normal]
 		A {+ALEX} é só... incrível em tudo.
 		Ela está a estudar para ser uma advogada de direito civil.
-		{+ALEX} is just... amazing at everything.
-		She's studying to be a civil rights lawyer.
 
 		[MADELINE right normal]
 		Uau!
-		Wow!
 
 		[MADELINE right distracted]
 		Em que sentido é que te faço lembrar dela?
-		How do I remind you of her?
 
 		[THEO left wtf]
-		Vocẽs as duas vivem bem dentro das vossas próprias cabeças.
-		You both live so deep inside your own heads.
+		Vocês as duas vivem bem dentro das vossas próprias cabeças.
 
 		[MADELINE right distracted]
 		Ah...
-		Oh...
 
 		[THEO left thinking]
 		A {+ALEX} tem uma bússola interna incrível.
-		{+ALEX} has this amazing internal compass.
 
 		[THEO left normal]
 		É bem claro que ela vai conseguir chegar onde quer.
 		Consigo ver o mesmo em ti também.
-		It's obvious that she'll get where she needs to be.
-		I can see that in you too.
 
 		[THEO left wtf]
 		Gostava de poder dizer o mesmo acerca de mim.
-		I wish I could say the same for myself.
 		
 	CH6_THEO_ASK_WHY=
 		[MADELINE right distracted]
 		A tua irmã parece ser fixe. Sou mesmo assim tão parecida a ela?
-		Your sister sounds great. I really remind you of her?
 	CH6_THEO_SAY_WHY=
 		[MADELINE right distracted]
 		A tua irmã parece ser fixe. Sou mesmo assim tão parecida a ela?
-		Your sister sounds great. I really remind you of her?
 
 		[THEO left thinking]
 		Estás a brincar?
-		Are you kidding me?
 
 		[THEO left excited]
 		És tu quem está {~}super decidida{/~}{n}a escalar esta {+MOUNTAIN}.
-		You're the one who's {~}dead set{/~}{n}on climbing this {+MOUNTAIN}.
 
 		[THEO left thinking]
 		E tu {~}{>> .3}nem sequer sabes porquê.{>>}{/~}
-		And you {~}{>> .3}don't even know why.{>>}{/~}
 
 		[THEO left excited]
 		És igualzinha à {+ALEX}.
-		That's classic {+ALEX}.
 
 		[MADELINE right distracted]
 		...
 
 		[THEO left thinking]
 		Estou só a meter-me contigo.
-		I'm just teasing you.
 
 		[THEO left normal]
 		Mas afinal {~}porque é que{/~} estás a escalar a {+MOUNTAIN}?
-		Why {~}are{/~} you climbing the {+MOUNTAIN}, anyways?
 
 		[MADELINE right distracted]
 		Tens razão, nem sequer sei porquê.
-		You're right, I don't even know why.
 
 		[MADELINE right sad]
 		Eu só{0.4} tinha que sair da minha {*}cabeça.{/*}
 		Estou presa num ciclo.
-		I just{0.4} had to get out of my {*}head.{/*}
-		I'm stuck in a cycle.
 
 		[THEO left normal]
 		Nisso estamos os dois de acordo.
 		Já tive muitos empregos de destruir a alma.
-		You're preaching to the choir here.
-		I've had many a soul-destroying day job.
 
 		[MADELINE right sad]
 		Na verdade o trabalho está a correr bem, mas eu...
-		Work is fine actually, I just...
 
 		[MADELINE right distracted]
 		...
 
 		[MADELINE right upset]
 		Estou a dar em doida.
-		Não consigo parar de pensar em{n}porcarias que não interessam para nada.
-		I'm going crazy.
-		I can't stop thinking about{n}dumb crap that doesn't matter.
+		Não consigo parar de pensar em{n}coisas que não interessam para nada.
 
 		[MADELINE right sad]
-		O meu cérebro só pensa em certas {.4}{>> .3}{*}coisas/*}{>>}{.4} estúpidas{{n}que já aconteceram há séculos.
-		My brain fixates on these stupid {.4}{>> .3}{*}things{/*}{>>}{.4}{n}that happened forever ago.
+		O meu cérebro só pensa em certas {.4}{>> .3}{*}porcarias/*}{>>}{.4} estúpidas{{n}que já aconteceram há séculos.
 
 		[MADELINE right angry]
 		Já devia ter {*}passado à frente.{/*}
 		{*}Já nada disso sequer interessa.{/*}
-		I should be {*}over them.{/*} 
-		{*}None of it even matters.{/*}
 
 		{trigger 0 Wait a bit}
 
 		[MADELINE right distracted]
 		...
 		Sou boa a manter aparências, mas{n}a verdade é que já mal me aguento.
-		I'm good at keeping up appearances, but{n}the truth is I'm barely holding it together.
 
 		[THEO left worried]
 		Pocha, é uma cena bem complicada.
 		Posso ajudar de alguma forma?
-		I'm sorry, that's pretty rough stuff.
-		Can I help?
 
 		[MADELINE right sad]
 		Já estás a ajudar-me.
 		Sabe bem dizê-lo em voz alta.
-		You're already helping.
-		It feels good to say it out loud.
 
 		[THEO left wtf]
 		E não falas com ninguém acerca disso?
-		You don't talk to anyone about it?
 
 		[MADELINE right distracted]
 		Não... nem por isso.
-		No... not really.
 
 		[MADELINE right sad]
 		A minha mãe sabe que fico deprimida,{n}e que tenho ataques de pânico.
-		My mom knows I get depressed,{n}and have panic attacks.
 
 		[MADELINE right distracted]
 		É mais ou menos isso.
-		That's about it.
 
 		[THEO left thinking]
 		Não admira que te sintas presa.
-		No wonder you feel trapped.
 		
 		[THEO left wtf]
 		Como é que te aguentas com isto... tudo?
-		How do you cope with... anything?
 
 		[MADELINE right upset]
 		Eu bebo, geralmente.
 		E chateio-me com pessoas na internet.
-		I drink, mostly.
-		And get mad at people on the internet.
 
 	CH6_THEO_ASK_DEPRESSION=
 		[THEO left serious]
 		Importarias-te de falar sobre como é ter depressão?
-		Would you mind talking about what depression is like?
 	CH6_THEO_SAY_DEPRESSION=
 		[THEO left serious]
 		Importarias-te de falar sobre como é ter depressão?
-		Would you mind talking about what depression is like?
 
 		[MADELINE right distracted]
 		...
 
 		[MADELINE right upset]
 		É uma treta.
-		It sucks.
 
 		[THEO left wtf]
 		Claro, mas o que é que {~}sentes mesmo?{/~}
-		Yeah, but what does it {~}feel like?{/~}
 
 		[THEO left serious]
 		A {+ALEX} também sofre disso.{n}Eu quero mesmo perceber.
-		{+ALEX} struggles with it too.{n}I really want to understand.
 
 		[THEO left normal]
 		Podemos falar de outra coisa se quiseres.
-		We can talk about something else if you want.
 
 		[MADELINE right distracted]
 		...
 		É do tipo...
-		It's like...
 
 		[MADELINE right sad]
 		Estou no fundo do oceano.
 		Não consigo ver nada à minha volta.
-		I'm at the bottom of the ocean.
-		I can't see anything in any direction.
 
 		[MADELINE right distracted]
 		É claustrofóbico, no entanto sinto-me exposta.
-		It's claustrophobic, yet I feel exposed.
 		...
 
 		{trigger 0 Wait a bit}
@@ -3064,604 +2947,446 @@
 		[MADELINE right sad]
 		Lembro-me de me sentir normal.
 		Mas agora parece fora do meu{n}alcance, por mais que eu tente.
-		I remember feeling normal.
-		But now it feels just out of{n}reach, no matter what I try.
 		
 		[MADELINE right distracted]
 		Pensando bem, provavelmente sempre tive problemas.
 		Só foi preciso algo doloroso para o trazer ao de cima.
-		Then again, I was probably always messed up.
-		It just took something hurtful to bring it out.
 
 		[MADELINE right upset]
 		Deve haver algo de errado comigo.
-		There must be something wrong with me.
 
 		[THEO left serious]
 		O que quer que tenha acontecido, tenho a certeza que não foi por culpa tua.
-		Whatever happened, I'm sure it's not your fault.
 
 		{trigger 0 Wait a bit}
 
 		[MADELINE right sad]
 		Acho que pensei que podia...
-		I guess I thought that I could...
 
 		[MADELINE right distracted]
 		Não sei.
 		Estou a flutuar neste abismo,{n}a nadar numa direção ao acaso.
-		I don't know.
-		I'm just floating in this abyss,{n}swimming in a random direction.
 
 		[MADELINE right sad]
 		À espera de encontrar {*}algo.{}/*}
-		Hoping that I find {*}something.{/*}
 
 		[MADELINE right distracted]
 		É por isso mesmo que estou aqui.
 		...
 		Mas não consigo escapar a mim própria.
-		That's really why I'm here.
-		...
-		But I can't escape myself.
 
 		[MADELINE right upset]
 		Estou literalmente {*}a lutar comigo própria{/*} o caminho todo.
-		I'm literally {*}fighting myself{/*} the entire way.
 
 		[MADELINE right distracted]
 		Talvez isto seja tudo para nada.
-		Maybe this is all pointless.
 
 		{trigger 0 Wait a bit}
 
 		[THEO left serious]
 		{+MADELINE}, tu {~}acabaste{/~} de salvar-me a vida.
-		{+MADELINE}, you {~}just{/~} saved my life.
 
 		[THEO left wtf]
 		Isso não é "para nada".
-		That's not pointless.
 
 		[MADELINE right distracted]
 		Pois...
-		Yeah...
 
 		{trigger 0 Wait a bit}
 
 		[THEO left wtf]
 		Olha, tu és boa pessoa.
-		Look, you're a good person.
 
 		[THEO left thinking]
 		És um pouco intensa, mas és uma {~}boa pessoa.{/~}
-		You're a little intense, but you're a {~}good person.{/~}
 
 		[THEO left wtf]
 		Acho que só estás a tentar sair desse{n}buraco em que estás enfiada.
-		I think you're just trying to push{n}out of that rut you're stuck in.
 
 		[THEO left excited]
 		E isso é um motivo bem bom para escalares esta {+MOUNTAIN}!
-		And that's a totally legit reason to climb the {+MOUNTAIN}!
 
 		[MADELINE right distracted]
 		Talvez.
-		Maybe.
 
 		[MADELINE right sad]
 		Isso... ajuda-me.
-		That's... helpful.
 
 		{trigger 0 Wait a bit}
 
 		[THEO left normal]
 		Esta {+PART_OF_YOU} que te está a perseguir,{n}talvez seja o outro lado da mesma moeda.
-		This {+PART_OF_YOU} that's haunting you,{n}maybe she comes with the territory.
 
 		[MADELINE right upset]
 		Então achas que estou presa a ela para sempre?
-		So you think I'm stuck with her forever?
 
 		[THEO left normal]
 		Bem, ela também está presa a ti.
-		Well, she's stuck with you, too.
 
 		[MADELINE right upset]
 		Isso {*}não{/*} ajuda.
-		That's {*}not{/*} helpful.
 
 	CH6_THEO_ASK_DEFENSE=
 		[THEO left wtf]
 		Então queres destruir esta {+PART_OF_YOU}?
-		So you want to destroy this {+PART_OF_YOU}?
 	CH6_THEO_SAY_DEFENSE=
 		[THEO left wtf]
 		Então queres destruir esta {+PART_OF_YOU}?
 		Isso não te irá magoar também?
-		So you want to destroy this {+PART_OF_YOU}?
-		Won't that hurt you, too?
 
 		[MADELINE right sad]
 		Se não o fizer ela só vai continuar a fazer-me mal.
-		If I don't she's just going to keep bullying me.
 
 		[MADELINE right upset]
 		Ela diz que está a proteger-me,{n}mas claro que isso não é verdade.
-		She says she's protecting me,{n}but that's obviously not true.
 
 		[THEO left normal]
 		Talvez ela pense que esteja.
 		Ela pode ser algum tipo de...{n}mecanismo de defesa retorcido.
-		Maybe she thinks she is.
-		She could be some kind of...{n}twisted defense mechanism.
 		
 		[MADELINE right upset]
 		Sinceramente, isso não interessa para nada.
 		Ela tem muito controlo sobre mim.
 		Detesto isso.
-		Honestly, who cares?
-		She has so much control over me.
-		I hate it.
 
 		[THEO left wtf]
 		Em vez disso talvez possas aprender a controlá-la.
-		Maybe you can learn to control her instead.
 
 		[MADELINE right distracted]
 		A pena ajuda bastante.
-		The feather helps a lot.
 
 		[MADELINE right sad]
 		Obrigada por me ensinares essa.
-		Thanks for teaching me that.
 
 		[THEO left thinking]
 		É só um dos muitos conselhos sábios do meu avô.
-		Just one of my grandpa's many nuggets of wisdom.
 
 	CH6_THEO_ASK_VACATION=
 		[THEO left thinking]
 		E porque não tiraste umas férias?
-		Why not take a vacation instead?
 	CH6_THEO_SAY_VACATION=
 		[THEO left thinking]
 		E porque não tiraste umas férias?
-		Why not take a vacation instead?
 
 		[MADELINE right sad]
 		O que queres dizer?
-		What do you mean?
 
 		[THEO left normal]
 		Meu, precisavas de algo novo{n}e por isso decidiste {>> .2}escalar a {+MOUNTAIN}{>>}...
-		Dude, you needed a change{n}so you chose to {>> .2}climb a {+MOUNTAIN}{>>}...
 
 		[THEO left thinking]
 		Em vez disso porque não fazer algo relaxante?
-		Why not do something relaxing instead?
 
 		[THEO left wtf]
 		Ir ao Havai, ou sei lá, {0.3tomar um banho.
-		Go to Hawaii, or like, {0.3}take a bath.
 
 		[MADELINE right sad]
 		...
 		Acho que eu sinto que preciso de conquistar alguma coisa.
-		I guess I feel like I need to accomplish something.
 
 		[THEO left wtf]
 		Parece é que já tens demasiado com que lidar.
-		It sounds like you have{n}enough on your plate already.
 
 		[MADELINE right distracted]
 		Acho que é uma coisa um bocado extrema.
 		Mas é assim que eu sou.
 		Preciso de algo que me desafie.
-		I guess it is kind of extreme.
-		But that's how I am.
-		I need something to challenge me.
 
 		[MADELINE right sad]
 		E não consigo fazer algo só um bocadinho.
 		Para mim tem de ser tudo ou nada.
-		And I can't just do something a little bit.
-		It's all of me, or nothing.
 
 	CH6_THEO_ASK_FAMILY=
 		[MADELINE right normal]
 		O que te trouxe à {+MOUNTAIN}?
-		What brought you to the {+MOUNTAIN}?
 	CH6_THEO_SAY_FAMILY=
 		[MADELINE right normal]
 		Então e tu?
 		O que te trouxe à {+MOUNTAIN}?
-		How about you?
-		What brought you to the {+MOUNTAIN}?
 
 		[THEO left normal]
 		Ando de um lado para o outro.
-		I'm just kind of bumming around.
 		
 		[THEO left thinking]
 		Como de costume.
-		As usual.
 
 		[THEO left normal]
 		Comecei este emprego novo em Seattle.
 		E pensei que já {~}finalmente{/~} sabia o que{n}estava a fazer com a minha vida...
-		I started this new job in Seattle.
-		I thought I {~}finally{/~} knew what I was{n}supposed to be doing with my life...
 
 		[THEO left wtf]
 		Mas detestei.
-		But I hated it.
 
 		[THEO left thinking]
 		Por isso despedi-me uma semana depois e enfiei-me num autocarro até ao Canadá.
-		So I quit after a week and hopped a bus to Canada.
 
 		[THEO left wtf]
 		Apenas senti esta vontade de...{n}me perder no meio do nada.
 		...
 		Agora que o digo em voz alta,{n}percebo o estranho que isto parece.
-		I just felt this urge to...{n}get lost in the middle of nowhere.
-		...
-		Now that I'm saying it out loud,{n}I realize how flakey it sounds.
 
 		[MADELINE right sad]
 		Parece que estás sob imensa pressão.
-		It just sounds like you're under a lot of pressure.
 
 		[THEO left thinking]
 		Nem por isso.
 		Toda a gente tem muita paciência comigo.
-		Not really.
-		Everyone is so patient with me.
 
 		[THEO left serious]
 		Mas na verdade eu acho que é estou é a{n}pôr demasiada pressão em {~}mim próprio{/~}.
-		Though I guess I am putting a{n}lot of pressure on {~}myself.{/~}
 
 		[THEO left wtf]
 		As pessoas pensam sempre que estou a comparar-me à{n}{+ALEX}, mas {~}juro{/~} que não é esse o problema.
 		Estou só com medo de nunca chegar a descobrir{n}para onde estou a ir.
-		People always think I'm comparing myself to{n}{+ALEX}, but I {~}swear{/~} that isn't the problem.
-		I'm just worried that I'll never{n}figure out where I'm going.
 		
 		[MADELINE right distracted]
 		Disseste que te querias sentir perdido...
-		You said you wanted to feel lost...
 
 		[MADELINE right normal]
 		Talvez devas aceitar isso por enquanto.
-		Maybe you should just embrace that for now.
 
 		[THEO left serious]
 		Talvez.
-		Maybe.
 
 	CH6_THEO_ASK_GRANDPA=
 		[MADELINE right normal]
 		És próximo ao teu avô?
-		Are you close to your grandpa?
 	CH6_THEO_SAY_GRANDPA=
 		[MADELINE right normal]
 		És próximo ao teu avô?
-		Are you close to your grandpa?
 
 		[THEO left serious]
 		Sim... Era.
-		Yeah... I was.
 
 		[MADELINE right distracted]
 		Ah... Lamento.
-		Oh... I'm sorry.
 
 		[THEO left serious]
 		Não faz mal. A vida é mesmo assim.
-		It's okay. That's just how it is.
 
 		[MADELINE right distracted]
 		...
 
 		[THEO left wtf]
 		Tudo o que posso fazer é manter-me positivo.
-		All I can do is stay positive.
 
 		[THEO left serious]
 		E viver uma vida com propósito,{n}porque era isso que ele iria querer.
-		And live a meaningful life,{n}because that's what he would want.
 
 		{trigger 0 Wait a bit}
 
 		[MADELINE right sad]
 		Lamento imenso, {+THEO}.
-		I'm so sorry, {+THEO}.
 
 		[THEO left serious]
 		Obrigado.
-		Thanks.
 
 	CH6_THEO_ASK_TIPS=
 		[MADELINE right normal]
 		O que aprendeste mais com o teu avô?
-		What else did you learn from your grandpa?
 	CH6_THEO_SAY_TIPS=
 		[MADELINE right normal]
 		O que aprendeste mais com o teu avô?
-		What else did you learn from your grandpa?
 
 		[THEO left excited]
 		Tantas coisas!
-		So much stuff!
 
 		[THEO left normal]
 		Aliás, foi ele que me falou{n}acerca da {+CELESTE_MOUNTAIN}.
 		Ele sempre me disse que este lugar lhe mudou a vida.
-		Actually, he was the one who{n}told me about {+CELESTE_MOUNTAIN}.
-		He always said that this place changed his life.
 
 		[THEO left thinking]
 		Depois de me despedir do emprego em Seattle,{n}percebi o quão perto eu estava daqui.
 		Senti como se ele me estivesse a dizer para cá vir.
-		After I quit my job in Seattle,{n}I realized how close I was to it.
-		I felt like he was telling me to come here.
 
 		[THEO left wtf]
 		O avô disse que esta {+MOUNTAIN} era {~}"especial."{/~}
-		Grandpa said that the {+MOUNTAIN} was {~}"special."{/~}
 
 		[MADELINE right sad]
 		Achas que ele passou pelo templo como nós?
-		Do you think he went through the temple like us?
 
 		[MADELINE right normal]
 		Pensas que ele percebeu qual{n}era o poder da {+MOUNTAIN}?
-		Do you think he understood{n}the power of the {+MOUNTAIN}?
 		
 		[THEO left thinking]
 		Ele nunca falou sobre o que aconteceu aqui.
-		He never talked about what happened here.
 
 		[MADELINE right distracted]
 		Duvido que o teu avô tivesse os mesmos problemas que eu...
-		I doubt your grandpa was as messed up as me...
 
 		[MADELINE right sad]
-		A experiência dele provavelmente foi menos... violenta.
-		His experience was probably less... violent.
+		A experiência dele deve ter sido menos... violenta.
 
 		[THEO left wtf]
 		Ele descobriu a {+MOUNTAIN} antes de eu ter nascido.
 		Não sei como é que ele era antes disso.
-		He found the {+MOUNTAIN} before I was born.
-		I don't know what he was like before that.
 
 		[THEO left serious]
 		Fico a pensar sobre o que ele descobriu acerca dele próprio aqui...
-		I wonder what he learned about himself here...
 
 	CH6_THEO_ASK_TEMPLE=
 		[THEO left wtf]
 		Quem é que achas que construíu o templo?
-		Who do you think built the temple?
 	CH6_THEO_SAY_TEMPLE=
 		[THEO left wtf]
 		Quem é que achas que construíu o templo?
-		Who do you think built the temple?
 
 		[MADELINE right sad]
 		Parece ser muito antigo...
 		Deve existir há mais tempo do que tudo o resto na {+MOUNTAIN}.{n}O resort, as ruínas, a cidade...
-		It looks ancient...
-		It must predate everything else on the {+MOUNTAIN}.{n}The resort, the ruins, the city...
 
 		[THEO left serious]
 		Este lugar tem muita história.
-		There's a lot of history here.
 
 		[MADELINE right distracted]
 		Sim.
 		Esta {+MOUNTAIN} significou imensas{n}coisas para imensas pessoas.
-		Yeah. 
-		This {+MOUNTAIN} has meant so{n}many things to so many people.
 
 		[MADELINE right normal]
 		Estou a começar a perceber o porquê{n}daquela velha maluca viver aqui.
-		I'm starting to understand why{n}that crazy old lady lives here.
 
 		[THEO left excited]
-		Também te encontraste com ela?
-		You ran into her too?
+		Também te cruzaste com ela?
 
 		[THEO left thinking]
 		Qual é a cena dela?
-		What's her deal?
 
 		[MADELINE right upset]
 		Acho que ela é só má pessoa.
-		I think she's just a mean person.
 
 		[MADELINE right distracted]
 		...no entanto parece ser bem feliz a viver aqui.
-		...but she does seem pretty content living out here.
 
 	CH6_THEO_ASK_SELFIE=
 		[MADELINE right normal]
 		Quero lembrar-me desta noite...
-		I want to remember this night...
 	CH6_THEO_SAY_SELFIE=
 		[MADELINE right normal]
 		Sabes uma coisa?
 		Quero lembrar-me desta noite...
 		Bora tirar uma selfie!
-		You know what?
-		I want to remember this night...
-		Let's take a selfie!
 
 		[THEO left normal]
 		Pensava que nunca ias perguntar.
-		I thought you'd never ask.
 
 		{trigger 1 selfie sequence}
 
 		[MADELINE right normal]
 		Sabes, apesar de tudo,{n}sinto-me muito bem agora mesmo.
-		Y'know despite everything,{n}I feel pretty good right now.
 
 		[THEO left wtf]
 		Espera lá...
-		Wait a second...
 
 		[THEO left excited]
 		Vais chegar ao cume amanhã!
-		You're going to reach the summit tomorrow!
 
 		[MADELINE right upset]
 		Não digas nada que dá azar.
-		Don't jinx it.
 
 		[MADELINE right distracted]
 		...mas sim, estou empolgada.
-		...yeah, I'm excited.
 
 		[MADELINE right normal]
-		Estou pronta a deixar isto tudo para trás.
-		I'm ready to put this all behind me.
+		Estou pronta paraa deixar isto tudo para trás.
 
 		[THEO left normal]
 		Vou ficar a torcer por ti.
 		Devíamos ir dormir um pouco.
-		I'll be cheering you on.
-		We should get some sleep.
 
 		[MADELINE right normal]
 		Certo, boa noite, {+THEO}.
-		Okay, goodnight, {+THEO}.
 
 		[MADELINE right distracted]
 		Obrigada por... seres fixe.
-		Thanks for... being cool.
 
 		[THEO left thinking]
 		O que posso dizer? Sou mesmo assim.
-		What can I say? It comes naturally.
 
 	CH6_THEO_ASK_SLEEP=
 		[MADELINE right distracted]
 		Devia ir dormir um pouco.
-		I should get some sleep.
 	CH6_THEO_SAY_SLEEP=
 		[MADELINE right distracted]
 		Devia ir dormir um pouco.
-		I should get some sleep.
 
 		[THEO left thinking]
 		Ah, tens a certeza que não queres continuar a falar?
-		Oh, are you sure you don't want to keep talking?
 
 		[THEO left normal]
 		Também estou cansado, mas ainda temos muito que falar.
-		I'm tired too, but we have a lot to talk about.
 
 	CH6_THEO_ASK_SLEEP_CONFIRM=
 		[MADELINE right sad]
 		Sim, desculpa, estou mesmo muito cansada.
-		Yeah, sorry, I'm really tired.
 	CH6_THEO_SAY_SLEEP_CONFIRM=
 		[MADELINE right sad]
 		Sim, desculpa, estou mesmo muito cansada.
-		Yeah, sorry, I'm really tired.
 
 		{+CH6_THEO_SAY_SELFIE}
 
 	CH6_THEO_ASK_SLEEP_CANCEL=
 		[MADELINE right normal]
 		Tens razão, posso ir dormir mais tarde.
-		You're right, I can sleep later.
 	CH6_THEO_SAY_SLEEP_CANCEL=
 		[MADELINE right sad]
 		Tens razão, posso ir dormir mais tarde.
-		You're right, I can sleep later.
 
 	CH6_DREAMING=
 		[MADELINE left normal]
 		A aurora boreal é tão linda.
-		The northern lights are so beautiful.
 
 		[BADELINE right worried]
 		Sim... pois é...
 		...
-		Yeah... they are...
-		...
 
 		[BADELINE right worriedAlt]
 		Onde é que estamos?
-		Where are we?
 
 		[MADELINE left sad]
 		Precisamos de falar.
-		We need to talk.
 
 		[BADELINE right worried]
 		...certo.
-		...okay.
 
 		[MADELINE left distracted]
 		Finalmente descobri quem tu és.
-		I finally understand who you are.
 
 		[MADELINE left sad]
 		Não és o meu verdadeiro reflexo.
-		You're not my true reflection.
 
 		[BADELINE right worriedAlt]
 		...Não sou?
-		...I'm not?
 
 		[MADELINE left sad]
 		És tudo o que eu preciso de deixar para trás.
 		És cruel, paranoica, controladora...
-		You're everything I need to leave behind.
-		You're cruel, paranoid, controlling...
 
 		[BADELINE right worriedAlt]
 		Porque é que estás a dizer isso?
-		Why would you say that?
 
 		[MADELINE left normal]
 		Não, tudo bem!
 		Já percebi tudo.
-		Eu não preciso mais de ti.
-		No, it's okay!
-		I understand now.
-		I don't need you anymore.
+		Eu já não preciso mais de ti.
 
 		[BADELINE right worried]
 		Então estás a... abandonar-me?
-		So you're just... abandoning me?
 
 		[MADELINE left sad]
 		Estou a libertar-te.
-		I'm setting you free.
 
 		[MADELINE left normal]
 		Vamos as duas ser muito mais felizes.
-		We'll both be so much happier.
 
 		[BADELINE right worried]
 		És tão...
-		You're so...
 
 		[BADELINE right sad]
 		tão...
-		so...
 
 		[BADELINE right freakA pop]
 		{silent_trigger 0 Tentacles Appear}
 		...tão estúpida!
-		...so stupid!
 
 		[BADELINE right freakB pop]
 		{silent_trigger 0 Tentacles Appear More}
@@ -3671,50 +3396,34 @@
 		{silent_trigger 0 Tentacles Appear EVEN MORE}
 		Tu achas que és {~}melhor{/~} do que eu!?
 
-		{silent_trigger 0 Tentacles Appear More}
-		You think you can just {~}leave me behind?{/~}
-		{silent_trigger 0 Tentacles Appear moooore}
-		You think you can blame everything on me?
-		{silent_trigger 0 Tentacles Appear EVEN MORE}
-		You think you're {~}above{/~} me!?
-
 		[BADELINE right freakC pop]
 		{silent_trigger 1 Tentacles grab Madeline}
 		{!}{*}RESPONDE-ME!{/*}{/!}
-		{!}{*}ANSWER ME!{/*}{/!}
 
 		[MADELINE left panic]
 		Acalma-te, por favor...
-		Calm down, please...
 
 		{trigger 4 start circling the player}
 		[BADELINE right freakC_cont]
 		{!}{*}Acalmar-me!?{/*}{/!}
-		{!}{*}Calm down!?{/*}{/!}
 
 		[MADELINE left determinedclosed]
 		Respira, {+MADELINE}.
 		Usa a pena.
-		Breathe, {+MADELINE}.
-		Use the feather.
 
 		{trigger 2 Feather minigame}
 
 		[BADELINE right freakBAlt]
 		Vais {~}pensar sobre numa pena{/~} para me impedir?
-		You're going to {~}think about a feather{/~} to stop me?
 
 		{trigger 3 Destroy feather minigame}
 
 		[BADELINE right freakBAlt]
 		Tu não és {*}melhor do que eu.{/*}
-		You are not {*}above me.{/*}
 		E tu {*}não és capaz{/*} de escalar esta {+MOUNTAIN}.
-		And you {*}can't{/*} climb this {+MOUNTAIN}.
 
 		[BADELINE right freakCAlt pop]
 		Está na hora de o aceitares.
-		It's time to accept that.
 
 	CH6_THEO_WATCHOUT=
 		[THEO left worried]
