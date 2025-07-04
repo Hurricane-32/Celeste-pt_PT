@@ -1435,7 +1435,7 @@
 
 	CH3_THEO_NEVER_INTRODUCED=
 		[MADELINE left normal]
-		{+theo}! Eś um "hóspede" aqui também?
+		{+theo}! És um "hóspede" aqui também?
 
 		{trigger 0 Theo stops trying to pry off the vent cover}
 		
@@ -1454,7 +1454,7 @@
 
 	CH3_THEO_INTRO=
 		[MADELINE left normal]
-		{+theo}! Eś um "hóspede" aqui também?
+		{+theo}! És um "hóspede" aqui também?
 
 		{trigger 0 Theo stops trying to pry off the vent cover}
 		
@@ -1948,8 +1948,8 @@
 		O que tem de tão especial?
 
 		[GRANNY right normal]
-		A {+MOUNTAIN} revela aquilo que verdadeiramente és.
-		Quer estejas pronta para aceitar isso ou não.
+		A {+MOUNTAIN} revela quem és de verdade.
+			Quer estejas pronta o aceitar ou não.
 		Mantém-me honesta.
 
 	CH4_GONDOLA=
@@ -2060,7 +2060,7 @@
 		Isto é muito mau...
 
 		[THEO right wtf]
-		Se calhar se eu...
+		Talvez se eu...
 
 		{trigger 9 lever snaps off}
 		
@@ -2555,7 +2555,7 @@
 		Oh.
 		
 		[MADELINE left normal]
-		Sim, consigo fazer isso.
+		Sim, consigo fazê-lo.
 
 	CH5_THEO_SAVING_LIFT=
 		[THEO left thinking]
@@ -2974,7 +2974,7 @@
 		I'm good at keeping up appearances, but{n}the truth is I'm barely holding it together.
 
 		[THEO left worried]
-		Pocha, isso é uma cena bem complicada.
+		Pocha, é uma cena bem complicada.
 		Posso ajudar de alguma forma?
 		I'm sorry, that's pretty rough stuff.
 		Can I help?
@@ -3069,7 +3069,7 @@
 		
 		[MADELINE right distracted]
 		Pensando bem, provavelmente sempre tive problemas.
-		Só foi preciso algo doloroso para o trazer isso ao de cima.
+		Só foi preciso algo doloroso para o trazer ao de cima.
 		Then again, I was probably always messed up.
 		It just took something hurtful to bring it out.
 
@@ -3110,7 +3110,7 @@
 		I'm literally {*}fighting myself{/*} the entire way.
 
 		[MADELINE right distracted]
-		Talvez isto seja tudo em vão.
+		Talvez isto seja tudo para nada.
 		Maybe this is all pointless.
 
 		{trigger 0 Wait a bit}
@@ -3120,7 +3120,7 @@
 		{+MADELINE}, you {~}just{/~} saved my life.
 
 		[THEO left wtf]
-		Isso não é em vão.
+		Isso não é "para nada".
 		That's not pointless.
 
 		[MADELINE right distracted]
@@ -3146,7 +3146,7 @@
 		And that's a totally legit reason to climb the {+MOUNTAIN}!
 
 		[MADELINE right distracted]
-		Se calhar.
+		Talvez.
 		Maybe.
 
 		[MADELINE right sad]
@@ -3217,7 +3217,7 @@
 		Thanks for teaching me that.
 
 		[THEO left thinking]
-		Só um dos muitos conselhos sábios do meu avô.
+		É só um dos muitos conselhos sábios do meu avô.
 		Just one of my grandpa's many nuggets of wisdom.
 
 	CH6_THEO_ASK_VACATION=
@@ -3234,7 +3234,7 @@
 		What do you mean?
 
 		[THEO left normal]
-		Meu, precisavas de uma mudança{n}e por isso decidiste {>> .2}escalar a {+MOUNTAIN}{>>}...
+		Meu, precisavas de algo novo{n}e por isso decidiste {>> .2}escalar a {+MOUNTAIN}{>>}...
 		Dude, you needed a change{n}so you chose to {>> .2}climb a {+MOUNTAIN}{>>}...
 
 		[THEO left thinking]
@@ -3251,11 +3251,11 @@
 		I guess I feel like I need to accomplish something.
 
 		[THEO left wtf]
-		Parece que já tens demasiado com que lidar.
+		Parece é que já tens demasiado com que lidar.
 		It sounds like you have{n}enough on your plate already.
 
 		[MADELINE right distracted]
-		Acho que é um bocado extremo.
+		Acho que é uma coisa um bocado extrema.
 		Mas é assim que eu sou.
 		Preciso de algo que me desafie.
 		I guess it is kind of extreme.
@@ -3289,7 +3289,7 @@
 
 		[THEO left normal]
 		Comecei este emprego novo em Seattle.
-		E achei que {~}finalmente{/~} já sabia o que{n}devia fazer com a minha vida...
+		E pensei que já {~}finalmente{/~} sabia o que{n}estava a fazer com a minha vida...
 		I started this new job in Seattle.
 		I thought I {~}finally{/~} knew what I was{n}supposed to be doing with my life...
 
@@ -3320,7 +3320,7 @@
 		Everyone is so patient with me.
 
 		[THEO left serious]
-		Mas na verdade acho que é estou é a{n}pôr demasiada pressão em {~}mim próprio{/~}.
+		Mas na verdade eu acho que é estou é a{n}pôr demasiada pressão em {~}mim próprio{/~}.
 		Though I guess I am putting a{n}lot of pressure on {~}myself.{/~}
 
 		[THEO left wtf]
@@ -3385,212 +3385,292 @@
 
 	CH6_THEO_ASK_TIPS=
 		[MADELINE right normal]
+		O que aprendeste mais com o teu avô?
 		What else did you learn from your grandpa?
 	CH6_THEO_SAY_TIPS=
 		[MADELINE right normal]
+		O que aprendeste mais com o teu avô?
 		What else did you learn from your grandpa?
 
 		[THEO left excited]
+		Tantas coisas!
 		So much stuff!
 
 		[THEO left normal]
+		Aliás, foi ele que me falou{n}acerca da {+CELESTE_MOUNTAIN}.
+		Ele sempre me disse que este lugar lhe mudou a vida.
 		Actually, he was the one who{n}told me about {+CELESTE_MOUNTAIN}.
 		He always said that this place changed his life.
 
 		[THEO left thinking]
+		Depois de me despedir do emprego em Seattle,{n}percebi o quão perto eu estava daqui.
+		Senti como se ele me estivesse a dizer para cá vir.
 		After I quit my job in Seattle,{n}I realized how close I was to it.
 		I felt like he was telling me to come here.
 
 		[THEO left wtf]
+		O avô disse que esta {+MOUNTAIN} era {~}"especial."{/~}
 		Grandpa said that the {+MOUNTAIN} was {~}"special."{/~}
 
 		[MADELINE right sad]
+		Achas que ele passou pelo templo como nós?
 		Do you think he went through the temple like us?
 
 		[MADELINE right normal]
+		Pensas que ele percebeu qual{n}era o poder da {+MOUNTAIN}?
 		Do you think he understood{n}the power of the {+MOUNTAIN}?
 		
 		[THEO left thinking]
+		Ele nunca falou sobre o que aconteceu aqui.
 		He never talked about what happened here.
 
 		[MADELINE right distracted]
+		Duvido que o teu avô tivesse os mesmos problemas que eu...
 		I doubt your grandpa was as messed up as me...
 
 		[MADELINE right sad]
+		A experiência dele provavelmente foi menos... violenta.
 		His experience was probably less... violent.
 
 		[THEO left wtf]
+		Ele descobriu a {+MOUNTAIN} antes de eu ter nascido.
+		Não sei como é que ele era antes disso.
 		He found the {+MOUNTAIN} before I was born.
 		I don't know what he was like before that.
 
 		[THEO left serious]
+		Fico a pensar sobre o que ele descobriu acerca dele próprio aqui...
 		I wonder what he learned about himself here...
 
 	CH6_THEO_ASK_TEMPLE=
 		[THEO left wtf]
+		Quem é que achas que construíu o templo?
 		Who do you think built the temple?
 	CH6_THEO_SAY_TEMPLE=
 		[THEO left wtf]
+		Quem é que achas que construíu o templo?
 		Who do you think built the temple?
 
 		[MADELINE right sad]
+		Parece ser muito antigo...
+		Deve existir há mais tempo do que tudo o resto na {+MOUNTAIN}.{n}O resort, as ruínas, a cidade...
 		It looks ancient...
 		It must predate everything else on the {+MOUNTAIN}.{n}The resort, the ruins, the city...
 
 		[THEO left serious]
+		Este lugar tem muita história.
 		There's a lot of history here.
 
 		[MADELINE right distracted]
+		Sim.
+		Esta {+MOUNTAIN} significou imensas{n}coisas para imensas pessoas.
 		Yeah. 
 		This {+MOUNTAIN} has meant so{n}many things to so many people.
 
 		[MADELINE right normal]
+		Estou a começar a perceber o porquê{n}daquela velha maluca viver aqui.
 		I'm starting to understand why{n}that crazy old lady lives here.
 
 		[THEO left excited]
+		Também te encontraste com ela?
 		You ran into her too?
 
 		[THEO left thinking]
+		Qual é a cena dela?
 		What's her deal?
 
 		[MADELINE right upset]
+		Acho que ela é só má pessoa.
 		I think she's just a mean person.
 
 		[MADELINE right distracted]
+		...no entanto parece ser bem feliz a viver aqui.
 		...but she does seem pretty content living out here.
 
 	CH6_THEO_ASK_SELFIE=
 		[MADELINE right normal]
+		Quero lembrar-me desta noite...
 		I want to remember this night...
 	CH6_THEO_SAY_SELFIE=
 		[MADELINE right normal]
+		Sabes uma coisa?
+		Quero lembrar-me desta noite...
+		Bora tirar uma selfie!
 		You know what?
 		I want to remember this night...
 		Let's take a selfie!
 
 		[THEO left normal]
+		Pensava que nunca ias perguntar.
 		I thought you'd never ask.
 
 		{trigger 1 selfie sequence}
 
 		[MADELINE right normal]
+		Sabes, apesar de tudo,{n}sinto-me muito bem agora mesmo.
 		Y'know despite everything,{n}I feel pretty good right now.
 
 		[THEO left wtf]
+		Espera lá...
 		Wait a second...
 
 		[THEO left excited]
+		Vais chegar ao cume amanhã!
 		You're going to reach the summit tomorrow!
 
 		[MADELINE right upset]
+		Não digas nada que dá azar.
 		Don't jinx it.
 
 		[MADELINE right distracted]
+		...mas sim, estou empolgada.
 		...yeah, I'm excited.
 
 		[MADELINE right normal]
+		Estou pronta a deixar isto tudo para trás.
 		I'm ready to put this all behind me.
 
 		[THEO left normal]
+		Vou ficar a torcer por ti.
+		Devíamos ir dormir um pouco.
 		I'll be cheering you on.
 		We should get some sleep.
 
 		[MADELINE right normal]
+		Certo, boa noite, {+THEO}.
 		Okay, goodnight, {+THEO}.
 
 		[MADELINE right distracted]
+		Obrigada por... seres fixe.
 		Thanks for... being cool.
 
 		[THEO left thinking]
+		O que posso dizer? Sou mesmo assim.
 		What can I say? It comes naturally.
 
 	CH6_THEO_ASK_SLEEP=
 		[MADELINE right distracted]
+		Devia ir dormir um pouco.
 		I should get some sleep.
 	CH6_THEO_SAY_SLEEP=
 		[MADELINE right distracted]
+		Devia ir dormir um pouco.
 		I should get some sleep.
 
 		[THEO left thinking]
+		Ah, tens a certeza que não queres continuar a falar?
 		Oh, are you sure you don't want to keep talking?
 
 		[THEO left normal]
+		Também estou cansado, mas ainda temos muito que falar.
 		I'm tired too, but we have a lot to talk about.
 
 	CH6_THEO_ASK_SLEEP_CONFIRM=
 		[MADELINE right sad]
+		Sim, desculpa, estou mesmo muito cansada.
 		Yeah, sorry, I'm really tired.
 	CH6_THEO_SAY_SLEEP_CONFIRM=
 		[MADELINE right sad]
+		Sim, desculpa, estou mesmo muito cansada.
 		Yeah, sorry, I'm really tired.
 
 		{+CH6_THEO_SAY_SELFIE}
 
 	CH6_THEO_ASK_SLEEP_CANCEL=
 		[MADELINE right normal]
+		Tens razão, posso ir dormir mais tarde.
 		You're right, I can sleep later.
 	CH6_THEO_SAY_SLEEP_CANCEL=
 		[MADELINE right sad]
+		Tens razão, posso ir dormir mais tarde.
 		You're right, I can sleep later.
 
 	CH6_DREAMING=
 		[MADELINE left normal]
+		A aurora boreal é tão linda.
 		The northern lights are so beautiful.
 
 		[BADELINE right worried]
+		Sim... pois é...
+		...
 		Yeah... they are...
 		...
 
 		[BADELINE right worriedAlt]
+		Onde é que estamos?
 		Where are we?
 
 		[MADELINE left sad]
+		Precisamos de falar.
 		We need to talk.
 
 		[BADELINE right worried]
+		...certo.
 		...okay.
 
 		[MADELINE left distracted]
+		Finalmente descobri quem tu és.
 		I finally understand who you are.
 
 		[MADELINE left sad]
+		Não és o meu verdadeiro reflexo.
 		You're not my true reflection.
 
 		[BADELINE right worriedAlt]
+		...Não sou?
 		...I'm not?
 
 		[MADELINE left sad]
+		És tudo o que eu preciso de deixar para trás.
+		És cruel, paranoica, controladora...
 		You're everything I need to leave behind.
 		You're cruel, paranoid, controlling...
 
 		[BADELINE right worriedAlt]
+		Porque é que estás a dizer isso?
 		Why would you say that?
 
 		[MADELINE left normal]
+		Não, tudo bem!
+		Já percebi tudo.
+		Eu não preciso mais de ti.
 		No, it's okay!
 		I understand now.
 		I don't need you anymore.
 
 		[BADELINE right worried]
+		Então estás a... abandonar-me?
 		So you're just... abandoning me?
 
 		[MADELINE left sad]
+		Estou a libertar-te.
 		I'm setting you free.
 
 		[MADELINE left normal]
+		Vamos as duas ser muito mais felizes.
 		We'll both be so much happier.
 
 		[BADELINE right worried]
+		És tão...
 		You're so...
 
 		[BADELINE right sad]
+		tão...
 		so...
 
 		[BADELINE right freakA pop]
 		{silent_trigger 0 Tentacles Appear}
+		...tão estúpida!
 		...so stupid!
 
 		[BADELINE right freakB pop]
+		{silent_trigger 0 Tentacles Appear More}
+		Tu pensas que podes simplesmente {~}deixar-me para trás?{/~}
+		{silent_trigger 0 Tentacles Appear moooore}
+		Tu julgas que podes pôr as culpas todas em mim?
+		{silent_trigger 0 Tentacles Appear EVEN MORE}
+		Tu achas que és {~}melhor{/~} do que eu!?
+
 		{silent_trigger 0 Tentacles Appear More}
 		You think you can just {~}leave me behind?{/~}
 		{silent_trigger 0 Tentacles Appear moooore}
@@ -3600,35 +3680,45 @@
 
 		[BADELINE right freakC pop]
 		{silent_trigger 1 Tentacles grab Madeline}
+		{!}{*}RESPONDE-ME!{/*}{/!}
 		{!}{*}ANSWER ME!{/*}{/!}
 
 		[MADELINE left panic]
+		Acalma-te, por favor...
 		Calm down, please...
 
 		{trigger 4 start circling the player}
 		[BADELINE right freakC_cont]
+		{!}{*}Acalmar-me!?{/*}{/!}
 		{!}{*}Calm down!?{/*}{/!}
 
 		[MADELINE left determinedclosed]
+		Respira, {+MADELINE}.
+		Usa a pena.
 		Breathe, {+MADELINE}.
 		Use the feather.
 
 		{trigger 2 Feather minigame}
 
 		[BADELINE right freakBAlt]
+		Vais {~}pensar sobre numa pena{/~} para me impedir?
 		You're going to {~}think about a feather{/~} to stop me?
 
 		{trigger 3 Destroy feather minigame}
 
 		[BADELINE right freakBAlt]
+		Tu não és {*}melhor do que eu.{/*}
 		You are not {*}above me.{/*}
+		E tu {*}não és capaz{/*} de escalar esta {+MOUNTAIN}.
 		And you {*}can't{/*} climb this {+MOUNTAIN}.
 
 		[BADELINE right freakCAlt pop]
+		Está na hora de o aceitares.
 		It's time to accept that.
 
 	CH6_THEO_WATCHOUT=
 		[THEO left worried]
+		{+MADELINE}, o que é que se passa!?
 		{+MADELINE}, what's happening!?
 
 	CH6_REFLECT_AFTER=
