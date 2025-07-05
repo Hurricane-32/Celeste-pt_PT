@@ -3390,7 +3390,7 @@
 
 		[BADELINE right freakB pop]
 		{silent_trigger 0 Tentacles Appear More}
-		Tu pensas que podes simplesmente {~}deixar-me para trás?{/~}
+		Tu pensas que podes{n}simplesmente {~}deixar-me para trás?{/~}
 		{silent_trigger 0 Tentacles Appear moooore}
 		Tu julgas que podes pôr as culpas todas em mim?
 		{silent_trigger 0 Tentacles Appear EVEN MORE}
@@ -3423,294 +3423,294 @@
 		E tu {*}não és capaz{/*} de escalar esta {+MOUNTAIN}.
 
 		[BADELINE right freakCAlt pop]
-		Está na hora de o aceitares.
+		Está na hora de aceitares isso.
 
 	CH6_THEO_WATCHOUT=
 		[THEO left worried]
 		{+MADELINE}, o que é que se passa!?
-		{+MADELINE}, what's happening!?
 
 	CH6_REFLECT_AFTER=
 		[MADELINE left sad]
-		I was so close.
+		Estava tão perto.
 
 		[MADELINE left panic]
-		It's over now.
-		Why won't she leave me alone?
+		Acabou-se.
+		Porque é que ela não me deixa em paz?
 
 		[MADELINE left angry]
-		I {*}hate{/*} her.
+		{*}Odeio-a.{/*}
 		...
 
 		[MADELINE left distracted]
 		...
-		But she's {+PART_OF_ME}.
-		I'll never be able to get rid of her.
+		Mas ela é {+PART_OF_ME}.
+		Nunca me vou conseguir livrar dela.
 
 		[MADELINE left sad]
-		And she was right.
-		I couldn't climb the {+MOUNTAIN}.
+		E ela tinha razão.
+		Não fui capaz de escalar a {+MOUNTAIN}.
 
 	CH6_OLDLADY=
 		[GRANNY right normal]
-		Oh, hello again.
+		Ah, olá outra vez.
 
 		[MADELINE left upset]
-		Of course you're here.
+		Claro que está aqui.
 
 		{trigger 0 Zoom in}
 
 		[GRANNY right mock]
-		Callin' it quits I see.
+		Estou a ver que desististe.
 		
 		[MADELINE left upset]
-		No, I fell.
-		It's over.
+		Não, eu caí.
+		Acabou.
 
 		[GRANNY right normal]
-		That's probably for the best.
-		The {+MOUNTAIN} doesn't pull any punches.
+		Se calhar é melhor assim.
+		A {+MOUNTAIN} não brinca em serviço.
 
 		[MADELINE left upset]
-		Yeah, I get it. 
-		I wasn't strong enough to climb your stupid {+MOUNTAIN}.
+		Sim, já percebi.
+		Não fui forte o suficiente para escalar a sua {+MOUNTAIN} estúpida.
 
 		[MADELINE left distracted]
-		You can laugh at me again if you want.
+		Pode rir-se de mim outra vez se quiser.
 
 		{trigger 1 Start laughing}
 		
 		[MADELINE left upset]
-		I didn't mean actually laugh...
+		Eu não estava a falar a sério...
 
 		{trigger 2 Stop laughing}
 		
 		[GRANNY right normal]
-		Sometimes you gotta know when to throw in the towel.
-		You'll get over it.
+		Ás vezes tens de perceber altura certa para pendurar as botas.
+		Isso passa.
 
 		{trigger 3 Maddy walks right}
 		
 		[MADELINE left angry]
-		You know what?
-		I had a lot of time to think,{n}climbing out of this cave...	
-		And I'm already {*}over it.{/*}
+		Sabe que mais?
+		Tive muito tempo para pensar,{n}enquanto saía desta caverna...
+		E {*}já passou{/*}.
 
 		{trigger 4 Maddy walks left}
 
 		[MADELINE left upset flip]
-		That {0.4}{+PART_OF_ME}{0.4} was right, I can't do this.
+		Aquela {0.4}{+PART_OF_ME}{0.4} tinha razão, eu não consigo fazer isto.
 
 		[MADELINE left panic flip]
-		I'll just... go home to my sad life{n}and {.4}be miserable forever.
+		Eu vou mas é... para casa para minha vida{n}infeliz e {.4}continuar triste para sempre.
 
 		{trigger 5 Wait a bit}
 		
 		[GRANNY right normal]
-		You clearly aren't over it.
+		Claramente não te passou.
 
 		{trigger 6 Maddy turns right}
 		
 		[MADELINE left upset]
-		Shut up, I know.
+		Cale-se, eu sei.
 
 		[MADELINE left distracted]
-		I don't want to give up...
-		But no matter how hard I try, she{n}sabotages me every step of the way.
+		Eu não quero desistir...
+		Mas por mais que eu tente, ela{n}sabota-me a cada passo que dou.
 		
 		[GRANNY right normal]
-		A lot of kids come here to climb{n}this {+mountain}, only to give up.
-		It's a shame that you fell,{n}I was starting to think you'd make it.
+		Muitos miúdos vem para aqui para escalar{n}esta {+mountain}, apenas para desistir.
+		Foi uma pena teres caído,{n}estava a começar a pensar que ias conseguir.
 
 		[MADELINE left sad]
+		O que faz de mim tão especial?
 		What makes me so special?
 
 		[GRANNY right normal]
-		I've never met someone so angry at themself.
+		Nunca conheci ninguém tão zangada com ela própria.
 
 		{trigger 1 Start lauging}
 
 		[GRANNY right laugh]
-		Honestly, I thought you'd reach{n}the summit just to spite yourself.
+		Sinceramente, pensava que ias chegar ao cume{n}só para o esfregares na tua própria cara.
 
 		[MADELINE left upset]
-		Gee, thanks.
+		Sim, obrigadinha.
 
 		{trigger 2 Stop laughing}
 
 		[GRANNY right normal]
-		This girl you're talking about,{n}it sounds like she's holding you back.
-		Talk to her.
-		Figure out why she's so scared.
-		
+		Esta rapariga de que falas,{n}parece que ela não te deixa continuar.
+		Fala com ela.
+		Tenta perceber porque é que está com tanto medo.
+
 		[MADELINE left sad]
-		You think she's... scared?
+		Acha que ela está... com medo?
 
 		[MADELINE left distracted]
-		I guess I never thought of it that way.
+		Acho que nunca pensei nisso dessa forma.
 		
 		[GRANNY right normal]
-		Stop wasting both of our time and {~}ask her.{/~}
-		What have you got to lose?
+		Para de desperdiçar o nosso tempo e {~}pergunta-lhe.{/~}
+		O que é que tens a perder?
 
 	CH6_OLDLADY_B=
 		[MADELINE left sad]
-		I don't know how to find her...
+		Não sei como a encontrar...
 
 		[GRANNY right normal]
-		She's {+PART_OF_YOU}, right?
-		If you look for her, she won't take long to find.
+		Ela é {+PART_OF_YOU}, não é?
+		Se procurares por ela, ela não tarda a aparecer.
 
 		[MADELINE left upset]
-		...so you know about the {+MOUNTAIN}'s power.
+		...então já sabe acerca do poder da {+MOUNTAIN}.
 
 		[GRANNY right normal]
-		Of course I know, I live here.
-		I tried to warn you.
+		Claro que sei, eu vivo aqui.
+		Tentei avisar-te.
 
 		[MADELINE left upset]
-		You need to work on your messaging.
+		A senhora tem de melhorar a sua forma de passar uma mensagem.
 
 		[GRANNY right normal]
-		A glimpse at the truth is good for people.
-		Even if most can't accept what they see.
-		There's no shame in running back{n}to your car and driving away.
-		Some day you'll be ready,{n}then you'll come back.
+		Um vislumbre da verdade faz bem às pessoas.
+		Mesmo que muitas não consigam aceitar o que vêem.
+		Não há vergonha nenhuma em correres de{n}volta para o teu carro e ires embora.
+		Um dia irás estar pronta,{n}e depois disso irás voltar.
 
 		[MADELINE left distracted]
 		...
-		No.
+		Não.
 
 		[MADELINE left sad]
-		I'm going to see this through.
-		No more running.
+		Eu vou com isto até ao fim.
+		Chega de fugir.
 
 		[GRANNY right normal]
-		I thought so.
-		Good luck.
+		Bem me pareceu.
+		Boa sorte.
 
 	CH6_OLDLADY_C=
 		[MADELINE left sad]
-		How can you stand living here?
-		Isn't it hard to deal with this all the time?
+		Como é que aguenta viver aqui?
+		Não lhe custa lidar com isto o tempo todo?
 
 		[GRANNY right normal]
-		It's true, you never really get used to it.
-		But it keeps me sharp.
-		I like that about it.
+		É verdade, nunca te chegas a habituar.
+		Mas isso mantém-me esperta.
+		Gosto disso.
 
 		[MADELINE left sad]
-		But the {+MOUNTAIN} is so... confrontational.
+		Mas a {+MOUNTAIN} é tão... agressiva.
 
 		[GRANNY right normal]
-		Sure, it doesn't beat around the bush.
-		{+CELESTE_MOUNTAIN} is a place of healing, dear.
-		The first step of healing{n}is confronting the problem.
-		It's never easy.
+		Claro, ela não fala por meias palavras.
+		A {+CELESTE_MOUNTAIN} é um lugar de cura, querida.
+		O primeiro passo para a cura{n}é enfrentar o problema.
+		Nunca é fácil.
 
 		[MADELINE left upset]
-		Tell me about it.
+		Nem me diga nada.
 
 	CH6_BOSS_START=
 		[BADELINE right angry flip]
-		Looking for me?
-		I thought you were done with me.
+		Andas à minha procura?
+		Pensava que estavas farta de mim.
 
 		[MADELINE left sad]
-		That was a mistake.
-		I'm sorry.
+		Foi um erro.
+		Desculpa.
 
 		[BADELINE right scoff flip]
-		You think you've got it {~}all figured out.{/~}
+		Pensas que já {~}descobriste tudo.{/~}
 
 		[BADELINE right angry flip]
-		You think you don't need me.
+		Achas que não precisas de mim.
 		
 		[MADELINE left upset]
-		I said I'm sorry.
+		Eu já te pedi desculpa.
 
 		[MADELINE left sad]
-		We need to move past this.
+		Precisamos de seguir em frente.
 
 		{trigger 0 Badeline floats, zooms in}
 
 		[BADELINE right yell]
-		You expect me to trust you?
+		Estás à espera que eu confie em ti?
 
 		[MADELINE left angry]
-		You aren't innocent here either.
+		Tu também não és inocente aqui.
 		...
 
 		[MADELINE left determinedclosed]
-		But I know you're scared.
+		Mas sei que tens medo.
 		
 		{trigger 1 Maddy steps forward}
 		
 		[MADELINE left sad]
-		Look, we're at rock bottom.
-		There's no point in fighting.
+		Olha, batemos no fundo.
+		Lutar não serve de nada.
 
 		[BADELINE right scoff]
-		I can keep digging.
+		Posso continuar a escavar.
 
 		[BADELINE right angry]
-		I could pull us down to the center of the earth.
+		Podia puxar-nos as duas até ao centro da terra.
 
 		[MADELINE left sad]
-		What would be the point?
+		Mas para quê?
 
 		[MADELINE left together]
-		{s 4}Let's climb out of here {.6}[MADELINE left togetherZoom]together.
+		{s 4}Vamos sair para fora daqui {.6}[MADELINE left togetherZoom]juntas.
 		
 		[BADELINE right yell]
-		Come close to me and I'll make you regret it.
+		Chega-te ao pé de mim e faço com que te arrependas.
 
 	CH6_BOSS_TIRED_A=
 		[BADELINE right angry]
-		I did you a favor.
+		Fiz-te um favor.
 
 	CH6_BOSS_TIRED_B=
 		[BADELINE right yell]
-		You aren't a {*}mountain climber.{/*}
+		Tu não és uma {*}alpinista.{/*}
 
 	CH6_BOSS_TIRED_C=
 		[BADELINE right yell]
-		{*}I'm just trying to help you!{/*}
+		{*}Só estou a tentar ajudar-te!{/*}
 
 	CH6_BOSS_MIDDLE=
 		[BADELINE right yell]
-		None of this would have {*}happened{/*}{n}if you had {*}listened to me!{/*}
+		Nada disto teria {*}acontecido{/*}{n}se me {*tivesses dado ouvidos!{/*}
 
 	CH6_BOSS_ENDING=
 		[BADELINE right sigh flip]
-		Fine.
-		You win.
+		Está bem.
+		Ganhaste.
 
 		{silent_trigger 0 Music starts}
 
 		[BADELINE right worried flip]
-		I guess you don't need me after all.
+		Acho que afinal não precisas de mim.
 
 		[BADELINE right worriedAlt flip]
-		If you want me to go away, I'll try.
+		Se queres que desapareça, eu posso tentar.
 		
 		[MADELINE left distracted]
-		That's not what I want.
-		I need your help now more than ever.
+		Não é isso que eu quero.
+		Preciso da tua ajuda agora mais do que nunca.
 
 		[MADELINE left sad]
-		Please. Let's work together.
+		Por favor. Vamos trabalhar juntas.
 
 		[BADELINE right worried flip]
-		Work together?
+		Trabalhar juntas?
 
 		[BADELINE right worriedAlt flip]
-		You're joking, right?
+		Estás a gozar, certo?
 
 		{trigger 1 Madeline puts hand on Badeline}
 
 		[MADELINE left sad]
-		It's okay to be scared.
+		Não faz mal ter medo.
 
 		{trigger 2 Badeline calms down}
 
@@ -3719,28 +3719,28 @@
 
 	CH6_ENDING=
 		[MADELINE left surprised]
-		How did we do that?
+		Como é que fizemos aquilo?
 
 		[MADELINE left normal]
-		If we can climb like that, maybe{n}we can still reach the summit!
+		Se conseguirmos escalar assim, se calhar{n}ainda conseguimos chegar ao cume!
 		
 		[BADELINE right worriedAlt]
-		You still want to climb the {+MOUNTAIN}?
+		Ainda queres mesmo escalar a {+MOUNTAIN}?
 
 		[BADELINE right worried]
-		Why would we go back up there?
+		Porque haveríamos de voltar lá acima?
 
 		{trigger 0 Old Lady enters right}
 
 		[GRANNY right normal]
-		It's good to see you two playing nice.
+		É bom ver-vos a duas a fazer as pazes.
 
 		[MADELINE left sad]
-		Hey, thanks for talking some sense into me earlier.
+		Ei, obrigada por me meter a cabeça no lugar.
 
 		[GRANNY right normal]
-		Don't mention it.
-		I'm glad I can still be useful every now and then.
+		Não tens de quê.
+		Fico feliz por ainda poder ser útil de vez em quando.
 
 		{portrait none}
 		{*}{+MADELINE}!!!{/*}
@@ -3748,90 +3748,90 @@
 		{trigger 1 Theo enters left}
 		
 		[THEO left worried]
-		{+MADELINE}! You're okay!
+		{+MADELINE}! Estás viva!
 
 		[THEO left wtf]
-		I ran down to help, but it looks like you're doing fine.
+		Corri por aí abaixo para te ajudar,{n}mas vejo que está tudo bem contigo.
 		
 		[MADELINE right normal]
-		Thanks, {+THEO}.
+		Obrigada, {+THEO}.
 
 		[MADELINE right distracted]
-		Honestly, maybe that fall was what I needed.
-		
+		Sinceramente, acho que esta queda era o que eu precisava.
+
 		{trigger 8 theo stops being tired}
 		[THEO left wtf]
-		Is this the {+PART_OF_YOU} that you were talking about?
+		É esta a {+PART_OF_YOU} de que estavas a falar?
 
 		[THEO left excited]
-		She's like an adorable goth {+MADELINE}!
+		Ela é tipo uma {+MADELINE} gótica gira!
 
 		[BADELINE right angry]
-		Hi.
+		Olá.
 
 		[MADELINE right sad]
-		You were right, {+THEO}.
-		I shouldn't be afraid of her.
+		Tinhas razão, {+THEO}.
+		Eu não devia ter medo dela.
 
 		[MADELINE right normal]
-		If her and I work together,{n}I think we can still finish the climb.
+		Se ela e eu trabalharmos juntas,{n}acho que conseguimos acabar a escalada.
 
 		[THEO left excited]
-		That's so rad!
+		Isso é altamente!
 
 		[BADELINE right angry]
-		Wait, {0.4}{*}no{/*}.
+		Espera, {0.4}{*}não{/*}.
 
 		[BADELINE right worried]
-		...I didn't agree to this.
+		...Eu não concordei com isto.
 
 		{trigger 2 Madeline turns to the right}
 
 		[BADELINE right worriedAlt]
-		You said we'd talk about things first.
+		Disseste que íamos conversar primeiro.
 
 		[MADELINE left sad]
-		You're right.
-		I understand that you're scared.
+		Tens razão.
+		Eu percebo que estejas com medo.
 		
 		[MADELINE left distracted]
-		But we both know that this is something we want to do.
+		Mas ambas sabemos que isto é algo que queremos fazer.
 
 		[MADELINE left normal]
-		We have to try one last time.
+		Temos de tentar uma última vez.
 
 		{trigger 7 Theo raises fist}
 
 		[THEO left yolo]
-		Yeah! You've got this!
+		Boa! É assim mesmo!
 		
 		[BADELINE right worried]
-		I don't know...
+		Não sei, não...
 
 		[BADELINE right worriedAlt]
-		We were so close, and then we, uh, fell...
+		Estávamos tão perto, e depois, ah, caímos...
 
 		[BADELINE right worried]
-		The {+MOUNTAIN} tore us apart.
+		A {+MOUNTAIN} separou-nos.
 
 		[MADELINE left upset]
-		Yeah, that happened.
+		Pois, isso aconteceu.
 
 		[MADELINE left sad]
-		But I have to believe we can put that behind us.
-		I have to believe we're capable of this.
+		Mas tenho de acreditar que conseguimos pôr isso de parte.
+		Tenho de acreditar que somos capazes.
 
 		{trigger 5 Wait a bit}
 
 		[GRANNY right normal]
-		It's not a bad idea.
+		Não é uma má ideia.
 
 		{trigger 3 badeline turns right}
 
 		[GRANNY right normal]
-		It'll still be difficult, mind you.
-		But I'm amazed you got as far as{n}you did, butting heads like you were.
-		I reckon you can make it if you cooperate.
+		Aviso-te que vai ser difícil na mesma.
+		Mas fico admirada que chegaram tão longe como chegaram,{n}da maneira que andavam às turras.
+		Creio que vocês conseguem se cooperarem.
 
 		[BADELINE right worried flip]
 		...
@@ -3839,29 +3839,29 @@
 		{trigger 4 badeline turns left}
 
 		[BADELINE right worriedAlt]
-		Okay. 
+		Certo.
 
 		[BADELINE right worried]
-		I'll try.
+		Vou tentar.
 
 		{trigger 5 Wait a bit}
 
 		[THEO left normal]
-		Can I help?
+		Posso ajudar nalguma coisa?
 
 		{trigger 6 Madeline turns to the left}
 
 		[MADELINE right distracted]
-		You've already done so much for me.
+		Já fizeste tanto por mim.
 
 		[THEO left wtf]
-		Let me hold your bag at least.
+		Deixa-me segurar a tua mala pelo menos.
 
 		[MADELINE right normal]
-		Good idea.
+		Boa ideia.
 
 		[MADELINE right determined]
-		{>> 0.2}This won't take long.{>>}
+		{>> 0.2}Isto não demora nada.{>>}
 
 # *** Chapter 07 ***
 
