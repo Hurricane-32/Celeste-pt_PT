@@ -2,7 +2,7 @@
 
 [celeste-game]: https://www.celestegame.com/ "Official Celeste website"
 
-![](https://github.com/Hurricane-32/Celeste-pt_PT/blob/main/Content/Icons/portugal-portuguese.png)
+![](https://github.com/Hurricane-32/Celeste-pt_PT/blob/main/Content/Dialog/Icons/portugal-portuguese.png)
 
 Um projeto de tradução do jogo [Celeste][celeste-game] para Português de Portugal.
 
