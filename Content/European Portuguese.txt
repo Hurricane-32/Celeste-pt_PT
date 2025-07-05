@@ -2206,7 +2206,7 @@
 		{+MADELINE}! Ei!
 		
 		[THEO_MIRROR right wtf]
-		...ah, porque é que estás dentro de um espelho?
+		...Ah, porque é que estás dentro de um espelho?
 		
 		[MADELINE left sad]
 		Tenho a certeza que tú é que estás dentro do espelho.
@@ -2277,10 +2277,10 @@
 		Olha-te ao espelho, tudo isto é teu.
 
 		[BADELINE right angry]
-		Este templo apenas amplia o poder da {+montanha}.
+		Este templo apenas amplia o poder da {+mountain}.
 
 		[BADELINE right upset]
-		És tu em controlo aqui, não sou eu.
+		És tu que estás em controlo aqui, não sou eu.
 
 	CH5_SHADOW_MADDY_2=
 		[MADELINE left sad]
@@ -2290,10 +2290,10 @@
 		Se és {+PART_OF_ME}, porque é que me queres magoar?
 
 		[BADELINE right angry]
-		Pobre {+MADELINE}, {~}sempre a fazer de vítima{/~}.
+		Pobre {+MADELINE}, {~}sempre a fazer-se de vítima{/~}.
 
 		[BADELINE right yell]
-		Tudo o que eu faço é cuidar de ti, e tu odeias-me por isso.
+		Tudo o que eu faço é cuidar de ti,{n}e tu odeias-me por isso.
 
 		[BADELINE right angry]
 		A verdade está a vir ao de cima e tu sabes disso.
@@ -2336,12 +2336,12 @@
 		{trigger 0 Badeline Leaves}
 
 		[MADELINE left angry]
-		{*}Mão preciso da tua ajuda.{/*}
+		{*}Não preciso da tua ajuda.{/*}
 		Faço isto sozinha.
 
 	CH5_REFLECTION=
 		[MADELINE right sad]
-		Se isto está tudo na minha cabeça, porque é que é tão hostil?
+		Se isto está tudo na minha cabeça,{n}porque é que é tão hostil?
 		
 		[MADELINE right distracted]
 		Aquelas {*}coisas{/*} estão a caçar-me.
@@ -2397,7 +2397,6 @@
 		[MADELINE left upset]
 		Eu tentei impedir-te.
 		Espero que a selfie tenha valido a pena.
-		I tried to stop you.
 
 		[THEO right yolo]
 		As selfies valem sempre a pena, meu.
@@ -2418,7 +2417,6 @@
 
 		[THEO right thinking]
 		Ei, estamos metidos nisto juntos.
-		Hey, we're in this together.
 
 		[THEO right wtf]
 		Não ajas como se isto fosse tudo culpa tua.
@@ -2430,7 +2428,7 @@
 
 		[THEO right wtf]
 		Não me prendeste dentro deste cristal.
-		Claro, estes monstros vêm de ti, mas o{n}templo também se está basear em mim para se formar..
+		Claro, estes monstros vêm de ti, mas o{n}templo também se está basear em mim para se formar...
 
 		[THEO right worried]
 		Consigo {*}senti-lo{/*}.
@@ -2529,13 +2527,13 @@
 		Sim, mas como é que o partimos?
 
 		[THEO right serious]
-		Se eu soubesse o {~}porquê{n} de me ter preso a mim{n}nesta coisa, talvez conseguisse arranjar maneira de sair.
+		Se eu soubesse o {~}porquê{/~} de me ter preso a mim nesta coisa, talvez conseguisse arranjar maneira de sair.
 
 		[THEO right wtf]
 		Mas não sei.
 
 		[THEO right thinking]
-		E acho que não vou conseguir chegar ao fundo desta questão{n}enquanto estivermos presos nesta dimensão infernal.
+		E acho que não vou conseguir chegar ao fundo desta questão enquanto estivermos presos nesta dimensão infernal.
 		
 		[THEO right serious]
 		Detesto ter de o dizer, mas acho que vais ter de-
@@ -2552,7 +2550,6 @@
 		
 		[MADELINE left sad]
 		Ah.
-		Oh.
 		
 		[MADELINE left normal]
 		Sim, consigo fazê-lo.
@@ -2699,7 +2696,7 @@
 		Penso que ela foi a razão do teleférico ter encravado.
 
 		[MADELINE right sad]
-		E ela estava lá, to templo.
+		E ela estava lá, no templo.
 
 		[THEO left worried]
 		...
@@ -2720,7 +2717,7 @@
 		Eu nem acreditei em mim própria.
 
 		[THEO left wtf]
-		Está be, está bem.
+		Está bem, está bem.
 		Já percebi.
 
 		[THEO left thinking]
@@ -2866,7 +2863,7 @@
 		Não consigo parar de pensar em{n}coisas que não interessam para nada.
 
 		[MADELINE right sad]
-		O meu cérebro só pensa em certas {.4}{>> .3}{*}porcarias/*}{>>}{.4} estúpidas{{n}que já aconteceram há séculos.
+		O meu cérebro só pensa em certas {.4}{>> .3}{*}porcarias{/*}{>>}{.4} estúpidas{{n}que já aconteceram há séculos.
 
 		[MADELINE right angry]
 		Já devia ter {*}passado à frente.{/*}
@@ -2968,7 +2965,7 @@
 		Estou a flutuar neste abismo,{n}a nadar numa direção ao acaso.
 
 		[MADELINE right sad]
-		À espera de encontrar {*}algo.{}/*}
+		À espera de encontrar {*}algo.{/*}
 
 		[MADELINE right distracted]
 		É por isso mesmo que estou aqui.
@@ -3078,7 +3075,7 @@
 		Em vez disso porque não fazer algo relaxante?
 
 		[THEO left wtf]
-		Ir ao Havai, ou sei lá, {0.3tomar um banho.
+		Ir ao Havai, ou sei lá, {0.3}tomar um banho.
 
 		[MADELINE right sad]
 		...
@@ -3523,7 +3520,6 @@
 
 		[MADELINE left sad]
 		O que faz de mim tão especial?
-		What makes me so special?
 
 		[GRANNY right normal]
 		Nunca conheci ninguém tão zangada com ela própria.
@@ -3647,7 +3643,7 @@
 		{trigger 1 Maddy steps forward}
 		
 		[MADELINE left sad]
-		Olha, batemos no fundo.
+		Olha, já batemos no fundo.
 		Lutar não serve de nada.
 
 		[BADELINE right scoff]
