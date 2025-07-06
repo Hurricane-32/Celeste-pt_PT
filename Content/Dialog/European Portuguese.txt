@@ -3859,7 +3859,7 @@
 		Boa ideia.
 
 		[MADELINE right determined]
-		{>> 0.2}Isto não demora nada.{>>}
+		{>> 0.2}Isto não var demorar nada.{>>}
 
 # *** Chapter 07 ***
 
@@ -3874,507 +3874,506 @@
 	# Mountain Base -> Forsaken City
 	CH7_ASCEND_0=
 		[MADELINE left normal]
-		We're getting the hang of that.
+		Estamos a apanhar-lhe o jeito.
 
 		[BADELINE right upset]
-		If you say so...
+		Se dizes que sim...
 
 		[MADELINE left determined]
-		This mountain doesn't stand a chance.
+		Esta montanha nem tem hipótese.
 
 		[BADELINE right worried]
-		Stop jinxing it.
+		Não estragues tudo.
 
 	# Forsaken City -> Old Site
 	CH7_ASCEND_1=
 		[MADELINE left normal]
-		How are you feeling?
+		Como é que te sentes?
 
 		[BADELINE right upset]
-		I'm fine.
+		Estou bem.
 
 		[BADELINE right worried]
-		I'm just {0.4}waiting for something to go wrong.
+		Só estou {0.4}à espera que algo de errado aconteça.
 
 		[MADELINE left sad]
-		No matter what happens,{n}I'll be right there with you.
+		Aconteça o que acontecer,{n}vou estar sempre contigo.
 
 		[BADELINE right worried]
-		You know what's really scary?
+		Sabes o que realmente me assusta?
 		
 		[BADELINE right upset]
-		I'm starting to believe you.
+		Estou a começar a acreditar em ti.
 
 	# Old Site -> Celestial Resort
 	CH7_ASCEND_2=
 		[BADELINE right normal]
-		Nice job back there.
+		Bom trabalho lá atrás.
 
 		[MADELINE left surprised]
-		Look at you!
+		Olha só para ti!
 
 		[MADELINE left normal]
-		{+ST_BAD}Ms\. Positivity{+END_BAD} over here.
+		Temos aqui a {+ST_BAD}Miss Positividade{+END_BAD}.
 
 		[MADELINE left determined]
-		You're so supportive.
+		És tão encorajadora.
 
 		[BADELINE right angry]
-		Don't push your luck.
+		Não abuses da sorte.
 		
 	# Celestial Resort -> Cliffside
 	CH7_ASCEND_3=
 		[MADELINE left distracted]
-		I hope {+MROSHIRO} is okay.
+		Espero que o {+MROSHIRO} esteja bem.
 
 		[BADELINE right angry]
-		Why? He treated you like garbage.
+		Porquê? Ele tratou-te abaixo de cão.
 
 		[MADELINE left sad]
-		Yeah, but I still care about him.
+		Sim, mas ainda me preocupo com ele.
 		
 		[MADELINE left upset]
-		And you didn't have to snap at him like you did.
+		E não devias ter dado cabo da cabeça dele daquela maneira.
 
 		[BADELINE right angry]
-		Whatever.
+		Como queiras.
 
 		[MADELINE left sad]
-		I mean it. You're way too aggressive.
+		Estou a falar a sério. És demasiado agressiva.
 
 		[BADELINE right angry]
-		Well {~}you{/~} put too much energy into bad{n}people who will just end up hurting you.
+		E {~}tu{/~} gastas demasiada energia com{n}pessoas más que só acabam por te magoar.
 
 		[MADELINE left distracted]
-		{+MROSHIRO} isn't a bad person...
+		O {+MROSHIRO} não é má pessoa.
 
 		[BADELINE right yell]
-		He transformed into a {*}monster!{/*}
-		He tried to {*}hurt{/*} you!
+		Ele transformou-se num {*}monstro!{/*}
+		Ele tentou {*}magoar-te!{/*}
 
 		[BADELINE right worriedAlt]
-		And now you're defending him?
+		E agora estás a defendê-lo?
 
 		[MADELINE left distracted]
-		I'm not defending him...
+		Não o estou a defender...
 
 		[MADELINE left sad]
-		I'm on your side here.{n}I'm mad at him too.
-		I might still be in that hotel{n}if you hadn't forced the issue.
+		Somos da mesma opinião.{n}Também tou zangada com ele.
+		Se calhar ainda estava naquele hotel{n}se não tivesses forçado o problema.
 
 		[MADELINE left distracted]
-		...but I still hope he's alright.
+		...mas ainda espero que ele esteja bem.
 
 		[BADELINE right worried]
 		...
 
 		[BADELINE right worriedAlt]
-		Okay...
-		...I'm sorry...
+		Está bem...
+		...peço desculpa...
 
 		[BADELINE right worried]
-		...for snapping at {+MROSHIRO}.
+		...por atacar o {+MROSHIRO}.
 
 		[MADELINE left distracted]
-		Thanks. 
+		Obrigada.
 		
 		[MADELINE left sad]
-		It's in the past now.
+		Isso agora é passado.
 		
 	# Cliffside -> Temple
 	CH7_ASCEND_4=
 		[MADELINE left surprised]
-		That was a close one.
+		Esta foi por pouco.
 
 		[BADELINE right worried]
-		Yeah, I wasn't sure if we'd make it.
+		Sim, pensava que não íamos conseguir.
 
 		[MADELINE left distracted]
-		Maybe you were right.
+		Se calhar tinhas razão.
 
 		[MADELINE left sad]
-		Maybe this {~}is{/~} too dangerous.
+		Talvez isto {~}até seja{/~} demasiado perigoso.
 
 		[BADELINE right worried]
 		...
 
 		[BADELINE right angry]
-		{*}No.{/*}
-		I was wrong.
-		We can climb this {+MOUNTAIN}.
+		{*}Não.{/*}
+		Eu estava errada.
+		Nós conseguimos escalar esta {+MOUNTAIN}.
 
 		[BADELINE right normal]
-		I've got your back...
+		Eu estou aqui para ti...
 
 		[BADELINE right worried]
-		...and...
+		...e...
 
 		[BADELINE right worriedAlt]
-		...I believe in you.
+		...eu acredito em ti.
 
 		[MADELINE left sad]
-		That means a lot to me.
+		Isso significa muito para mim.
 		
 	# Temple -> Summit
 	CH7_ASCEND_5=
 		[MADELINE left determined]
-		This is it, the home stretch.
+		Aqui está, a reta final.
 
 		[MADELINE left normal]
-		We're so close.{n}We're going to make it!
+		Estamos tão perto.{n}Vamos conseguir!
 
 		[BADELINE right worriedAlt]
-		Yeah...
+		Sim...
 
 		[BADELINE right worried]
 		...
 
 		[MADELINE left sad]
-		What's wrong?
+		O que se passa?
 
 		[BADELINE right worried]
-		...I'm just...
+		...É só que...
 		...
 
 		[BADELINE right worriedAlt]
-		...I'm sorry. 
-		I was holding you back.
+		...Desculpa.
+		Eu estava a atrasar-te.
 
 		[BADELINE right worried]
-		I need to learn to trust you.
+		Tenho de aprender a confiar em ti.
 
 		[MADELINE left distracted]
-		It's not your fault.
-		I tried to leave you behind.
-		And honestly, I've been trying to{n}leave you behind my entire life.
+		A culpa não é tua.
+		Eu tentei deixar-te para trás.
+		E para ser sincera, tenho estado a tentar{n}deixar-te para trás a minha vida inteira.
 
 		[MADELINE left sad]
-		{~}I'm{/~} sorry.
-		I wish I tried to understand you sooner.
-		I was too proud, or stubborn, or {*}something.{/*}
+		{~}Eu{/~} é que peço desculpa.
+		Quem me dera ter tentado perceber-te mais cedo.
+		Eu era demasiado orgulhosa, ou teimosa, ou {*}sei lá.{/*}
 
 		[BADELINE right worriedAlt]
-		We wasted so much time and energy.
+		Desperdiçámos tanto tempo e energia.
 
 		[BADELINE right worried]
 		...
 
 		[BADELINE right worriedAlt]
-		At least we're finally talking about it.
+		Pelo menos estamos finalmente a falar sobre isso.
 
 		[MADELINE left sad]
-		Yeah...
+		Sim...
 
 		[MADELINE left normal]
-		I'm glad the {+MOUNTAIN} brought you out.
-		I think we can move past this.
-		If we can climb this {+MOUNTAIN} together,{n}we can do anything.
+		Fico contente pela {+MOUNTAIN} te ter feito aparecer.
+		Acho que conseguimos ultrapassar isto.
+		Se somos capazes de escalar esta {+MOUNTAIN}{n}juntas, somos capazes de tudo.
 		
 		[BADELINE right worried]
-		What if we don't make it?
+		E se não conseguirmos?
 
 		[MADELINE left normal]
-		I'd be okay with that.
+		Eu podia viver com isso.
 
 		[BADELINE right worriedAlt]
-		You would?
+		Podias?
 
 		[MADELINE left sad]
-		Of course.
+		Claro.
 		
 		[MADELINE left normal]
-		I'm just glad we're trying.
+		Estou contente por estarmos a tentar.
 
 		[MADELINE left sad]
-		I really needed to do this.
+		Precisava mesmo de fazer isto.
 		
 		[BADELINE right upset]
-		I'm finally starting to understand why.
+		Estou finalmente a perceber porquê.
 
 		[BADELINE right normal]
-		Let's finish it.
+		Vamos acabar isto.
 
 	CH7_ENDING=
 		[BADELINE left normal]
-		We actually did it.
-		I can't believe it!
+		Nós conseguimos mesmo!
+		Não posso acreditar!
 
 		[MADELINE right surprised flip]
-		Wow! It's so beautiful!
+		Uau! É tão lindo!
 		
 		[MADELINE right normal flip]
-		Look at how far we've come!
+		Olha só o quão longe chegámos!
 
 		{trigger 1 Madeline sits down}
 
 		[BADELINE left normal]
-		I'm glad I got to see this before I...
+		Ainda bem que fui a tempo de ver isto antes de...
 
 		[BADELINE left worriedAlt]
-		Well, before I...
+		Bem, antes de eu...
 
 		[MADELINE right distracted flip]
-		Oh, right.
+		Ah, pois é.
 
 		[MADELINE right sad flip]
-		When we leave the {+MOUNTAIN}, you{n}won't be able to talk to me anymore...
-		At least not like this.
+		Quando formos embora da {+MOUNTAIN},{n}já não vais poder falar mais comigo...
+		Pelo menos não desta maneira.
 
 		[BADELINE left worried]
-		Yeah.
+		Sim.
 
 		[BADELINE left upset]
-		I know that we need to go home eventually.
-		But it'll be scary to lose this body.
+		Eu sei que eventualmente temos de ir para casa.
+		Mas vai ser assustador perder este corpo.
 
 		{trigger 2 Badeline moves beside Maddy as camera begins panning right}
 
 		[MADELINE left sad]
-		You'll still exist, though.
-		You were {+PART_OF_ME} before we came here.
+		Mas vais existir na mesma.
+		Já eras {+PART_OF_ME} antes de virmos para aqui.
 
 		[BADELINE left upset]
-		Yeah, I know.
-		But I'm gonna have to depend on you to listen to me.
+		Sim, em sei,
+		Mas vou mesmo precisar que me oiças.
 
 		[BADELINE left worried]
-		...even if I can't talk to you in person anymore.
+		...mesmo que já não consiga falar mais contigo pessoalmente.
 
 		[BADELINE left worriedAlt]
-		I just... can't go back to how it was before.
-		Before the {+MOUNTAIN}.
+		É só que... não consigo voltar a como as coisas eram antes.
+		Antes da {+MOUNTAIN}.
 
 		[MADELINE right sad flip]
-		Don't worry, I can't go back to that either.
-		I really want us to work together from now on.
+		Não te preocupes, também não{n}quero voltar ao que era.
+		Quero mesmo que daqui para{n}à frente possamos trabalhar juntas.
 
 		[BADELINE left upset]
-		I believe you.
+		Eu acredito em ti.
 
 		[BADELINE left worriedAlt]
-		...but I'm still nervous.
+		...mas ainda estou nervosa.
 
 		{trigger 0 Wait a bit}
 		
 		[BADELINE left upset]
-		So... now what?
+		Então... e agora?
 
 		[MADELINE right distracted flip]
 		...
 
 		[MADELINE right normal flip]
-		Let's just enjoy this for a bit.
+		Vamos desfrutar disto por um bocadinho.
 
 	CH7_BSIDE_ASCEND=
 		[BADELINE left freakA]
-		That was amazing!
+		Aquilo foi fantástico!
 
 		[MADELINE right surprised]
-		I can't believe we did that!
+		Não acredito que fizemos aquilo!
 
 		[BADELINE left freakA]
-		Nothing can stop us!
+		Nada nos pode parar!
 
 		[MADELINE right upset]
-		You're scaring me right now.
+		Agora estás-me a assustar.
 
 	CH7_CSIDE_OLDLADY=
 		[GRANNY right normal]
-		It's hard to believe that it's over, isn't it?
+		Até custa a acreditar que acabou, não é?
 
 		[GRANNY right laugh]
-		Funny how we get attached to the struggle.
+		É engraçado como nos habituamos a grandes esforços.
 
 		[GRANNY right normal]
-		Promise me that you'll take care of yourself, okay?
+		Promete-me que cuidas bem de ti, está bem?
 
 	CH7_CSIDE_OLDLADY_B=
 		[GRANNY right normal]
-		Well?
-		What are you waiting for?
+		Então?
+		Estás à espera do quê?
 
 # *** Epilogue ***
 
 	EP_CABIN=
 		[GRANNY right normal]
-		Welcome back.
+		Bem vinda de volta.
 
 		[THEO right excited]
 		{+MADELINE}!
-		Did you make it to the summit?
+		Conseguiste chegar ao cume?
 		
 		{trigger 0 Badeline emerges}
 
 		[MADELINE left normal]
-		Yeah, we did.
-		It was incredible.
+		Sim, conseguimos.
+		Foi incrível.
 
 		[GRANNY right normal]
-		Beautiful, isn't it?
+		É lindo, não é?
 
 		[BADELINE left upset]
-		I didn't think it would be worth it...
+		Nunca pensei que fosse valer a pena...
 
 		[BADELINE left normal]
-		But it totally was.
+		Mas valeu mesmo.
 
 		[THEO right thinking]
-		I should've given you my phone so{n}you could take {~}The Ultimate Selfie.{/~}
+		Devia ter-te dado o meu telemóvel para{n}poderes ter tirado {~}A Derradeira Selfie.{/~}
 
 		{trigger 1 Fade out, hear knock on door, fade in and Oshiro enters}
 
 		[OSHIRO left normal]
-		Good evening, everyone.
+		Boa tarde a todos.
 
 		[BADELINE right angry]
-		What are {~}you{/~} doing here?
+		O que é que {~}tu{/~} estás a fazer aqui?
 
 		[OSHIRO left normal]
-		A little bird told me there was to be a party.
+		Um passarinho disse-me que ia haver uma festa.
 
 		[OSHIRO left sidehappy]
-		{+thought}RSVP-by-bird, positively magical!{+endthought}
+		{+thought}RSVP por pássaro, positivamente mágico!{+endthought}
 
 		[OSHIRO left drama]
-		But if I am unwelcome, I shall take my leave.
+		Mas se não for aqui bem-vindo, posso-me ir embora.
 
 		[MADELINE right sad]
-		Please stay, {+MROSHIRO}.
+		Por favor fique, {+MROSHIRO}.
 
 		[MADELINE right normal]
-		It's good to see you.
+		É bom vê-lo.
 
 		{trigger 2 Oshiro settles in}
 
 		[GRANNY left normal]
-		Y'know, this is the first time I've seen{n}you outside that hotel of yours, {+OSHIRO}.
-		I'm glad you made it.
-		{+MADELINE} here is baking us a pie with all{n}of the strawberries she's been collecting.
+		Sabes, é a primeira vez que te vejo fora{n}desse teu hotel, {+OSHIRO}.
+		Ainda bem que pudeste vir.
+		A {+MADELINE} está aqui a fazer-nos uma tarte{n}com todos os morangos que ela tem apanhado.
 
 		[OSHIRO left normal]
-		Oh, that's wonderful, {+MS_MADELINE}.
+		Ah, isso é maravilhoso, {+MS_MADELINE}.
 
 		[THEO right normal]
-		I haven't had {# F94A4A}strawberry pie{#} since I was a kid.
+		Já não comia uma {# F94A4A}tarte de morango{#} desde que era puto.
 
 		[THEO right excited]
-		This is gonna be amazing!
+		Isto vai ser bestial!
 
 		[BADELINE right scoff]
-		Don't get your hopes up, she's not much of a baker.
+		É melhor não esperarem por muito,{n}ela não é boa pasteleira.
 
 		{trigger 3 Maddy Turns}
 
 		[MADELINE left normal]
-		You also said I wasn't a mountain climber.
+		Também disseste que não era alpinista.
 
 		[BADELINE right worried]
-		True.
+		Verdade.
 
 		{trigger 3 Maddy Turns}
 
 		[MADELINE right sad]
-		I can't promise it'll live up to the hype, {+THEO}.
+		Não posso prometer que vai estar à altura, {+THEO}.
 
 		[MADELINE right normal]
-		But I tried my best.
+		Mas tentei o meu melhor.
 
 	EP_PIE_START=
 		[MADELINE right normal]
-		So?
-		How's it taste?
+		Então?
+		Como é que está?
 
 	EP_PIE_DISAPPOINTED=
 		[THEO left wtf]
-		I guess this is technically a pie...
+		Bem, acho que tecnicamente é uma tarte...
 
 		[OSHIRO left worried]
-		Is this some kind of joke, {+MS_MADELINE}?
+		Isto é alguma espécie de piada, {+MS_MADELINE}?
 
 		[GRANNY left normal]
-		Strawberry pies are supposed to{n}have strawberries in them, dear.
+		Querida, é suposto uma tarte de{n}morango ter morangos lá dentro.
 
 	EP_PIE_GROSSED_OUT=
 		[THEO left wtf]
-		{+MADELINE}, I super appreciate you baking for us...
-		But I don't think I can eat this.
+		{+MADELINE}, agradeço mesmo de cozinhares para nós...
+		Mas acho que não consigo comer isto.
 
 		[GRANNY left normal]
-		It's the thought that counts.
+		A intenção é que conta.
 
 		[BADELINE left angry]
-		You people just can't appreciate good food.
-		I'll eat all of it myself.
+		Nenhum de vocês sabe apreciar comida boa.
+		Vou comer tudo sozinha.
 
 		[MADELINE right sad]
-		You don't have to do that.
+		Não precisas de fazer isso.
 
 		[BADELINE left worried]
-		Yeah... it was an empty threat.
+		Sim... era uma ameaça em vão.
 
 	EP_PIE_OKAY=
 		[OSHIRO left normal]
-		The important thing is that you{n}tried your best, {+MS_MADELINE}.
+		O que importa mesmo é que{n}tentou o seu melhor, {+MS_MADELINE}.
 
 		[BADELINE left angry]
-		Who invited this guy?
+		Quem convidou este gajo?
 
 		[THEO left thinking]
-		Come on, it's really good.
+		Vá lá, é mesmo boa.
 
 		[GRANNY left normal]
-		I've certainly had worse.
+		Não comi bem pior.
 
 		[THEO left normal]
-		Thanks for the pie, {+MADELINE}.
+		Obrigado pela tarte, {+MADELINE}.
 
 	EP_PIE_REALLY_GOOD=
 		[GRANNY left normal]
-		I'm impressed!
-		This gives my baking a run for its money.
+		Estou impressionada!
+		Isto faz os meus cozinhados parecerem uma brincadeira.
 
 		[BADELINE left normal]
-		Not bad.
+		Nada mau.
 
 		[THEO left excited]
-		Holy crap!
+		Mãe do céu!
 
 		[THEO left normal]
-		This is so tasty.
+		Isto é mesmo saboroso.
 
 		[OSHIRO left normal]
-		{+MS_MADELINE}, are you available to{n}cater our re-opening banquet?
+		{+MS_MADELINE}, estaria disponível para{n}preparar o nosso banquete de re-inauguração?
 		
 		[THEO left excited]
-		Can I take a slice home for {+ALEX}?
-		She'll die when she tastes this.
+		Posso levar uma fatia para casa para dar à {+ALEX}?
+		Ela vai morrer quando provar isto.
 		
 	EP_PIE_AMAZING=
 		[THEO left wtf]
-		{+MADELINE}.
 
 		[THEO left excited]
-		This is the best thing I've ever tasted!
+		Isto é a melhor coisa que alguma vez provei!
 
 		[MADELINE right sad]
-		Come on. Be honest.
+		Vá lá. Sejam sinceros.
 
 		[GRANNY left normal]
-		He's right, dear.
-		This is delicious.
+		Ele tem razão, querida.
+		Isto é delicioso.
 
 		[OSHIRO left normal]
-		It's truly magnificent, {+MS_MADELINE}.
+		É verdadeiramente magnífico, {+MS_MADELINE}.
 
 		[OSHIRO left worried]
-		{~}A symphony for the taste buds!{/~}
+		{~}Uma sinfonia para as papilas gustativas!{/~}
 
 		[BADELINE left scoff]
-		Can I take partial credit for this?
+		Posso ficar com uma parte dos louros?
 
 		[MADELINE right normal]
-		Wow, thanks everyone.
-		I worked really hard for it.
+		Uau, obrigada a todos.
+		Esforcei-me imenso por ela.
 		
 # *** Appendix ***
 
