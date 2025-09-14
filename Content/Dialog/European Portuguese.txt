@@ -5210,9 +5210,9 @@
 	WAVEDASH_DESKTOP_STARTBUTTON=	MorangOS
 
 	WAVEDASH_PAGE1_TITLE=			Wavedashing e Tu
-	WAVEDASH_PAGE1_SUBTITLE=		Uma solução prática para apanhar pássaros no espaço. A practical solution for catching birds in space
+	WAVEDASH_PAGE1_SUBTITLE=		Uma solução prática para apanhar pássaros no espaço.
 
-	WAVEDASH_PAGE2_TITLE=			Não|Consegues|Apanhar|Aquele|Pássaro? Can't|Catch|That|Bird?
+	WAVEDASH_PAGE2_TITLE=			Não|Consegues|Apanhar|Aquele|Pássaro?
 	WAVEDASH_PAGE2_LIST=
 		-Facto: Pássaros são difíceis de apanhar{n}
 		-Uau. É rápido!{n}
