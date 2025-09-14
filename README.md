@@ -31,7 +31,9 @@ A engine do Celeste deteta automaticamente novos ficheiros de linguagem e estes 
 - Capítulo 7: The Summit - ✅
 - Epilogue - ✅
 - Capítulo 8: Core - ✅
-- Capítulo 9: Farewell - ❌
+- Capítulo 9: Farewell - ✅
+
+A tradução está completa, no entanto ainda pode conter erros. Convido a quem queira corrigí-los (ou simplemente melhorar a tradução) que o faça através de um pull request.
 
 ## Screenshots
 
