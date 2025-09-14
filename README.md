@@ -30,7 +30,7 @@ A engine do Celeste deteta automaticamente novos ficheiros de linguagem e estes 
 - Capítulo 6: Reflection - ✅
 - Capítulo 7: The Summit - ✅
 - Epilogue - ✅
-- Capítulo 8: Core - ❌
+- Capítulo 8: Core - ✅
 - Capítulo 9: Farewell - ❌
 
 ## Screenshots
