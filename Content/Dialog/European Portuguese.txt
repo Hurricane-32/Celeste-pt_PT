@@ -5217,7 +5217,7 @@
 		-Facto: Pássaros são difíceis de apanhar{n}
 		-Uau. É rápido!{n}
 		-Ah, e também consegue voar.{n}
-		-E a {+PART_OF_YOU} não te quer ajudar{n}
+		-E a {+PART_OF_YOU} não te quer ajudar.{n}
 		-(ela não presta)
 
 	WAVEDASH_PAGE2_IMPOSSIBLE=		IMPOSSÍVEL???
