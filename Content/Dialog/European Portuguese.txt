@@ -638,7 +638,7 @@
 		Aposto que o governo está a esconder algo.
 
 		[MADELINE right distracted]
-		Que desperdício, construír isto tudo para nada...
+		Que desperdício, construir isto tudo para nada...
 
 		[THEO left normal]
 		Pelo menos podemos desfrutar daquilo que resta.
@@ -4536,300 +4536,300 @@
 		[MADELINE left sad]
 		{+GRANNY}...
 		[MADELINE left sadder]
-		I can't believe you're gone, you old bat.
+		Não posso acreditar que se foi, sua velhota.
 
 		[MADELINE left distracted]
-		Well,{0.2} I guess I can.
+		Bem,{0.2} eu acho que posso.
 
 		[MADELINE left sadder]
-		It sounded like you were saying goodbye{n}in the last letter you sent me.
+		Pareceu-me que se estava a despedir de mim{n}na ultima carta que me enviou.
 
 		{silent_trigger 0 Step Forward}
 		
 		[MADELINE left sadder]
-		This isn't fair. I need you.
+		Não é justo. Eu preciso de si.
 
 		[MADELINE left angry]
-		You didn't prepare me for any of this.
+		Não me preparou para nada disto.
 
 		{trigger 1 Badeline Appears}
 
 		[BADELINE left scoff]
-		What do you want her to do, apologize?
+		O que é que queres que ela faça, peça desculpa?
 
 		[BADELINE left upset]
-		She's gone.
+		Ela foi-se.
 
 		[BADELINE left angry]
-		And you didn't even go to the funeral.
+		E tu nem sequer foste ao funeral.
 
 		{trigger 2 Sit Down}
 
 		[MADELINE left distracted]
-		I know, I just... couldn't.
+		Eu sei, eu só... não fui capaz.
 
 		[MADELINE left sadder]
-		I fell apart.
+		Eu colapsei.
 
 		[MADELINE left sadder]
-		I'm so sorry, {+GRANNY}.
+		Desculpe, {+GRANNY}.
 
 		[BADELINE left angry]
-		{~}Sorry{/~} won't bring her back.
+		{~}Pedir desculpas{/~} não a vai trazer de volta.
 
 		[MADELINE left sadder]
-		You're right.
+		Tens razão
 
 		[MADELINE left sad]
-		It was selfish of me to come here.
+		Foi muito egoísta da minha parte vir aqui.
 
 	CH9_FLYING_TO_THE_MOON=
 		[BADELINE right concerned]
-		Where are we going, {+MADELINE}?
+		Onde é que vamos, {+MADELINE}?
 
 		[MADELINE left sad]
-		We have to follow that bird.
-		It's {+PART_OF_GRANNY}, just like you're {+PART_OF_ME}.
+		Temos de seguir aquele pássaro.
+		Ele é {+PART_OF_GRANNY}, tal como tu és {+PART_OF_ME}.
     
 		[BADELINE right worried]
-		I thought it was just her pet or something...
+		Eu pensei que era só um animal de estimação ou algo assim...
 
 		[MADELINE left distracted]
-		It {~}has{/~} to be more than that.
+		{~}Tem{/~} de ser mais do que isso.
 
 		[MADELINE left sad]
-		That bird was always looking out for me{n}on the {+MOUNTAIN}, just like {+GRANNY} did.
+		Aquele pássaro estava sempre a olhar por{n}mim na {+MOUNTAIN}, tal como fez a {+GRANNY}.
 
 		[BADELINE right concerned]
-		{+MADELINE}... I hate to say it, but...
+		{+MADELINE}... Destesto ter de o dizer mas...
 
 		[BADELINE right worriedAlt]
-		You're in denial.
+		Estás em negação.
 
 		[BADELINE right worried]
-		It's just a bird.
+		É só um pássaro.
     
 		[MADELINE left upset]
-		Just shut up and help me for once, okay?
+		Cala-te e ajuda-me por uma vez, pode ser?
 
 	CH9_LANDING=
 		[BADELINE left worried]
-		Uh... we're really high up.
+		Ah... estamos mesmo alto.
 
 		{trigger 0 Badeline turns}
 
 		[BADELINE left worriedAlt flip]
-		The mountain looks like a molehill from here.
+		A montanha mais parece um formigueiro vista daqui.
 
 		{trigger 0 Badeline turns}
 
 		[BADELINE left worried]
-		We should really turn back.
+		Devíamos mesmo voltar para trás.
 
 		[MADELINE right upset]
-		We don't have time to argue about this.
+		Não temos tempo para discutir sobre isto.
 
 		[BADELINE left concerned]
-		How are you even breathing up here?
+		Como é que estás sequer a respirar aqui em cima?
 
 		[MADELINE right sad]
-		{+GRANNY} wants us to follow her.
+		A {+GRANNY} quer que a sigamos.
 
 		[MADELINE right distracted]
-		We can't let her down again.
+		Não a podemos desiludir outra vez.
 
 		[BADELINE left angryAlt]
-		{~}...it's a bird,{/~} {+MADELINE}.
+		{~}...é um pássaro{/~}, {+MADELINE}.
 
 		[BADELINE left angry]
-		{+GRANNY} is gone.
+		A {+GRANNY} morreu.
 
 		[MADELINE right angry]
-		You {*}really{/*} think that's just a regular bird?
+		Tu pensas {*}mesmo{/*} que aquilo é só um pássaro normal?
 
 		[MADELINE right sad]
-		It's {+PART_OF_HER}, and it's still here somehow.
+		É {+PART_OF_HER}, e ainda está aqui não sei como.
 
 		[MADELINE right distracted]
-		Maybe there's a way to bring her back.
+		Talvez haja uma forma de a a trazer de volta.
 
 		[MADELINE right sad]
-		I have to do... something.
+		Tenho de fazer... alguma coisa.
 
 		[BADELINE left angryAlt]
 		...
-		I can't help you with this.
+		Não posso ajudar-te com isto.
 
 		[MADELINE right angry]
-		Then {*}leave!{/*}
+		Então {*}vai-te embora!{/*}
 
 		{trigger 1 Badeline Vanishes}
 
 		[MADELINE left determined]
-		Don't worry, {+GRANNY}.
-		I won't lose you.
+		Não se preocupe, {+GRANNY}.
+		Não a vou perder.
 
 	CH9_FAKE_HEART=
 		[MADELINE left distracted]
-		Wait, no...
+		Espera, não...
 
 		[MADELINE left sad]
-		This can't be the end.
+		Isto não pode ser o fim.
 
 	CH9_KEEP_GOING=
 		[MADELINE left sadder]
-		{+GRANNY} is still out there somewhere.
+		A {+GRANNY} ainda está algures por aí.
 
 		{trigger 0 Step Forward}
 
 		[MADELINE left determined]
-		Which means I need to keep going.
+		O que significa que tenho de continuar.
 
 	CH9_MISS_THE_BIRD=
 		[MADELINE left angry]
-		{~}Hey!{/~}
-		Don't you want me to help you?
+		{~}Ei!{/~}
+		Não queres que te ajude?
 
 		[MADELINE left sadder]
-		...don't you want to see me again, {+GRANNY}?
+		...não quer ver-me mais, {+GRANNY}?
 
 		{trigger 0 stand up, face left }
 
 		[MADELINE left sad flip]
-		I don't understand.
+		Eu não percebo.
 
 		[MADELINE left distracted flip]
-		Are you testing me?
-		Are you just afraid to ask for help?
+		Estás a testar-me?
+		Estás com medo de pedir ajuda?
 
 		[MADELINE left sadder flip]
-		Maybe {+PART_OF_ME} was right.{n}Maybe it {~}is{/~} just a bird.
+		Talvez a {+PART_OF_ME} tenha razão.{n}Se calhar é {~}mesmo{/~} só um pássaro.
 		...
 
 		{trigger 1 take a step left}
 
 		[MADELINE left sad flip]
-		Unless...
+		A não ser que...
 
 		{trigger 2 take a step right}
 
 		[MADELINE left surprised]
-		The bird doesn't want me to save {+GRANNY}.
+		O pássaro não quer que eu salve a {+GRANNY}.
 		
 		{trigger 3 black hole flickers }
 
 		[MADELINE left sadder]
-		It's trying to stop me, just like {+PART_OF_ME}.
-		I'm alone up here.
+		Está a tentar impedir-me, tal como a {+PART_OF_ME}.
+		Estou sozinha aqui em cima.
 
 		{trigger 4 black hole flickers more, tiles to crack into the sci-fi one}
 
 		[MADELINE left angry]
-		Well, we don't need their help, right {+GRANNY}?
+		Bem, não precisamos da ajuda deles, não é {+GRANNY}?
 
 		[MADELINE left together]
-		Don't worry, I won't give up on you!
-		I'll catch that stupid bird and set you free.
+		Não se preocupe, não vou desistir de si!
+		Vou apanhar aquele pássaro estúpido e libertá-la.
 
 	CH9_HELPING_HAND=
 		[MADELINE left upset]
-		I didn't ask for your help.
+		Eu não pedi a tua ajuda.
 		
 		[BADELINE right angryAlt]
-		I know, but come on {+MADELINE}...
-		Think this through.
+		Eu sei, mas vá lá {+MADELINE}...
+		Pensa bem nisto.
 
 		[BADELINE right angry]
-		What's your endgame here?
+		Qual é o teu objetivo?
     
 		{trigger 0 Madeline faces away}
 
 		[MADELINE left determined flip]
-		All that matters is finding {+GRANNY}.
-		Then maybe I can bring her home...
+		Tudo o que interessa é encontrar a {+GRANNY}.
+		E aí talvez consiga trazê-la para casa...
 
 		[MADELINE left sadder flip]
-		Even if the whole universe is against me.
+		Mesmo que o universo inteiro esteja contra mim.
 		
 		[BADELINE right worriedAlt]
 		...
 
 		[BADELINE right worried]
-		Aren't you worried about getting lost up here?
+		Não estás preocupada em te perderes cá em cima?
 
 		[MADELINE left angry flip]
-		I'll figure it out.
+		Eu aguento-me.
 
 		[BADELINE right worriedAlt]
 		...
 
 		[BADELINE right worried]
-		Look, {+MADELINE}...
+		Olha lá, {+MADELINE}...
 
 		[BADELINE right worriedAlt]
-		We're in {~}space{/~} chasing a {~}mysterious bird{/~}.
+		Estamos no {~}espaço{/~} a seguir um {~}pássaro misterioso{/~}.
 
 		[BADELINE right upset]
-		None of this is real.
+		Nada disto é real.
 
 		[BADELINE right concerned]
-		You're dreaming.
+		Estás a sonhar.
 
 		[MADELINE left sadder flip]
 		...
 
 		[BADELINE right concerned]
-		...she's gone.
+		...ela foi-se.
 
 		[BADELINE right upset]
-		It's time to wake up now.
+		Já está na hora de acordares.
 		
 		[MADELINE left sadder flip]
-		But if we wake up, we'll never see {+GRANNY} again...
+		Mas se acordarmos, nunca mais vamos ver a {+GRANNY} outra vez...
 
 		{trigger 1 Madeline faces towards badeline}
 		
 		[MADELINE left angry]
-		I can't believe you want her to disappear forever!
-		You're always so {*}selfish{/*}.    
+		Não acredito que queiras que ela desapareça para sempre!
+		És sempre tão {*}egoísta{/*}.
 
 		[BADELINE right angry]
 		...
 		
 		[BADELINE right angryAlt]
-		First of all, it's a {~}bird{/~}.
-		We don't {~}know{/~} that it's her.
+		Primeiro de tudo, é um {~}pássaro{/~}.
+		Nós não {~}sabemos{/~} que é ela.
 		
 		[BADELINE right yell]
-		And {*}second{/*} of all...
+		E {*}a seguir a isso{/*}...
 		...
 
 		[BADELINE right sigh]
-		...we need to take a step back here.
+		...precisamos de recuar.
 		
 		{trigger 2 Madeline steps towards badeline}
 
 		[MADELINE left angry]
-		No, {!}{*}you{/*}{/!} need to take a step back.
-		{*}I'm doing this.{/*}
+		Não {!}{*}tu{/*}{/!} é que precisas de recuar.
+		{*}Eu vou fazer isto.{/*}
 
 		[MADELINE left sad]
-		With or without you. 
-		I'm done letting you hold me back.
+		Com ou sem ti.
+		Estou farta que me impeças.
 
 		[MADELINE left sadder]
-		{+GRANNY} needs me.
+		A {+GRANNY} precisa de mim.
 		
 		[BADELINE right simple_sigh]
-		Okay.
-		Good luck.
+		Certo.
+		Boa sorte.
 		
 	CH9_CATCH_THE_BIRD=
 		[MADELINE left surprised]
-		Got you! Finally!
+		Apanhei-te! Finalmente!
 
 		[MADELINE left angry]
-		Now where's {+GRANNY}!?
+		Agora onde é que está a {+GRANNY}!?
 
 		{trigger 0 bird looks hurt}
 
@@ -4837,190 +4837,190 @@
 		...
 
 		[MADELINE left surprised]
-		Oh no. 
-		Are you okay?
+		Oh não.
+		Estás bem?
 
 		{trigger 1 bird squaks}
 		
 		[MADELINE left sad]
-		I'm sorry, I didn't mean to hurt you.
+		Desculpa, não te quis magoar.
 		
 		{trigger 2 approach bird, it moves away}
 		
 		[MADELINE left sad]
-		Wait! Please don't leave.
+		Espera! Por favor não vás embora.
 		
 		{trigger 3 bird flys out of the camera}
 		
 		[MADELINE left sadder]
-		At least tell me...
-		You're {+PART_OF_GRANNY}, right?
-		If you have to go, then...
+		Pelo menos diz-me...
+		És {+PART_OF_GRANNY}, não és?
+		Se tens mesmo de ir, então...
 
 		[MADELINE left sad]
-		Take me with you.
+		Leva-me contigo.
 		
 		{trigger 4 badeline appears}
     
 		[BADELINE right yell]
-		{+MADELINE}, stop!
+		{+MADELINE}, para!
 
 		[BADELINE right concerned]
-		You can't go with her.
+		Não podes ir com ela.
 		
 		[MADELINE left angry]
-		Shut up!
-		You couldn't force me to give up on the {+MOUNTAIN}.
-		And you can't force me to give up on {+GRANNY}.
+		Cala-te!
+		Não foste capaz de me forçar a desistir da {+MOUNTAIN}.
+		E não consegues forçar-me a desistir da {+GRANNY}.
 
 		[MADELINE left sadder]
-		{*}Go away.{/*}
+		{*}Vai-te embora.{/*}
 		
 		[BADELINE right concerned]
 		...
 
 		[BADELINE right worried]
-		I'm not forcing you.
+		Eu não te estou a forçar.
 
 		[BADELINE right concerned]
-		I'm asking you.
+		Estou-te a pedir.
 
 		{trigger 5 Wait a beat}
 
 		[BADELINE right worriedAlt]
-		I miss {+GRANNY} too.
-		She meant a lot to both of us.
+		Eu também tenho saudades da {+GRANNY}.
+		Ela foi muito importante para nós as duas.
 
 		[MADELINE left sad]
-		Then why is it so easy for you to leave her behind?
+		Então porque é que é tão fácil para ti deixá-la para trás?
 
 		[BADELINE right worriedAlt]
-		It's {~}not{/~} easy.
+		{~}Não é{/~} fácil.
 
 		[BADELINE right worried]
-		Maybe I pushed us to get over it too quickly...
+		Se calhar eu forcei-nos a superar isto rápido demais...
 
 		[BADELINE right concerned]
-		But this isn't healthy either.
-		I just want us to survive this.
+		Mas isto também não nos faz bem.
+		Só quero que nós sobrevivamos a isto.
 
 		{trigger 6 Madeline sits}
 		
 		[MADELINE left sadder flip]
 		...
-		I know she's gone.
-		And this is just a dream.
-		Catching this bird won't bring her back.
+		Eu sei que ela morreu.
+		E que isto é só um sonho.
+		Apanhar este pássaro não a vai trazer de volta.
 		
 		{trigger 7 badeline hugs madeline}
 		
 		[BADELINE left concerned]
-		I'm so sorry, {+MADELINE}.
+		Lamento imenso, {+MADELINE}.
 		
 		[BADELINE left concerned]
-		Let's wake up, and we'll face this together.
+		Vamos acordar, e enfrentar isto juntas.
 		
 		[MADELINE right sadder]
 		...
 
 		[MADELINE right distracted]
-		No.
+		Não.
 
 		[MADELINE right sad]
-		Not yet.
+		Ainda não.
 
 		{trigger 8 stand up}
 
 		[MADELINE right sad]
-		I want to set things right first.
+		Quero acertar as coisas primeiro.
     
 		[BADELINE left upset]
-		What do you mean?
+		O que queres dizer?
 		
 		[MADELINE right sad]
-		The bird, it's trapped here because of me.
+		O pássaro, está preso aqui por causa de mim.
 		
 		{trigger 9 shift camera over to the bird}
 		
 		[MADELINE right sad flip]
-		We need to help it escape before we leave.
-		{+GRANNY} wouldn't want it to be stuck like this.
+		Temos de o ajudar a escapar antes de irmos embora.
+		A {+GRANNY} não iria querer que ele ficasse preso assim.
 		
 		[BADELINE left concerned]
-		You're right. 
+		Tens razão.
 
 		[BADELINE left normal]
-		Let's do it.
+		Vamos lá.
 
 		[BADELINE left upset]
-		But as soon as we’re done,{n}we need to wake up.
+		As assim que acabarmos,{n}precisamos de acordar.
 
 		[BADELINE left worried]
-		This place is so {*}weird{/*}.{n}I want to go home.
+		Este lugar é tão {*}weird{/*}.{n}Quero ir para casa.
 
 	CH9_LAST_ROOM=
 		[BADELINE right normal]
-		This is it! We're almost out of here.
+		É agora! Estamos quase fora daqui.
 
 		[MADELINE left determined]
-		Let's do this, for {+GRANNY}.
+		Vamos lá fazer isto, pela {+GRANNY}.
 
 	CH9_LAST_ROOM_ALT=
 		[BADELINE right concerned]
-		Are you alright, {+MADELINE}?
+		Estás bem, {+MADELINE}?
 
 		[MADELINE left sad]
-		We're so close, but it feels impossible...
+		Estamos tão perto, mas parece impossível...
 
 		[BADELINE right upset]
-		Come on, just a few more tries.
+		Vá lá, só mais algumas tentativas.
 
 		[BADELINE right normal]
-		We can do this.
+		Nós conseguimos.
 
 	CH9_LAST_BOOST=
 		[BADELINE right normal]
-		Say goodbye to her for me.
+		Despede-te dela por mim.
 
 	CH9_FAREWELL=
 		[MADELINE left normal]
 		{+GRANNY}!
 
 		[GRANNY right normal]
-		Hey there, kiddo.
+		Olá, miúda.
 		
 		[MADELINE left normal]
-		It's so great to see you.
-		I didn't know what to do without you.
+		É mesmo tão bom vê-la.
+		Não sabia o que fazer sem você.
 
 		[MADELINE left sad]
 		...
-		But you aren't real...
+		Mas a senhora não é real...
 
 		[MADELINE left sadder]
-		This is just a dream.
+		Isto é só um sonho.
 		
 		[GRANNY right normal]
-		So what?
-		That didn't stop you from coming all this way.
-		You finally found me, and {~}now{/~}{n}you care that it's just a dream?
+		E então?
+		Isso não te impediu de fazeres este caminho todo.
+		Tu finalmente encontraste-me, e {~}agora{/~}{n}é que te preocupas se é um sonho?
 		
 		[GRANNY right mock]
-		Quit making excuses and{n}say what you need to say.
+		Para de inventar desculpas e{n}diz o que tens a dizer.
 		
 		[MADELINE left sad]
 		...
 
 		[MADELINE left distracted]
-		I'm sorry that I didn't come to your funeral.
+		Lamento não ter ido ao seu funeral.
 
 		[MADELINE left sadder]
-		I couldn't do it... I just shut down.
+		Eu não fui capaz... Eu simplesmente desliguei.
 		
 		{silent_trigger 0 laugh}
 
 		[GRANNY right laugh]
-		Heh, that sounds familiar.
+		Hah, onde é que já vi isso.
 		
 		[MADELINE left upset]
 		...
@@ -5028,214 +5028,214 @@
 		{silent_trigger 1 stop laughing}
 		
 		[GRANNY right normal]
-		Hey, what do I care who showed up to that thing?
+		Ei, o que é que me interessa de quem foi àquilo?
 
 		{silent_trigger 0 laugh}
 
 		[GRANNY right laugh]
-		I'm dead!
+		Estou morta!
 
 		{silent_trigger 1 stop laughing}
 
 		[GRANNY right mock]
-		Funerals are for all you suckers{n}stuck living without me.
+		Os funerais são para vocês idiotas{n}que têm de aguentar a viver sem mim.
 		
 		{trigger 2 take a step forward}
 
 		[MADELINE left normal]
-		Thank you for looking out for me on the {+MOUNTAIN}.
+		Obrigado por ter estado de olho em mim na {+MOUNTAIN}.
 
 		[MADELINE left distracted]
-		You helped me so much, and...
+		Ajudou-me mesmo muito e...
 
 		[MADELINE left sadder]
-		I really miss you.
+		Tenho tantas saudades suas.
 
 		{trigger 3 granny fades away}
 		
 		[MADELINE left sadder]
-		What am I supposed to do now?
-		Just keep going, like nothing happened?
+		O que é suposto eu fazer agora?
+		Continuar em frente, como se nada tivesse acontecido?
 
 		{silent_trigger 4 fade to white}
 
 		[MADELINE left panic]
-		Like you aren't... gone forever?
+		Como se não tivesse ido... embora para sempre?
 
 	CH9_END_CINEMATIC=
 		{anchor bottom}
 
 		[WEBCAM_THEO right excited]
-		There she is!
+		Aqui está ela!
 
 		[WEBCAM_THEO right normal]
-		Long time no see, {# F94A4A}Strawberry{#}.
+		Há tanto tempo que não te via, {# F94A4A}Moranguinha{#}.
 
 		[MADELINE left sad]
-		Hey {+THEO}.
+		Olá {+THEO}.
 		
 		[WEBCAM_THEO right normal]
-		It's been forever!
+		Passaram séculos!
 
 		[WEBCAM_THEO right thinking]
-		You went off the grid!{n}What happened to you?
+		Desapareceste do mapa!{n}O que é que te aconteceu?
 		
 		[MADELINE left sad]
-		Yeah, sorry for not responding to your messages...
+		Pois é, desculpa não ter respondido às tuas mensagens...
 
 		[MADELINE left distracted]
-		...or answering your calls...
+		...ou atendido as tuas chamadas...
 		...
-		...or replying to your emails.
+		...ou responder aos teus e-mails.
 
 		[MADELINE left sad]
-		I kind of had a breakdown when {+GRANNY} died.
+		Eu tive um colapso quando a {+GRANNY} morreu.
 
 		[MADELINE left distracted]
-		And then I felt weird messaging you.
-		I thought maybe you were{n}mad at me for disappearing.
+		E depois senti-me estranha em enviar-te mensagens.
+		Pensei que talvez estivesses zangado{n}comigo por eu ter desaparecido.
 
 		[MADELINE left sad]
-		It snowballed from there.
+		A partir daí foi sempre a descambar.
 		
 		[WEBCAM_THEO right thinking]
-		Yeah yeah, I know you.
+		Sim sim, eu conheço-te.
 
 		[WEBCAM_THEO right normal]
-		I figured the funeral might've{n}triggered your anxiety, NBD.
+		Eu logo percebi que o funeral ia{n}atacar a tua ansiedade, fica descansada.
 
 		[WEBCAM_THEO right thinking]
-		Next time, {~}at least{/~} just let me know you're still alive.
+		Para a próxima, {~}pelo menos{/~} diz-me que ainda estás viva.
 
 		[WEBCAM_THEO right normal]
-		You feeling any better?
+		Sentes-te melhor?
 		
 		[MADELINE left sad]
-		Yeah...
+		Pois...
 
 		[MADELINE left distracted]
-		I'm finally starting to come to terms with it.
+		Estou finalmente a começar a aceitar.
 
 		[MADELINE left sad]
-		When I first met {+GRANNY},{n}I thought she was crazy.
+		Da primeira vez que conheci a {+GRANNY},{n}pensei que ela era doida.
 
 		[MADELINE left distracted]
-		But then I got to know her...
+		Mas depois comecei a conhecê-la...
 
 		[MADELINE left upset]
-		...and I thought she was mean.
+		...e pensei que ela era antipática.
 
 		[MADELINE left sad]
-		But she knew what I needed to hear,{n}and she really helped me.
+		Mas ela sabia o que eu precisava de ouvir,{n} e ela ajudou-me imenso.
 
 		[MADELINE left sadder]
-		I miss her a lot.
+		Tenho tantas saudades dela.
 		
 		[WEBCAM_THEO right normal]
-		Yeah, me too.
+		Sim, eu também tenho.
 
 		[WEBCAM_THEO right thinking]
-		I honestly thought she'd live forever.
+		Eu sinceramente até pensei que fosse viver para sempre.
 
 		[WEBCAM_THEO right excited]
-		Oh! That reminds me!{n}I have to show you something.
+		Ah! Pois é, lembrei-me!{n}Tenho uma coisa para te mostrar.
 		
 		[MADELINE left normal]
-		Oh?
+		Hã?
 		
 		[WEBCAM_THEO right excited]
-		Remember how I told you my grandpa went{n}to {+CELESTE_MOUNTAIN} when he was younger?
+		Lembras-te quando te disse que o meu avô foi{n} à {+CELESTE_MOUNTAIN} quando era mais novo?
 
 		[WEBCAM_THEO right normal]
-		Well, I was going through{n}some of his old stuff with {+ALEX}...
-		And check out this photo I found.
+		Bem, estava a vasculhar algumas{n}das coisas velhas dele com a {+ALEX}...
+		E vê só esta foto que eu encontrei.
      
  		{trigger 0 Shows the photo of Theo's grandpa with Granny at Celeste Mountain.}
  		
  		[MADELINE left surprised]
-		Is that {+GRANNY}!? With your grandpa?
+ 		É a {+GRANNY}!? Com o teu avô?
 
 		[MADELINE left normal]
-		{+THEO}, that's amazing!
-		It looks like they were friends.
+		{+THEO}, isto é fantástico!
+		Parece que eram amigos.
 		
 		[WEBCAM_THEO right excited]
-		Just like us!
+		Tal como nós!
 
 		[WEBCAM_THEO right thinking]
-		It really sucks that they're gone.
+		É mesmo triste que eles já tenham ido.
 
 		[WEBCAM_THEO right normal]
-		But it's nice to know that we{n}shared the {+MOUNTAIN} with them.
+		Mas é bom saber que nós{n}partilhámos a {+MOUNTAIN} com eles.
 		
 		[MADELINE left normal]
-		Yeah...
+		Pois é...
 
 		[MADELINE left peaceful]
-		{>> 0.3}That {~}is{/~} nice.{>>}
+		{>> 0.3}Isso é {~}mesmo{/~} bom.{>>}
 
 # Crystal Hearts
 
-	POEM_FC=	Pointless machines
-	POEM_FCR=	Sever the skyline
+	POEM_FC=	Máquinas sem sentido
+	POEM_FCR=	Rasgam o céu
 
-	POEM_OS=	Resurrections
-	POEM_OSR=	Black moonrise
+	POEM_OS=	Ressurreições
+	POEM_OSR=	Lua negra
 
-	POEM_CR=	Scattered and lost
-	POEM_CRR=	Good karma
+	POEM_CR=	Espalhados e perdidos
+	POEM_CRR=	Carma bom
 
-	POEM_CS=	Eye of the storm
-	POEM_CSR=	Golden feather
+	POEM_CS=	Olho da tempestade
+	POEM_CSR=	Pena dourada
 
-	POEM_T=		Quiet and falling
-	POEM_TR=	Mirror magic
+	POEM_T=		Quieta e caindo
+	POEM_TR=	Magia do espelho
 
-	POEM_TF=	Heavy and frail
-	POEM_TFR=	Center of the earth
+	POEM_TF=	Pesada e frágil
+	POEM_TFR=	Centro da terra
 
-	POEM_TS=	Pink sunrise
-	POEM_TSR=	No more running
+	POEM_TS=	Aurora rosa
+	POEM_TSR=	Chega de fugir
 
-	POEM_MC=	Heart of the mountain
-	POEM_MCR=	Say goodbye
+	POEM_MC=	Coração da montanha
+	POEM_MCR=	Dizer adeus
 
-	POEM_FW=	Empty Space
+	POEM_FW=	Espaço vazio
 	
 # Wavedash Tutorial
 	
-	WAVEDASH_DESKTOP_MYPC=			My Mountain
+	WAVEDASH_DESKTOP_MYPC=			A Minha Montanha
 	WAVEDASH_DESKTOP_POWERPOINT=	wavedash.ppt
-	WAVEDASH_DESKTOP_RECYCLEBIN=	Recycle Bin
-	WAVEDASH_DESKTOP_STARTBUTTON=	BerryOS
+	WAVEDASH_DESKTOP_RECYCLEBIN=	Reciclagem
+	WAVEDASH_DESKTOP_STARTBUTTON=	MorangOS
 
-	WAVEDASH_PAGE1_TITLE=			Wavedashing and You
-	WAVEDASH_PAGE1_SUBTITLE=		A practical solution for catching birds in space
+	WAVEDASH_PAGE1_TITLE=			Wavedashing e Tu
+	WAVEDASH_PAGE1_SUBTITLE=		Uma solução prática para apanhar pássaros no espaço. A practical solution for catching birds in space
 
-	WAVEDASH_PAGE2_TITLE=			Can't|Catch|That|Bird?
+	WAVEDASH_PAGE2_TITLE=			Não|Consegues|Apanhar|Aquele|Pássaro? Can't|Catch|That|Bird?
 	WAVEDASH_PAGE2_LIST=
-		-Fact: Birds are hard to catch{n}
-		-Wow. It's fast!{n}
-		-Also, it can fly{n}
-		-And {+PART_OF_YOU} won't help{n}
-		-(she's the worst)
+		-Facto: Pássaros são difíceis de apanhar{n}
+		-Uau. É rápido!{n}
+		-Ah, e também consegue voar.{n}
+		-E a {+PART_OF_YOU} não te quer ajudar{n}
+		-(ela não presta)
 
-	WAVEDASH_PAGE2_IMPOSSIBLE=		IMPOSSIBLE???
+	WAVEDASH_PAGE2_IMPOSSIBLE=		IMPOSSÍVEL???
 	
-	WAVEDASH_PAGE3_TITLE=			Introducing... Wavedashing!!
-	WAVEDASH_PAGE3_INFO=			With Wavedashing, you can jump very far{n}and regain your dash {~}at the same time!{/~}
-	WAVEDASH_PAGE3_EASY=			It's "easy!"
+	WAVEDASH_PAGE3_TITLE=			Apresentamos... Wavedashing!!
+	WAVEDASH_PAGE3_INFO=			Com Wavedashing, podes saltar muito longe{n} e ganhar o dash de volta {~}ao mesmo tempo!{/~}
+	WAVEDASH_PAGE3_EASY=			É "fácil!"
 
-	WAVEDASH_PAGE4_TITLE=			How It's Done
+	WAVEDASH_PAGE4_TITLE=			Como Se Faz
 	WAVEDASH_PAGE4_LIST=
-		-Jump{n}
-		-Dash diagonally down to the ground{n}
-		-Immediately jump again and hold forward{n}
-		-{~}You did it!{/~}{n}
-		-(go you)
+		-Salta{n}
+		-Faz um dash na diagonal para o chão{n}
+		-Imediatamente salta de novo e segura para a frente{n}
+		-{~}Conseguiste!{/~}{n}
+		-(és o melhor)
 	
-	WAVEDASH_PAGE5_TITLE=			Trouble in Paradise?
-	WAVEDASH_PAGE5_INFO1=			{#ff0000}If you don't regain your dash{#}{n}you're starting {~}too low{/~} to the ground.
-	WAVEDASH_PAGE5_INFO2=			{#ff0000}If you don't get much distance{#}{n}you're starting {~}too far{/~} from the ground.
+	WAVEDASH_PAGE5_TITLE=			Problemas no Paraíso?
+	WAVEDASH_PAGE5_INFO1=			{#ff0000}Se não ganhares do dash de volta{#}{n}estás a começar {~}demasiado perto{/~} do chão.
+	WAVEDASH_PAGE5_INFO2=			{#ff0000}Se não ganhares muita distância{#}{n}estás a começar {~}demasiado longe{/~} do chão.
 
-	WAVEDASH_PAGE6_TITLE=			Happy Wavedashing!
+	WAVEDASH_PAGE6_TITLE=			Feliz Wavedashing!
