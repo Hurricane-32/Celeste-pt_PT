@@ -4378,159 +4378,159 @@
 # *** Appendix ***
 
 	APP_INTRO=
-		About a year later...
+		Cerca de um ano depois...
 
 	APP_OLDLADY_A=
 		[GRANNY right normal]
-		Hey there, kiddo!
-		Nice to see you again.
+		Olá, miúda!
+		É bom ver-te outra vez.
 
 		{trigger 0}
 
 		[GRANNY right normal flip]
-		Here's the cave I told you about{n}on the phone.
+		Aqui está a caverna de que te falei{n} ao telefone.
 		
 		{silent_trigger 1}
 		
-		Follow me.
+		Segue-me.
 
 	APP_OLDLADY_B=
 		[MADELINE left sad]
-		What is this place?
+		Que lugar é este?
 
 		[GRANNY right normal]
-		This passage leads to the center of the {+MOUNTAIN}.
-		You said you wanted to come{n}back and explore deeper...
+		Esta passagem leva-te ao centro da {+MOUNTAIN}.
+		Disseste que querias voltar{n}e explorá-la mais a fundo...
 
 		{trigger 0 start laughing}
 
 		[GRANNY right laugh]
-		Doesn't get any deeper than this!
+		Não consegues ir muito mais fundo do que isto!
 
 		{trigger 1 stop laughing}
 
 		[GRANNY right normal]
-		Be careful, though.
-		When you get this close to the heart of the {+MOUNTAIN},{n}its power will start affectin' you differently.
+		Mas tem cuidado.
+		Quando chegas assim tão perto ao coração da {+MOUNTAIN},{n}o seu poder começa a afetar-te de forma diferente.
 
 		[MADELINE left sad]
-		Yeah, I already noticed some of that...
+		Sim, já dei por isso...
 
 		[GRANNY right normal]
-		Good luck in there.
+		Boa sorte lá dentro.
 
 	APP_OLDLADY_C=
 		[GRANNY right normal]
-		Where's that other {+PART_OF_YOU}?
+		Onde está aquela outra {+PART_OF_YOU}?
 
 		[MADELINE left sad]
-		I don't know... I expected her to show up by now.
+		Não sei... Esperava que ela já tivesse aparecido.
 
 		[MADELINE left distracted]
-		Maybe I've changed, and{n}she's not {+PART_OF_ME} anymore.
+		Talvez eu tenha mudado, e{n}ela já não faz {+PART_OF_ME}.
 
 		[GRANNY right normal]
-		Or maybe you've grown together.
-		Maybe it's not so easy for the{n}{+MOUNTAIN} to separate you now.
-		I'd wager she's still with you, in some form.
+		Ou então crescido juntas.
+		Talvez não seja tão fácil para a{n}{+MOUNTAIN} vos separar agora.
+		Eu aposto que ela ainda está contigo, de alguma forma.
 
 		[MADELINE left normal]
-		I like that theory better.
+		Gosto mais dessa teoria.
 
 		[MADELINE left distracted]
-		I still wish I could talk to her though.
+		Mas ainda gostava de poder falar com ela.
 
 	APP_OLDLADY_D=
 		[GRANNY right normal]
-		Do you keep in touch with {+THEO}?
+		Tens falado com o {+THEO}?
 
 		[MADELINE left normal]
-		Yeah, he spent the summer in Vancouver.
-		We got to spend some quality time together.
+		Sim, ele passou o verão em Vancouver.
+		Conseguimos passar um bom tempo juntos.
 
 		[GRANNY right normal]
-		What's he up to these days?
+		O que é que ele tem feito ultimamente?
 
 		[MADELINE left normal]
-		He's back in California with his family now.
-		He wants to be around while{n}his sister finishes law school.
+		Ele voltou para a Califórnia com a família.
+		Ele quer ficar por lá enquanto a{n}irmã dele acaba a faculdade de direito.
 
 		[MADELINE left sad]
-		It sounds pretty intense, but he{n}wants to be there to support her.
+		Parece ser bastante intenso, mas ele{n}quer estar lá para a apoiar.
 
 		[GRANNY right normal]
-		He seems like a nice young man.
+		Ele parece ser um jovem simpático.
 
 	APP_OLDLADY_E=
 		[MADELINE left normal]
-		It's been a while. How've you been?
+		Já faz algum tempo. Como é que tem estado?
 
 		[GRANNY right normal]
-		Oh, same old same old.
+		Ah, é a velha história de sempre.
 
 		{trigger 0 start laughing}
 
 		[GRANNY right laugh]
-		And in my case, that's pretty old.
+		E no meu caso, mete velha nisso.
 
 		{trigger 1 end laughing}
 
 		[GRANNY right normal]
-		I'm not gettin' any younger, that's for sure.
-		Some days, just keeping the{n}lights on can take all my energy.
-		The {+MOUNTAIN} still keeps me sharp, though.
+		Já não vou para nova, isso é de certeza.
+		Tem dias em que só de manter os{n}olhos abertos tira-me a energia.
+		No entanto a {+MOUNTAIN} ainda me mantém de pé.
 
 		[GRANNY right mock]
-		I'm not ready to give up the ghost anytime soon.
+		Ainda não é tão cedo que vou bater a bota.
 
 		[MADELINE left normal]
-		I'd expect no less from you.
+		Não esperava menos vindo de si.
 
 		[MADELINE left sad]
-		Take care of yourself.
+		Tenha cuidado consigo.
 
 	APP_OLDLADY_LOCKED=
 		[MADELINE left sad]
-		That door up ahead won't budge.
-		Is there another way in?
+		A porta ali à frente não se mexe.
+		Existe outra forma de entrar?
 
 		[GRANNY right normal]
-		I'm afraid not, dear.
+		Temo que não, querida.
 
 		[GRANNY right mock]
-		You think the {+MOUNTAIN} is gonna{n}start going easy on you now?
+		Achas mesmo que a {+MOUNTAIN} ia começar{n}a fazer-te a vida fácil a partir de agora?
 
 		[GRANNY right normal]
-		I guess it doesn't think you're ready yet.
+		Diria que ela pensa que ainda que não estás pronta.
 
 		[MADELINE left sad]
-		Okay, {+CELESTE_MOUNTAIN} might be {~}weird and magical.{/~}
+		Certo, a {+CELESTE_MOUNTAIN} pode ser {~}estranha e mágica.{/~}
 
 		[MADELINE left upset]
-		But now you're telling me it can {~}"think",{/~} too?
+		Mas agora está-me a querer dizer que ela também {~}"pensa"{/~}?
 
 		[GRANNY right normal]
-		It doesn't think like you or me.
-		It's like... how a river thinks to flow to the sea.
-		You can make it sound crazy if you want.
+		Ela não pensa como tu ou eu,
+		É como... um rio pensa em fluir em direção ao mar.
+		Podes fazê-lo parecer uma loucura se quiseres.
 
 		[MADELINE left upset]
-		I know better than to doubt you.
+		Sei melhor do que duvidar de si.
 
 		[MADELINE left sad]
-		How do I convince it I'm ready?
+		Como é que a convenço de que estou pronta?
 
 		[GRANNY right normal]
-		Heck if I know.
-		I'd retrace my steps, and really pay attention.
-		{+CELESTE_MOUNTAIN} must have more to teach you.
+		Sei lá eu.
+		Eu voltaria atrás, e prestava mesmo muita atenção.
+		A {+CELESTE_MOUNTAIN} ainda deve ter mais para te ensinar.
 
 	APP_ENDING=
-		...this is it?
-		This is what's at the center of all of this?
-		It's so empty... and vast...
-		Yet it feels nostalgic somehow.
-		And peaceful.
+		...é isto?
+		Isto é o que está ao centro disto tudo?
+		É tão vazio... e vasto...
+		Ainda assim sinto uma nostalgia de certa forma.
+		E paz.
 
 	CH9_GRAVESTONE=
 		[MADELINE left sad]
