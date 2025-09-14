@@ -10,7 +10,7 @@ Uma tradução livre, feita à mão e completamente _isenta_ de IA, com base na 
 
 ## Como Instalar
 
-A engine do Celeste deteta automaticamente novos ficheiros de linguagem e estes são integrados perfeitamente junto as línguas já existentes, pelo que nenhum ficheiro precisa de ser alterado ou substituído, apenas adicionado.
+A engine do Celeste deteta automaticamente novos ficheiros de linguagem e estes são integrados perfeitamente junto as línguas já existentes, pelo que nenhum ficheiro precisa de ser alterado ou substituído, apenas adicionado. Não são necessários mods como o Everest.
 
 1. Descarregar o ficheiro .zip deste repositório
 
