@@ -15,6 +15,8 @@ A engine do Celeste deteta automaticamente novos ficheiros de linguagem e estes 
 1. Descarregar o ficheiro .zip deste repositório
 
 2. Copiar e substituír a pasta "Content" para a pasta raíz de instalação do Celeste (ou colocar os ficheiros manualmente nas pastas respetivas)
+   - O ficheiro "European Portuguese.txt" deve ficar dentro da pasta "Dialog"
+   - O ficheiro "portugal-portuguese.png" deve ficar dentro da pasta "Icons", que por si está dentro da pasta "Dialog"
 
 3. Escolher "Português Portugal" no menu de idioma dentro do jogo
 
