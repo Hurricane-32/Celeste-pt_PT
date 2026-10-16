@@ -1209,7 +1209,7 @@
 
 	CH3_MEMO=
 		{big}Atenção funcionários do hotel:{/big}{n}{n}
-		É com a mais profunda tristeza que vos informo que o Hotel Resort Celestial irá ser encerrado definitivamente no final desta época, devido da motivos de força maior.{n}{n}
+		É com a mais profunda tristeza que vos informo que o Hotel Resort Celestial irá ser encerrado definitivamente no final desta época, devido a motivos de força maior.{n}{n}
 		Foi uma honra servir juntamente com vocês todos, enquanto trabalhámos arduamente para nos certificarmos que os nossos hóspedes desfrutaram ao máximo possível da nossa experiência hospitaleira e memorável.{n}{n}
 		Escrevo isto de coração pesado. Este hotel tornou-se a minha casa, os seus funcionários e hóspedes a minha família. Vou sentir muitas saudades de todos.{n}{n}
 		-Sr\. Oshiro
